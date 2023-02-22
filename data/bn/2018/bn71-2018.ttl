@@ -14111,7 +14111,7 @@ lexid:Permen_LU_2018_1_Article_1 lexid-s:isContentOf lexid:Permen_LU_2018_1 .
 lexid:Permen_LU_2018_1 lexid-s:hasContent lexid:Permen_LU_2018_1_Article_1 .
 lexid:Permen_LU_2018_1_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_1_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_LU_2018_1_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_LU_2018_1_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_LU_2018_1_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_1_Article_1 rdf:type owl:Thing .
 lexid:Permen_LU_2018_1_Article_2 lexid-s:isContentOf lexid:Permen_LU_2018_1 .
@@ -14120,7 +14120,7 @@ lexid:Permen_LU_2018_1_Article_2 lexid-s:isContentOf lexid:Permen_LU_2018_1 .
 lexid:Permen_LU_2018_1 lexid-s:hasContent lexid:Permen_LU_2018_1_Article_2 .
 lexid:Permen_LU_2018_1_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_1_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_LU_2018_1_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_LU_2018_1_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_LU_2018_1_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_1_Article_2 rdf:type owl:Thing .
 lexid:Permen_LU_2018_1_Article_3 lexid-s:isContentOf lexid:Permen_LU_2018_1 .
@@ -14131,7 +14131,7 @@ lexid:Permen_LU_2018_1_Section_3_1 lexid-s:isPartOf lexid:Permen_LU_2018_1_Artic
 lexid:Permen_LU_2018_1_Article_3 lexid-s:hasPart lexid:Permen_LU_2018_1_Section_3_1 .
 lexid:Permen_LU_2018_1_Section_3_1 rdf:type lexid-s:Section .
 lexid:Permen_LU_2018_1_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_LU_2018_1_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_LU_2018_1_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_LU_2018_1_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_1_Section_3_1 rdf:type owl:Thing .
 lexid:Permen_LU_2018_1_Section_3_2 lexid-s:isPartOf lexid:Permen_LU_2018_1_Article_3 .
@@ -14140,14 +14140,14 @@ lexid:Permen_LU_2018_1_Section_3_2 lexid-s:isPartOf lexid:Permen_LU_2018_1_Artic
 lexid:Permen_LU_2018_1_Article_3 lexid-s:hasPart lexid:Permen_LU_2018_1_Section_3_2 .
 lexid:Permen_LU_2018_1_Section_3_2 rdf:type lexid-s:Section .
 lexid:Permen_LU_2018_1_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_LU_2018_1_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_LU_2018_1_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_LU_2018_1_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_1_Section_3_2 rdf:type owl:Thing .
 lexid:Permen_LU_2018_1_Article_3 lexid-s:isContentOf lexid:Permen_LU_2018_1 .
 lexid:Permen_LU_2018_1 lexid-s:hasContent lexid:Permen_LU_2018_1_Article_3 .
 lexid:Permen_LU_2018_1_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_1_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_LU_2018_1_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_LU_2018_1_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_LU_2018_1_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_1_Article_3 rdf:type owl:Thing .
 lexid:Permen_LU_2018_1_Article_4 lexid-s:isContentOf lexid:Permen_LU_2018_1 .
@@ -14156,7 +14156,7 @@ lexid:Permen_LU_2018_1_Article_4 lexid-s:isContentOf lexid:Permen_LU_2018_1 .
 lexid:Permen_LU_2018_1 lexid-s:hasContent lexid:Permen_LU_2018_1_Article_4 .
 lexid:Permen_LU_2018_1_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_1_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_LU_2018_1_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_LU_2018_1_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_LU_2018_1_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_1_Article_4 rdf:type owl:Thing .
 lexid:Permen_LU_2018_1_Article_5 lexid-s:isContentOf lexid:Permen_LU_2018_1 .
@@ -14165,7 +14165,7 @@ lexid:Permen_LU_2018_1_Article_5 lexid-s:isContentOf lexid:Permen_LU_2018_1 .
 lexid:Permen_LU_2018_1 lexid-s:hasContent lexid:Permen_LU_2018_1_Article_5 .
 lexid:Permen_LU_2018_1_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_1_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_LU_2018_1_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_LU_2018_1_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_LU_2018_1_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_1_Article_5 rdf:type owl:Thing .
 lexid:Permen_LU_2018_2_Article_1 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
@@ -14174,7 +14174,7 @@ lexid:Permen_LU_2018_2_Article_1 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
 lexid:Permen_LU_2018_2 lexid-s:hasContent lexid:Permen_LU_2018_2_Article_1 .
 lexid:Permen_LU_2018_2_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_2_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_LU_2018_2_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_LU_2018_2_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_LU_2018_2_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_2_Article_1 rdf:type owl:Thing .
 lexid:Permen_LU_2018_2_Article_2 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
@@ -14183,7 +14183,7 @@ lexid:Permen_LU_2018_2_Article_2 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
 lexid:Permen_LU_2018_2 lexid-s:hasContent lexid:Permen_LU_2018_2_Article_2 .
 lexid:Permen_LU_2018_2_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_2_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_LU_2018_2_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_LU_2018_2_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_LU_2018_2_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_2_Article_2 rdf:type owl:Thing .
 lexid:Permen_LU_2018_2_Article_3 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
@@ -14192,7 +14192,7 @@ lexid:Permen_LU_2018_2_Article_3 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
 lexid:Permen_LU_2018_2 lexid-s:hasContent lexid:Permen_LU_2018_2_Article_3 .
 lexid:Permen_LU_2018_2_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_2_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_LU_2018_2_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_LU_2018_2_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_LU_2018_2_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_2_Article_3 rdf:type owl:Thing .
 lexid:Permen_LU_2018_2_Article_4 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
@@ -14201,7 +14201,7 @@ lexid:Permen_LU_2018_2_Article_4 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
 lexid:Permen_LU_2018_2 lexid-s:hasContent lexid:Permen_LU_2018_2_Article_4 .
 lexid:Permen_LU_2018_2_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_2_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_LU_2018_2_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_LU_2018_2_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_LU_2018_2_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_2_Article_4 rdf:type owl:Thing .
 lexid:Permen_LU_2018_2_Article_5 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
@@ -14210,7 +14210,7 @@ lexid:Permen_LU_2018_2_Article_5 lexid-s:isContentOf lexid:Permen_LU_2018_2 .
 lexid:Permen_LU_2018_2 lexid-s:hasContent lexid:Permen_LU_2018_2_Article_5 .
 lexid:Permen_LU_2018_2_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_LU_2018_2_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_LU_2018_2_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_LU_2018_2_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_LU_2018_2_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_LU_2018_2_Article_5 rdf:type owl:Thing .
 lexid:Permen_Dag_2018_08_Article_I lexid-s:adds lexid:Addition_1_By_Permen_Dag_2013_36 .
@@ -14266,7 +14266,7 @@ lexid:Permen_Dag_2013_36_Section_10A_1 lexid-s:isPartOf lexid:Permen_Dag_2013_36
 lexid:Permen_Dag_2013_36_Article_10A lexid-s:hasPart lexid:Permen_Dag_2013_36_Section_10A_1 .
 lexid:Permen_Dag_2013_36_Section_10A_1 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2013_36_Section_10A_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2013_36_Section_10A_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2013_36_Section_10A_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2013_36_Section_10A_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2013_36_Section_10A_1 rdf:type owl:Thing .
 lexid:Permen_Dag_2013_36_Section_10A_2 lexid-s:isPartOf lexid:Permen_Dag_2013_36_Article_10A .
@@ -14275,7 +14275,7 @@ lexid:Permen_Dag_2013_36_Section_10A_2 lexid-s:isPartOf lexid:Permen_Dag_2013_36
 lexid:Permen_Dag_2013_36_Article_10A lexid-s:hasPart lexid:Permen_Dag_2013_36_Section_10A_2 .
 lexid:Permen_Dag_2013_36_Section_10A_2 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2013_36_Section_10A_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2013_36_Section_10A_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2013_36_Section_10A_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2013_36_Section_10A_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2013_36_Section_10A_2 rdf:type owl:Thing .
 lexid:Permen_Dag_2013_36_Section_10A_3 lexid-s:isPartOf lexid:Permen_Dag_2013_36_Article_10A .
@@ -14284,7 +14284,7 @@ lexid:Permen_Dag_2013_36_Section_10A_3 lexid-s:isPartOf lexid:Permen_Dag_2013_36
 lexid:Permen_Dag_2013_36_Article_10A lexid-s:hasPart lexid:Permen_Dag_2013_36_Section_10A_3 .
 lexid:Permen_Dag_2013_36_Section_10A_3 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2013_36_Section_10A_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2013_36_Section_10A_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2013_36_Section_10A_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2013_36_Section_10A_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2013_36_Section_10A_3 rdf:type owl:Thing .
 lexid:Permen_Dag_2013_36_Section_10A_4 lexid-s:isPartOf lexid:Permen_Dag_2013_36_Article_10A .
@@ -14293,7 +14293,7 @@ lexid:Permen_Dag_2013_36_Section_10A_4 lexid-s:isPartOf lexid:Permen_Dag_2013_36
 lexid:Permen_Dag_2013_36_Article_10A lexid-s:hasPart lexid:Permen_Dag_2013_36_Section_10A_4 .
 lexid:Permen_Dag_2013_36_Section_10A_4 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2013_36_Section_10A_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Dag_2013_36_Section_10A_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Dag_2013_36_Section_10A_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Dag_2013_36_Section_10A_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2013_36_Section_10A_4 rdf:type owl:Thing .
 lexid:Permen_Dag_2013_36_Section_10A_5 lexid-s:isPartOf lexid:Permen_Dag_2013_36_Article_10A .
@@ -14302,7 +14302,7 @@ lexid:Permen_Dag_2013_36_Section_10A_5 lexid-s:isPartOf lexid:Permen_Dag_2013_36
 lexid:Permen_Dag_2013_36_Article_10A lexid-s:hasPart lexid:Permen_Dag_2013_36_Section_10A_5 .
 lexid:Permen_Dag_2013_36_Section_10A_5 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2013_36_Section_10A_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Dag_2013_36_Section_10A_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Dag_2013_36_Section_10A_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Dag_2013_36_Section_10A_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2013_36_Section_10A_5 rdf:type owl:Thing .
 lexid:Permen_Dag_2013_36_Section_13A_1_Modified_By_Permen_Dag_2018_08 lexid-s:isPartOf lexid:Permen_Dag_2013_36_Article_13A_Modified_By_Permen_Dag_2018_08 .
@@ -14311,7 +14311,7 @@ lexid:Permen_Dag_2013_36_Section_13A_1_Modified_By_Permen_Dag_2018_08 lexid-s:is
 lexid:Permen_Dag_2013_36_Article_13A_Modified_By_Permen_Dag_2018_08 lexid-s:hasPart lexid:Permen_Dag_2013_36_Section_13A_1_Modified_By_Permen_Dag_2018_08 .
 lexid:Permen_Dag_2013_36_Section_13A_1_Modified_By_Permen_Dag_2018_08 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2013_36_Section_13A_1_Modified_By_Permen_Dag_2018_08 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2013_36_Section_13A_1_Modified_By_Permen_Dag_2018_08 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2013_36_Section_13A_1_Modified_By_Permen_Dag_2018_08 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2013_36_Section_13A_1_Modified_By_Permen_Dag_2018_08 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2013_36_Section_13A_1_Modified_By_Permen_Dag_2018_08 rdf:type owl:Thing .
 lexid:Permen_Dag_2013_36_Section_13A_2_Modified_By_Permen_Dag_2018_08 lexid-s:isPartOf lexid:Permen_Dag_2013_36_Article_13A_Modified_By_Permen_Dag_2018_08 .
@@ -14320,7 +14320,7 @@ lexid:Permen_Dag_2013_36_Section_13A_2_Modified_By_Permen_Dag_2018_08 lexid-s:is
 lexid:Permen_Dag_2013_36_Article_13A_Modified_By_Permen_Dag_2018_08 lexid-s:hasPart lexid:Permen_Dag_2013_36_Section_13A_2_Modified_By_Permen_Dag_2018_08 .
 lexid:Permen_Dag_2013_36_Section_13A_2_Modified_By_Permen_Dag_2018_08 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2013_36_Section_13A_2_Modified_By_Permen_Dag_2018_08 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2013_36_Section_13A_2_Modified_By_Permen_Dag_2018_08 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2013_36_Section_13A_2_Modified_By_Permen_Dag_2018_08 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2013_36_Section_13A_2_Modified_By_Permen_Dag_2018_08 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2013_36_Section_13A_2_Modified_By_Permen_Dag_2018_08 rdf:type owl:Thing .
 lexid:Permen_Dag_2013_36_Section_13A_3_Modified_By_Permen_Dag_2018_08 lexid-s:isPartOf lexid:Permen_Dag_2013_36_Article_13A_Modified_By_Permen_Dag_2018_08 .
@@ -14329,7 +14329,7 @@ lexid:Permen_Dag_2013_36_Section_13A_3_Modified_By_Permen_Dag_2018_08 lexid-s:is
 lexid:Permen_Dag_2013_36_Article_13A_Modified_By_Permen_Dag_2018_08 lexid-s:hasPart lexid:Permen_Dag_2013_36_Section_13A_3_Modified_By_Permen_Dag_2018_08 .
 lexid:Permen_Dag_2013_36_Section_13A_3_Modified_By_Permen_Dag_2018_08 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2013_36_Section_13A_3_Modified_By_Permen_Dag_2018_08 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2013_36_Section_13A_3_Modified_By_Permen_Dag_2018_08 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2013_36_Section_13A_3_Modified_By_Permen_Dag_2018_08 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2013_36_Section_13A_3_Modified_By_Permen_Dag_2018_08 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2013_36_Section_13A_3_Modified_By_Permen_Dag_2018_08 rdf:type owl:Thing .
 lexid:Permen_Dag_2018_10_Article_I lexid-s:modifies lexid:Modification_1_By_Permen_Dag_2018_10 .
@@ -14429,7 +14429,7 @@ lexid:Permen_Dag_2007_06_Section_3_1_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3_1_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_3_1_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3_1_Modified_By_Permen_Dag_2018_10 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3_1_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3_1_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3_1_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3_1_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3_2_Modified_By_Permen_Dag_2018_10 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 .
@@ -14438,7 +14438,7 @@ lexid:Permen_Dag_2007_06_Section_3_2_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3_2_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_3_2_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3_2_Modified_By_Permen_Dag_2018_10 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3_2_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3_2_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3_2_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3_2_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3_3_Modified_By_Permen_Dag_2018_10 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 .
@@ -14447,7 +14447,7 @@ lexid:Permen_Dag_2007_06_Section_3_3_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3_3_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_3_3_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3_3_Modified_By_Permen_Dag_2018_10 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3_3_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3_3_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3_3_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3_3_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3_4_Modified_By_Permen_Dag_2018_10 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 .
@@ -14456,7 +14456,7 @@ lexid:Permen_Dag_2007_06_Section_3_4_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3_4_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_3_4_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3_4_Modified_By_Permen_Dag_2018_10 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3_4_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3_4_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3_4_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3_4_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3_5_Modified_By_Permen_Dag_2018_10 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 .
@@ -14465,7 +14465,7 @@ lexid:Permen_Dag_2007_06_Section_3_5_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3_5_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_3_5_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3_5_Modified_By_Permen_Dag_2018_10 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3_5_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3_5_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3_5_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3_5_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3_6_Modified_By_Permen_Dag_2018_10 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 .
@@ -14474,7 +14474,7 @@ lexid:Permen_Dag_2007_06_Section_3_6_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_3_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3_6_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_3_6_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3_6_Modified_By_Permen_Dag_2018_10 lexid-s:name "(6)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3_6_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3_6_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 6"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3_6_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3_6_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3A_1 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3A .
@@ -14483,7 +14483,7 @@ lexid:Permen_Dag_2007_06_Section_3A_1 lexid-s:isPartOf lexid:Permen_Dag_2007_06_
 lexid:Permen_Dag_2007_06_Article_3A lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3A_1 .
 lexid:Permen_Dag_2007_06_Section_3A_1 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3A_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3A_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3A_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3A_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3A_1 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3A_2 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3A .
@@ -14492,7 +14492,7 @@ lexid:Permen_Dag_2007_06_Section_3A_2 lexid-s:isPartOf lexid:Permen_Dag_2007_06_
 lexid:Permen_Dag_2007_06_Article_3A lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3A_2 .
 lexid:Permen_Dag_2007_06_Section_3A_2 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3A_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3A_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3A_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3A_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3A_2 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3A_3 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3A .
@@ -14501,7 +14501,7 @@ lexid:Permen_Dag_2007_06_Section_3A_3 lexid-s:isPartOf lexid:Permen_Dag_2007_06_
 lexid:Permen_Dag_2007_06_Article_3A lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3A_3 .
 lexid:Permen_Dag_2007_06_Section_3A_3 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3A_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3A_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3A_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3A_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3A_3 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3A_4 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3A .
@@ -14510,7 +14510,7 @@ lexid:Permen_Dag_2007_06_Section_3A_4 lexid-s:isPartOf lexid:Permen_Dag_2007_06_
 lexid:Permen_Dag_2007_06_Article_3A lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3A_4 .
 lexid:Permen_Dag_2007_06_Section_3A_4 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3A_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3A_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3A_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3A_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3A_4 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3A_5 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3A .
@@ -14519,7 +14519,7 @@ lexid:Permen_Dag_2007_06_Section_3A_5 lexid-s:isPartOf lexid:Permen_Dag_2007_06_
 lexid:Permen_Dag_2007_06_Article_3A lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3A_5 .
 lexid:Permen_Dag_2007_06_Section_3A_5 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3A_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3A_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3A_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3A_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3A_5 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3B_1 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3B .
@@ -14528,7 +14528,7 @@ lexid:Permen_Dag_2007_06_Section_3B_1 lexid-s:isPartOf lexid:Permen_Dag_2007_06_
 lexid:Permen_Dag_2007_06_Article_3B lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3B_1 .
 lexid:Permen_Dag_2007_06_Section_3B_1 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3B_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3B_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3B_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3B_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3B_1 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3B_2 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3B .
@@ -14537,7 +14537,7 @@ lexid:Permen_Dag_2007_06_Section_3B_2 lexid-s:isPartOf lexid:Permen_Dag_2007_06_
 lexid:Permen_Dag_2007_06_Article_3B lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3B_2 .
 lexid:Permen_Dag_2007_06_Section_3B_2 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3B_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3B_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3B_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3B_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3B_2 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_3B_3 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_3B .
@@ -14546,7 +14546,7 @@ lexid:Permen_Dag_2007_06_Section_3B_3 lexid-s:isPartOf lexid:Permen_Dag_2007_06_
 lexid:Permen_Dag_2007_06_Article_3B lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_3B_3 .
 lexid:Permen_Dag_2007_06_Section_3B_3 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_3B_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_3B_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_3B_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_3B_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_3B_3 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_7_1_Modified_By_Permen_Dag_2018_10 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_7_Modified_By_Permen_Dag_2018_10 .
@@ -14555,7 +14555,7 @@ lexid:Permen_Dag_2007_06_Section_7_1_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_7_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_7_1_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_7_1_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_7_1_Modified_By_Permen_Dag_2018_10 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_7_1_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_7_1_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_7_1_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_7_1_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_7_2_Modified_By_Permen_Dag_2018_10 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_7_Modified_By_Permen_Dag_2018_10 .
@@ -14564,7 +14564,7 @@ lexid:Permen_Dag_2007_06_Section_7_2_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_7_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_7_2_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_7_2_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_7_2_Modified_By_Permen_Dag_2018_10 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_7_2_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_7_2_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_7_2_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_7_2_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_7_3_Modified_By_Permen_Dag_2018_10 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_7_Modified_By_Permen_Dag_2018_10 .
@@ -14573,7 +14573,7 @@ lexid:Permen_Dag_2007_06_Section_7_3_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_7_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_7_3_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_7_3_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_7_3_Modified_By_Permen_Dag_2018_10 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_7_3_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_7_3_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_7_3_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_7_3_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2007_06_Section_7_4_Modified_By_Permen_Dag_2018_10 lexid-s:isPartOf lexid:Permen_Dag_2007_06_Article_7_Modified_By_Permen_Dag_2018_10 .
@@ -14582,7 +14582,7 @@ lexid:Permen_Dag_2007_06_Section_7_4_Modified_By_Permen_Dag_2018_10 lexid-s:isPa
 lexid:Permen_Dag_2007_06_Article_7_Modified_By_Permen_Dag_2018_10 lexid-s:hasPart lexid:Permen_Dag_2007_06_Section_7_4_Modified_By_Permen_Dag_2018_10 .
 lexid:Permen_Dag_2007_06_Section_7_4_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2007_06_Section_7_4_Modified_By_Permen_Dag_2018_10 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Dag_2007_06_Section_7_4_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Dag_2007_06_Section_7_4_Modified_By_Permen_Dag_2018_10 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Dag_2007_06_Section_7_4_Modified_By_Permen_Dag_2018_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2007_06_Section_7_4_Modified_By_Permen_Dag_2018_10 rdf:type owl:Thing .
 lexid:Permen_Dag_2018_09_Article_I lexid-s:adds lexid:Addition_1_By_Permen_Dag_2009_40 .
@@ -14658,7 +14658,7 @@ lexid:Permen_Dag_2009_40_Section_3A_1 lexid-s:isPartOf lexid:Permen_Dag_2009_40_
 lexid:Permen_Dag_2009_40_Article_3A lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_3A_1 .
 lexid:Permen_Dag_2009_40_Section_3A_1 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_3A_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_3A_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_3A_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_3A_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_3A_1 rdf:type owl:Thing .
 lexid:Permen_Dag_2009_40_Section_3A_2 lexid-s:isPartOf lexid:Permen_Dag_2009_40_Article_3A .
@@ -14667,7 +14667,7 @@ lexid:Permen_Dag_2009_40_Section_3A_2 lexid-s:isPartOf lexid:Permen_Dag_2009_40_
 lexid:Permen_Dag_2009_40_Article_3A lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_3A_2 .
 lexid:Permen_Dag_2009_40_Section_3A_2 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_3A_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_3A_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_3A_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_3A_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_3A_2 rdf:type owl:Thing .
 lexid:Permen_Dag_2009_40_Section_3A_3 lexid-s:isPartOf lexid:Permen_Dag_2009_40_Article_3A .
@@ -14676,7 +14676,7 @@ lexid:Permen_Dag_2009_40_Section_3A_3 lexid-s:isPartOf lexid:Permen_Dag_2009_40_
 lexid:Permen_Dag_2009_40_Article_3A lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_3A_3 .
 lexid:Permen_Dag_2009_40_Section_3A_3 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_3A_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_3A_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_3A_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_3A_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_3A_3 rdf:type owl:Thing .
 lexid:Permen_Dag_2009_40_Section_3A_4 lexid-s:isPartOf lexid:Permen_Dag_2009_40_Article_3A .
@@ -14685,7 +14685,7 @@ lexid:Permen_Dag_2009_40_Section_3A_4 lexid-s:isPartOf lexid:Permen_Dag_2009_40_
 lexid:Permen_Dag_2009_40_Article_3A lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_3A_4 .
 lexid:Permen_Dag_2009_40_Section_3A_4 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_3A_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_3A_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_3A_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_3A_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_3A_4 rdf:type owl:Thing .
 lexid:Permen_Dag_2009_40_Section_3A_5 lexid-s:isPartOf lexid:Permen_Dag_2009_40_Article_3A .
@@ -14694,7 +14694,7 @@ lexid:Permen_Dag_2009_40_Section_3A_5 lexid-s:isPartOf lexid:Permen_Dag_2009_40_
 lexid:Permen_Dag_2009_40_Article_3A lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_3A_5 .
 lexid:Permen_Dag_2009_40_Section_3A_5 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_3A_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_3A_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_3A_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_3A_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_3A_5 rdf:type owl:Thing .
 lexid:Permen_Dag_2009_40_Section_5_1_Modified_By_Permen_Dag_2018_09 lexid-s:isPartOf lexid:Permen_Dag_2009_40_Article_5_Modified_By_Permen_Dag_2018_09 .
@@ -14703,7 +14703,7 @@ lexid:Permen_Dag_2009_40_Section_5_1_Modified_By_Permen_Dag_2018_09 lexid-s:isPa
 lexid:Permen_Dag_2009_40_Article_5_Modified_By_Permen_Dag_2018_09 lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_5_1_Modified_By_Permen_Dag_2018_09 .
 lexid:Permen_Dag_2009_40_Section_5_1_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_5_1_Modified_By_Permen_Dag_2018_09 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_5_1_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_5_1_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_5_1_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_5_1_Modified_By_Permen_Dag_2018_09 rdf:type owl:Thing .
 lexid:Permen_Dag_2009_40_Section_5_2_Modified_By_Permen_Dag_2018_09 lexid-s:isPartOf lexid:Permen_Dag_2009_40_Article_5_Modified_By_Permen_Dag_2018_09 .
@@ -14712,7 +14712,7 @@ lexid:Permen_Dag_2009_40_Section_5_2_Modified_By_Permen_Dag_2018_09 lexid-s:isPa
 lexid:Permen_Dag_2009_40_Article_5_Modified_By_Permen_Dag_2018_09 lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_5_2_Modified_By_Permen_Dag_2018_09 .
 lexid:Permen_Dag_2009_40_Section_5_2_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_5_2_Modified_By_Permen_Dag_2018_09 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_5_2_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_5_2_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_5_2_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_5_2_Modified_By_Permen_Dag_2018_09 rdf:type owl:Thing .
 lexid:Permen_Dag_2009_40_Section_9A_1_Modified_By_Permen_Dag_2018_09 lexid-s:isPartOf lexid:Permen_Dag_2009_40_Article_9A_Modified_By_Permen_Dag_2018_09 .
@@ -14721,7 +14721,7 @@ lexid:Permen_Dag_2009_40_Section_9A_1_Modified_By_Permen_Dag_2018_09 lexid-s:isP
 lexid:Permen_Dag_2009_40_Article_9A_Modified_By_Permen_Dag_2018_09 lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_9A_1_Modified_By_Permen_Dag_2018_09 .
 lexid:Permen_Dag_2009_40_Section_9A_1_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_9A_1_Modified_By_Permen_Dag_2018_09 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_9A_1_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_9A_1_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_9A_1_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_9A_1_Modified_By_Permen_Dag_2018_09 rdf:type owl:Thing .
 lexid:Permen_Dag_2009_40_Section_9A_2_Modified_By_Permen_Dag_2018_09 lexid-s:isPartOf lexid:Permen_Dag_2009_40_Article_9A_Modified_By_Permen_Dag_2018_09 .
@@ -14730,7 +14730,7 @@ lexid:Permen_Dag_2009_40_Section_9A_2_Modified_By_Permen_Dag_2018_09 lexid-s:isP
 lexid:Permen_Dag_2009_40_Article_9A_Modified_By_Permen_Dag_2018_09 lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_9A_2_Modified_By_Permen_Dag_2018_09 .
 lexid:Permen_Dag_2009_40_Section_9A_2_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_9A_2_Modified_By_Permen_Dag_2018_09 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_9A_2_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_9A_2_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_9A_2_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_9A_2_Modified_By_Permen_Dag_2018_09 rdf:type owl:Thing .
 lexid:Permen_Dag_2009_40_Section_9A_3_Modified_By_Permen_Dag_2018_09 lexid-s:isPartOf lexid:Permen_Dag_2009_40_Article_9A_Modified_By_Permen_Dag_2018_09 .
@@ -14739,7 +14739,7 @@ lexid:Permen_Dag_2009_40_Section_9A_3_Modified_By_Permen_Dag_2018_09 lexid-s:isP
 lexid:Permen_Dag_2009_40_Article_9A_Modified_By_Permen_Dag_2018_09 lexid-s:hasPart lexid:Permen_Dag_2009_40_Section_9A_3_Modified_By_Permen_Dag_2018_09 .
 lexid:Permen_Dag_2009_40_Section_9A_3_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2009_40_Section_9A_3_Modified_By_Permen_Dag_2018_09 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2009_40_Section_9A_3_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2009_40_Section_9A_3_Modified_By_Permen_Dag_2018_09 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2009_40_Section_9A_3_Modified_By_Permen_Dag_2018_09 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2009_40_Section_9A_3_Modified_By_Permen_Dag_2018_09 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Article_1 lexid-s:isContentOf lexid:Peraturan_Bappebti_2018_1 .
@@ -14748,7 +14748,7 @@ lexid:Peraturan_Bappebti_2018_1_Article_1 lexid-s:isContentOf lexid:Peraturan_Ba
 lexid:Peraturan_Bappebti_2018_1 lexid-s:hasContent lexid:Peraturan_Bappebti_2018_1_Article_1 .
 lexid:Peraturan_Bappebti_2018_1_Article_1 rdf:type lexid-s:Article .
 lexid:Peraturan_Bappebti_2018_1_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Article_1 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Article_2 lexid-s:isContentOf lexid:Peraturan_Bappebti_2018_1 .
@@ -14759,7 +14759,7 @@ lexid:Peraturan_Bappebti_2018_1_Section_2_1 lexid-s:isPartOf lexid:Peraturan_Bap
 lexid:Peraturan_Bappebti_2018_1_Article_2 lexid-s:hasPart lexid:Peraturan_Bappebti_2018_1_Section_2_1 .
 lexid:Peraturan_Bappebti_2018_1_Section_2_1 rdf:type lexid-s:Section .
 lexid:Peraturan_Bappebti_2018_1_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Section_2_1 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Section_2_2 lexid-s:isPartOf lexid:Peraturan_Bappebti_2018_1_Article_2 .
@@ -14768,7 +14768,7 @@ lexid:Peraturan_Bappebti_2018_1_Section_2_2 lexid-s:isPartOf lexid:Peraturan_Bap
 lexid:Peraturan_Bappebti_2018_1_Article_2 lexid-s:hasPart lexid:Peraturan_Bappebti_2018_1_Section_2_2 .
 lexid:Peraturan_Bappebti_2018_1_Section_2_2 rdf:type lexid-s:Section .
 lexid:Peraturan_Bappebti_2018_1_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Section_2_2 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Section_2_3 lexid-s:isPartOf lexid:Peraturan_Bappebti_2018_1_Article_2 .
@@ -14777,14 +14777,14 @@ lexid:Peraturan_Bappebti_2018_1_Section_2_3 lexid-s:isPartOf lexid:Peraturan_Bap
 lexid:Peraturan_Bappebti_2018_1_Article_2 lexid-s:hasPart lexid:Peraturan_Bappebti_2018_1_Section_2_3 .
 lexid:Peraturan_Bappebti_2018_1_Section_2_3 rdf:type lexid-s:Section .
 lexid:Peraturan_Bappebti_2018_1_Section_2_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Section_2_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Section_2_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Section_2_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Section_2_3 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Article_2 lexid-s:isContentOf lexid:Peraturan_Bappebti_2018_1 .
 lexid:Peraturan_Bappebti_2018_1 lexid-s:hasContent lexid:Peraturan_Bappebti_2018_1_Article_2 .
 lexid:Peraturan_Bappebti_2018_1_Article_2 rdf:type lexid-s:Article .
 lexid:Peraturan_Bappebti_2018_1_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Article_2 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Article_3 lexid-s:isContentOf lexid:Peraturan_Bappebti_2018_1 .
@@ -14795,7 +14795,7 @@ lexid:Peraturan_Bappebti_2018_1_Section_3_1 lexid-s:isPartOf lexid:Peraturan_Bap
 lexid:Peraturan_Bappebti_2018_1_Article_3 lexid-s:hasPart lexid:Peraturan_Bappebti_2018_1_Section_3_1 .
 lexid:Peraturan_Bappebti_2018_1_Section_3_1 rdf:type lexid-s:Section .
 lexid:Peraturan_Bappebti_2018_1_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Section_3_1 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Section_3_2 lexid-s:isPartOf lexid:Peraturan_Bappebti_2018_1_Article_3 .
@@ -14804,14 +14804,14 @@ lexid:Peraturan_Bappebti_2018_1_Section_3_2 lexid-s:isPartOf lexid:Peraturan_Bap
 lexid:Peraturan_Bappebti_2018_1_Article_3 lexid-s:hasPart lexid:Peraturan_Bappebti_2018_1_Section_3_2 .
 lexid:Peraturan_Bappebti_2018_1_Section_3_2 rdf:type lexid-s:Section .
 lexid:Peraturan_Bappebti_2018_1_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Section_3_2 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Article_3 lexid-s:isContentOf lexid:Peraturan_Bappebti_2018_1 .
 lexid:Peraturan_Bappebti_2018_1 lexid-s:hasContent lexid:Peraturan_Bappebti_2018_1_Article_3 .
 lexid:Peraturan_Bappebti_2018_1_Article_3 rdf:type lexid-s:Article .
 lexid:Peraturan_Bappebti_2018_1_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Article_3 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Article_4 lexid-s:isContentOf lexid:Peraturan_Bappebti_2018_1 .
@@ -14820,7 +14820,7 @@ lexid:Peraturan_Bappebti_2018_1_Article_4 lexid-s:isContentOf lexid:Peraturan_Ba
 lexid:Peraturan_Bappebti_2018_1 lexid-s:hasContent lexid:Peraturan_Bappebti_2018_1_Article_4 .
 lexid:Peraturan_Bappebti_2018_1_Article_4 rdf:type lexid-s:Article .
 lexid:Peraturan_Bappebti_2018_1_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Article_4 rdf:type owl:Thing .
 lexid:Peraturan_Bappebti_2018_1_Article_5 lexid-s:isContentOf lexid:Peraturan_Bappebti_2018_1 .
@@ -14829,7 +14829,7 @@ lexid:Peraturan_Bappebti_2018_1_Article_5 lexid-s:isContentOf lexid:Peraturan_Ba
 lexid:Peraturan_Bappebti_2018_1 lexid-s:hasContent lexid:Peraturan_Bappebti_2018_1_Article_5 .
 lexid:Peraturan_Bappebti_2018_1_Article_5 rdf:type lexid-s:Article .
 lexid:Peraturan_Bappebti_2018_1_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Peraturan_Bappebti_2018_1_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Peraturan_Bappebti_2018_1_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Peraturan_Bappebti_2018_1_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Peraturan_Bappebti_2018_1_Article_5 rdf:type owl:Thing .
 lexid:Permen_Par_2018_1_Article_I lexid-s:modifies lexid:Modification_1_By_Permen_Par_2018_1 .
@@ -14863,7 +14863,7 @@ lexid:Permen_Humham_2017_39_Article_1 lexid-s:isPartOf lexid:Permen_Humham_2017_
 lexid:Permen_Humham_2017_39_Chapter_I lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_1 .
 lexid:Permen_Humham_2017_39_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_1 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_2 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_I .
@@ -14872,7 +14872,7 @@ lexid:Permen_Humham_2017_39_Article_2 lexid-s:isPartOf lexid:Permen_Humham_2017_
 lexid:Permen_Humham_2017_39_Chapter_I lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_2 .
 lexid:Permen_Humham_2017_39_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_2 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_3 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_I .
@@ -14881,7 +14881,7 @@ lexid:Permen_Humham_2017_39_Article_3 lexid-s:isPartOf lexid:Permen_Humham_2017_
 lexid:Permen_Humham_2017_39_Chapter_I lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_3 .
 lexid:Permen_Humham_2017_39_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_3 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Chapter_I lexid-s:isContentOf lexid:Permen_Humham_2017_39 .
@@ -14899,7 +14899,7 @@ lexid:Permen_Humham_2017_39_Article_4 lexid-s:isPartOf lexid:Permen_Humham_2017_
 lexid:Permen_Humham_2017_39_Chapter_II lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_4 .
 lexid:Permen_Humham_2017_39_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_4 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Chapter_II lexid-s:isContentOf lexid:Permen_Humham_2017_39 .
@@ -14919,7 +14919,7 @@ lexid:Permen_Humham_2017_39_Section_5_1 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_5 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_5_1 .
 lexid:Permen_Humham_2017_39_Section_5_1 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_5_1 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_5_2 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_5 .
@@ -14928,7 +14928,7 @@ lexid:Permen_Humham_2017_39_Section_5_2 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_5 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_5_2 .
 lexid:Permen_Humham_2017_39_Section_5_2 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_5_2 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_5_3 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_5 .
@@ -14937,7 +14937,7 @@ lexid:Permen_Humham_2017_39_Section_5_3 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_5 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_5_3 .
 lexid:Permen_Humham_2017_39_Section_5_3 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_5_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_5_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_5_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_5_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_5_3 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_5_4 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_5 .
@@ -14946,7 +14946,7 @@ lexid:Permen_Humham_2017_39_Section_5_4 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_5 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_5_4 .
 lexid:Permen_Humham_2017_39_Section_5_4 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_5_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_5_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_5_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_5_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_5_4 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_5_5 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_5 .
@@ -14955,14 +14955,14 @@ lexid:Permen_Humham_2017_39_Section_5_5 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_5 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_5_5 .
 lexid:Permen_Humham_2017_39_Section_5_5 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_5_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_5_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_5_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_5_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_5_5 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_5 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_III .
 lexid:Permen_Humham_2017_39_Chapter_III lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_5 .
 lexid:Permen_Humham_2017_39_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_5 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_6 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_III .
@@ -14973,7 +14973,7 @@ lexid:Permen_Humham_2017_39_Section_6_1 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_6 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_6_1 .
 lexid:Permen_Humham_2017_39_Section_6_1 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_6_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_6_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_6_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_6_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_6_1 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_6_2 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_6 .
@@ -14982,14 +14982,14 @@ lexid:Permen_Humham_2017_39_Section_6_2 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_6 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_6_2 .
 lexid:Permen_Humham_2017_39_Section_6_2 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_6_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_6_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_6_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_6_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_6_2 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_6 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_III .
 lexid:Permen_Humham_2017_39_Chapter_III lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_6 .
 lexid:Permen_Humham_2017_39_Article_6 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_6 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_7 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_III .
@@ -15000,7 +15000,7 @@ lexid:Permen_Humham_2017_39_Section_7_1 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_7 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_7_1 .
 lexid:Permen_Humham_2017_39_Section_7_1 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_7_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_7_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_7_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_7_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_7_1 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_7_2 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_7 .
@@ -15009,7 +15009,7 @@ lexid:Permen_Humham_2017_39_Section_7_2 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_7 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_7_2 .
 lexid:Permen_Humham_2017_39_Section_7_2 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_7_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_7_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_7_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_7_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_7_2 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_7_3 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_7 .
@@ -15018,7 +15018,7 @@ lexid:Permen_Humham_2017_39_Section_7_3 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_7 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_7_3 .
 lexid:Permen_Humham_2017_39_Section_7_3 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_7_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_7_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_7_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_7_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_7_3 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_7_4 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_7 .
@@ -15027,7 +15027,7 @@ lexid:Permen_Humham_2017_39_Section_7_4 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_7 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_7_4 .
 lexid:Permen_Humham_2017_39_Section_7_4 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_7_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_7_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_7_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_7_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_7_4 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_7_5 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_7 .
@@ -15036,7 +15036,7 @@ lexid:Permen_Humham_2017_39_Section_7_5 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_7 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_7_5 .
 lexid:Permen_Humham_2017_39_Section_7_5 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_7_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_7_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_7_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_7_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_7_5 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_7_6 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_7 .
@@ -15045,14 +15045,14 @@ lexid:Permen_Humham_2017_39_Section_7_6 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_7 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_7_6 .
 lexid:Permen_Humham_2017_39_Section_7_6 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_7_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_7_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_7_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_7_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_7_6 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_7 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_III .
 lexid:Permen_Humham_2017_39_Chapter_III lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_7 .
 lexid:Permen_Humham_2017_39_Article_7 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_7 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_8 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_III .
@@ -15063,7 +15063,7 @@ lexid:Permen_Humham_2017_39_Section_8_1 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_8 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_8_1 .
 lexid:Permen_Humham_2017_39_Section_8_1 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_8_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_8_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_8_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_8_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_8_1 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_8_2 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_8 .
@@ -15072,7 +15072,7 @@ lexid:Permen_Humham_2017_39_Section_8_2 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_8 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_8_2 .
 lexid:Permen_Humham_2017_39_Section_8_2 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_8_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_8_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_8_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_8_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_8_2 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_8_3 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_8 .
@@ -15081,7 +15081,7 @@ lexid:Permen_Humham_2017_39_Section_8_3 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_8 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_8_3 .
 lexid:Permen_Humham_2017_39_Section_8_3 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_8_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_8_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_8_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_8_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_8_3 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Section_8_4 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Article_8 .
@@ -15090,14 +15090,14 @@ lexid:Permen_Humham_2017_39_Section_8_4 lexid-s:isPartOf lexid:Permen_Humham_201
 lexid:Permen_Humham_2017_39_Article_8 lexid-s:hasPart lexid:Permen_Humham_2017_39_Section_8_4 .
 lexid:Permen_Humham_2017_39_Section_8_4 rdf:type lexid-s:Section .
 lexid:Permen_Humham_2017_39_Section_8_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Humham_2017_39_Section_8_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Humham_2017_39_Section_8_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Humham_2017_39_Section_8_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Section_8_4 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_8 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_III .
 lexid:Permen_Humham_2017_39_Chapter_III lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_8 .
 lexid:Permen_Humham_2017_39_Article_8 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_8 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_9 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_III .
@@ -15106,7 +15106,7 @@ lexid:Permen_Humham_2017_39_Article_9 lexid-s:isPartOf lexid:Permen_Humham_2017_
 lexid:Permen_Humham_2017_39_Chapter_III lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_9 .
 lexid:Permen_Humham_2017_39_Article_9 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_9 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Chapter_III lexid-s:isContentOf lexid:Permen_Humham_2017_39 .
@@ -15124,7 +15124,7 @@ lexid:Permen_Humham_2017_39_Article_11 lexid-s:isPartOf lexid:Permen_Humham_2017
 lexid:Permen_Humham_2017_39_Chapter_IV lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_11 .
 lexid:Permen_Humham_2017_39_Article_11 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_11 lexid-s:name "Pasal 11"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_11 rdfs:label "Pasal 11 : Pasal 11"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_11 rdfs:label "Pasal 11"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_11 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Article_12 lexid-s:isPartOf lexid:Permen_Humham_2017_39_Chapter_IV .
@@ -15133,7 +15133,7 @@ lexid:Permen_Humham_2017_39_Article_12 lexid-s:isPartOf lexid:Permen_Humham_2017
 lexid:Permen_Humham_2017_39_Chapter_IV lexid-s:hasPart lexid:Permen_Humham_2017_39_Article_12 .
 lexid:Permen_Humham_2017_39_Article_12 rdf:type lexid-s:Article .
 lexid:Permen_Humham_2017_39_Article_12 lexid-s:name "Pasal 12"^^xsd:string .
-lexid:Permen_Humham_2017_39_Article_12 rdfs:label "Pasal 12 : Pasal 12"^^xsd:string .
+lexid:Permen_Humham_2017_39_Article_12 rdfs:label "Pasal 12"^^xsd:string .
 lexid:Permen_Humham_2017_39_Article_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Humham_2017_39_Article_12 rdf:type owl:Thing .
 lexid:Permen_Humham_2017_39_Chapter_IV lexid-s:isContentOf lexid:Permen_Humham_2017_39 .
@@ -15256,7 +15256,7 @@ lexid:Permen_Dag_2005_10_Section_15_1_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_15_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_15_1_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_15_1_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_15_1_Modified_By_Permen_Dag_2018_11 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_15_1_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_15_1_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_15_1_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_15_1_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_15_2_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_15_Modified_By_Permen_Dag_2018_11 .
@@ -15265,7 +15265,7 @@ lexid:Permen_Dag_2005_10_Section_15_2_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_15_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_15_2_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_15_2_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_15_2_Modified_By_Permen_Dag_2018_11 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_15_2_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_15_2_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_15_2_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_15_2_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_15_3_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_15_Modified_By_Permen_Dag_2018_11 .
@@ -15274,7 +15274,7 @@ lexid:Permen_Dag_2005_10_Section_15_3_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_15_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_15_3_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_15_3_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_15_3_Modified_By_Permen_Dag_2018_11 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_15_3_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_15_3_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_15_3_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_15_3_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_15_4_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_15_Modified_By_Permen_Dag_2018_11 .
@@ -15283,7 +15283,7 @@ lexid:Permen_Dag_2005_10_Section_15_4_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_15_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_15_4_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_15_4_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_15_4_Modified_By_Permen_Dag_2018_11 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_15_4_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_15_4_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_15_4_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_15_4_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_15_5_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_15_Modified_By_Permen_Dag_2018_11 .
@@ -15292,7 +15292,7 @@ lexid:Permen_Dag_2005_10_Section_15_5_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_15_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_15_5_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_15_5_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_15_5_Modified_By_Permen_Dag_2018_11 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_15_5_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_15_5_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_15_5_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_15_5_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_22A_1 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_22A .
@@ -15301,7 +15301,7 @@ lexid:Permen_Dag_2005_10_Section_22A_1 lexid-s:isPartOf lexid:Permen_Dag_2005_10
 lexid:Permen_Dag_2005_10_Article_22A lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_22A_1 .
 lexid:Permen_Dag_2005_10_Section_22A_1 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_22A_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_22A_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_22A_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_22A_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_22A_1 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_22A_2 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_22A .
@@ -15310,7 +15310,7 @@ lexid:Permen_Dag_2005_10_Section_22A_2 lexid-s:isPartOf lexid:Permen_Dag_2005_10
 lexid:Permen_Dag_2005_10_Article_22A lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_22A_2 .
 lexid:Permen_Dag_2005_10_Section_22A_2 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_22A_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_22A_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_22A_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_22A_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_22A_2 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_22A_3 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_22A .
@@ -15319,7 +15319,7 @@ lexid:Permen_Dag_2005_10_Section_22A_3 lexid-s:isPartOf lexid:Permen_Dag_2005_10
 lexid:Permen_Dag_2005_10_Article_22A lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_22A_3 .
 lexid:Permen_Dag_2005_10_Section_22A_3 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_22A_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_22A_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_22A_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_22A_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_22A_3 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_23_1_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_23_Modified_By_Permen_Dag_2018_11 .
@@ -15328,7 +15328,7 @@ lexid:Permen_Dag_2005_10_Section_23_1_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_23_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_23_1_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_23_1_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_23_1_Modified_By_Permen_Dag_2018_11 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_23_1_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_23_1_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_23_1_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_23_1_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_23_2_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_23_Modified_By_Permen_Dag_2018_11 .
@@ -15337,7 +15337,7 @@ lexid:Permen_Dag_2005_10_Section_23_2_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_23_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_23_2_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_23_2_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_23_2_Modified_By_Permen_Dag_2018_11 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_23_2_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_23_2_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_23_2_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_23_2_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_23_3_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_23_Modified_By_Permen_Dag_2018_11 .
@@ -15346,7 +15346,7 @@ lexid:Permen_Dag_2005_10_Section_23_3_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_23_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_23_3_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_23_3_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_23_3_Modified_By_Permen_Dag_2018_11 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_23_3_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_23_3_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_23_3_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_23_3_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_23_4_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_23_Modified_By_Permen_Dag_2018_11 .
@@ -15355,7 +15355,7 @@ lexid:Permen_Dag_2005_10_Section_23_4_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_23_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_23_4_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_23_4_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_23_4_Modified_By_Permen_Dag_2018_11 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_23_4_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_23_4_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_23_4_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_23_4_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_23A_1 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_23A .
@@ -15364,7 +15364,7 @@ lexid:Permen_Dag_2005_10_Section_23A_1 lexid-s:isPartOf lexid:Permen_Dag_2005_10
 lexid:Permen_Dag_2005_10_Article_23A lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_23A_1 .
 lexid:Permen_Dag_2005_10_Section_23A_1 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_23A_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_23A_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_23A_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_23A_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_23A_1 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_23A_2 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_23A .
@@ -15373,7 +15373,7 @@ lexid:Permen_Dag_2005_10_Section_23A_2 lexid-s:isPartOf lexid:Permen_Dag_2005_10
 lexid:Permen_Dag_2005_10_Article_23A lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_23A_2 .
 lexid:Permen_Dag_2005_10_Section_23A_2 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_23A_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_23A_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_23A_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_23A_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_23A_2 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_24_1_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_24_Modified_By_Permen_Dag_2018_11 .
@@ -15382,7 +15382,7 @@ lexid:Permen_Dag_2005_10_Section_24_1_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_24_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_24_1_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_24_1_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_24_1_Modified_By_Permen_Dag_2018_11 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_24_1_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_24_1_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_24_1_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_24_1_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2005_10_Section_24_2_Modified_By_Permen_Dag_2018_11 lexid-s:isPartOf lexid:Permen_Dag_2005_10_Article_24_Modified_By_Permen_Dag_2018_11 .
@@ -15391,7 +15391,7 @@ lexid:Permen_Dag_2005_10_Section_24_2_Modified_By_Permen_Dag_2018_11 lexid-s:isP
 lexid:Permen_Dag_2005_10_Article_24_Modified_By_Permen_Dag_2018_11 lexid-s:hasPart lexid:Permen_Dag_2005_10_Section_24_2_Modified_By_Permen_Dag_2018_11 .
 lexid:Permen_Dag_2005_10_Section_24_2_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2005_10_Section_24_2_Modified_By_Permen_Dag_2018_11 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2005_10_Section_24_2_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2005_10_Section_24_2_Modified_By_Permen_Dag_2018_11 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2005_10_Section_24_2_Modified_By_Permen_Dag_2018_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2005_10_Section_24_2_Modified_By_Permen_Dag_2018_11 rdf:type owl:Thing .
 lexid:Permen_Dag_2018_12_Article_I lexid-s:modifies lexid:Modification_1_By_Permen_Dag_2018_12 .
@@ -15479,7 +15479,7 @@ lexid:Permen_Dag_2015_87_Section_9A_1 lexid-s:isPartOf lexid:Permen_Dag_2015_87_
 lexid:Permen_Dag_2015_87_Article_9A lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_9A_1 .
 lexid:Permen_Dag_2015_87_Section_9A_1 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_9A_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_9A_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_9A_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_9A_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_9A_1 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_9A_2 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_9A .
@@ -15488,7 +15488,7 @@ lexid:Permen_Dag_2015_87_Section_9A_2 lexid-s:isPartOf lexid:Permen_Dag_2015_87_
 lexid:Permen_Dag_2015_87_Article_9A lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_9A_2 .
 lexid:Permen_Dag_2015_87_Section_9A_2 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_9A_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_9A_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_9A_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_9A_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_9A_2 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_9A_3 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_9A .
@@ -15497,7 +15497,7 @@ lexid:Permen_Dag_2015_87_Section_9A_3 lexid-s:isPartOf lexid:Permen_Dag_2015_87_
 lexid:Permen_Dag_2015_87_Article_9A lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_9A_3 .
 lexid:Permen_Dag_2015_87_Section_9A_3 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_9A_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_9A_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_9A_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_9A_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_9A_3 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_9A_4 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_9A .
@@ -15506,7 +15506,7 @@ lexid:Permen_Dag_2015_87_Section_9A_4 lexid-s:isPartOf lexid:Permen_Dag_2015_87_
 lexid:Permen_Dag_2015_87_Article_9A lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_9A_4 .
 lexid:Permen_Dag_2015_87_Section_9A_4 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_9A_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_9A_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_9A_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_9A_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_9A_4 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_9A_5 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_9A .
@@ -15515,7 +15515,7 @@ lexid:Permen_Dag_2015_87_Section_9A_5 lexid-s:isPartOf lexid:Permen_Dag_2015_87_
 lexid:Permen_Dag_2015_87_Article_9A lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_9A_5 .
 lexid:Permen_Dag_2015_87_Section_9A_5 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_9A_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_9A_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_9A_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_9A_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_9A_5 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_15A_1 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_15A .
@@ -15524,7 +15524,7 @@ lexid:Permen_Dag_2015_87_Section_15A_1 lexid-s:isPartOf lexid:Permen_Dag_2015_87
 lexid:Permen_Dag_2015_87_Article_15A lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_15A_1 .
 lexid:Permen_Dag_2015_87_Section_15A_1 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_15A_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_15A_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_15A_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_15A_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_15A_1 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_15A_2 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_15A .
@@ -15533,7 +15533,7 @@ lexid:Permen_Dag_2015_87_Section_15A_2 lexid-s:isPartOf lexid:Permen_Dag_2015_87
 lexid:Permen_Dag_2015_87_Article_15A lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_15A_2 .
 lexid:Permen_Dag_2015_87_Section_15A_2 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_15A_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_15A_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_15A_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_15A_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_15A_2 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_15A_3 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_15A .
@@ -15542,7 +15542,7 @@ lexid:Permen_Dag_2015_87_Section_15A_3 lexid-s:isPartOf lexid:Permen_Dag_2015_87
 lexid:Permen_Dag_2015_87_Article_15A lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_15A_3 .
 lexid:Permen_Dag_2015_87_Section_15A_3 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_15A_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_15A_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_15A_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_15A_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_15A_3 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_18_1_Modified_By_Permen_Dag_2018_12 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_18_Modified_By_Permen_Dag_2018_12 .
@@ -15551,7 +15551,7 @@ lexid:Permen_Dag_2015_87_Section_18_1_Modified_By_Permen_Dag_2018_12 lexid-s:isP
 lexid:Permen_Dag_2015_87_Article_18_Modified_By_Permen_Dag_2018_12 lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_18_1_Modified_By_Permen_Dag_2018_12 .
 lexid:Permen_Dag_2015_87_Section_18_1_Modified_By_Permen_Dag_2018_12 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_18_1_Modified_By_Permen_Dag_2018_12 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_18_1_Modified_By_Permen_Dag_2018_12 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_18_1_Modified_By_Permen_Dag_2018_12 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_18_1_Modified_By_Permen_Dag_2018_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_18_1_Modified_By_Permen_Dag_2018_12 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_18_2_Modified_By_Permen_Dag_2018_12 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_18_Modified_By_Permen_Dag_2018_12 .
@@ -15560,7 +15560,7 @@ lexid:Permen_Dag_2015_87_Section_18_2_Modified_By_Permen_Dag_2018_12 lexid-s:isP
 lexid:Permen_Dag_2015_87_Article_18_Modified_By_Permen_Dag_2018_12 lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_18_2_Modified_By_Permen_Dag_2018_12 .
 lexid:Permen_Dag_2015_87_Section_18_2_Modified_By_Permen_Dag_2018_12 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_18_2_Modified_By_Permen_Dag_2018_12 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_18_2_Modified_By_Permen_Dag_2018_12 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_18_2_Modified_By_Permen_Dag_2018_12 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_18_2_Modified_By_Permen_Dag_2018_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_18_2_Modified_By_Permen_Dag_2018_12 rdf:type owl:Thing .
 lexid:Permen_Dag_2015_87_Section_18_3_Modified_By_Permen_Dag_2018_12 lexid-s:isPartOf lexid:Permen_Dag_2015_87_Article_18_Modified_By_Permen_Dag_2018_12 .
@@ -15569,7 +15569,7 @@ lexid:Permen_Dag_2015_87_Section_18_3_Modified_By_Permen_Dag_2018_12 lexid-s:isP
 lexid:Permen_Dag_2015_87_Article_18_Modified_By_Permen_Dag_2018_12 lexid-s:hasPart lexid:Permen_Dag_2015_87_Section_18_3_Modified_By_Permen_Dag_2018_12 .
 lexid:Permen_Dag_2015_87_Section_18_3_Modified_By_Permen_Dag_2018_12 rdf:type lexid-s:Section .
 lexid:Permen_Dag_2015_87_Section_18_3_Modified_By_Permen_Dag_2018_12 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Dag_2015_87_Section_18_3_Modified_By_Permen_Dag_2018_12 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Dag_2015_87_Section_18_3_Modified_By_Permen_Dag_2018_12 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Dag_2015_87_Section_18_3_Modified_By_Permen_Dag_2018_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Dag_2015_87_Section_18_3_Modified_By_Permen_Dag_2018_12 rdf:type owl:Thing .
 lexid:Permen_LU_2018_1 lexid-s:considers "bahwa untuk meningkatkan harmonisasi dan sinkronisasi, pembentukan Peraturan Menteri, Keputusan Menteri, dan keputusan Pimpinan Eselon I di lingkungan Kementerian Luar Negeri perlu dilaksanakan secara terencana, terpadu, dan berkelanjutan"^^xsd:string .
@@ -15699,7 +15699,7 @@ lexid:UU_2014_7 rdfs:label "Undang-Undang Republik Indonesia Nomor 7 Tahun 2014"
 lexid:PP_2002_68 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 68 Tahun 2002"^^xsd:string .
 lexid:Perpres_2015_7 rdfs:label "Peraturan Presiden Republik Indonesia Nomor 7 Tahun 2015"^^xsd:string .
 lexid:Perpres_2015_48 rdfs:label "Peraturan Presiden Republik Indonesia Nomor 48 Tahun 2015"^^xsd:string .
-lexid:Kepmen_Perindag_2004_650 rdfs:label "Keputusan Menteri Perindustrian Dan Perdagangan  Republik Indonesia Nomor 650 Tahun 2004"^^xsd:string .
+lexid:Kepmen_Perindag_2004_650 rdfs:label "Keputusan Menteri Perindustrian Dan Perdagangan Republik Indonesia Nomor 650 Tahun 2004"^^xsd:string .
 lexid:Permen_Dag_2015_117 rdfs:label "Peraturan Menteri Perdagangan Republik Indonesia Nomor 117 Tahun 2015"^^xsd:string .
 lexid:Permen_Dag_2016_08 rdfs:label "Peraturan Menteri Perdagangan Republik Indonesia Nomor 08 Tahun 2016"^^xsd:string .
 lexid:Permen_Dag_2017_16 rdfs:label "Peraturan Menteri Perdagangan Republik Indonesia Nomor 16 Tahun 2017"^^xsd:string .

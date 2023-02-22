@@ -21215,7 +21215,7 @@ lexid:PP_1982_1982_Section_1_1 lexid-s:isPartOf lexid:PP_1982_1982_Article_1 .
 lexid:PP_1982_1982_Article_1 lexid-s:hasPart lexid:PP_1982_1982_Section_1_1 .
 lexid:PP_1982_1982_Section_1_1 rdf:type lexid-s:Section .
 lexid:PP_1982_1982_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:PP_1982_1982_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:PP_1982_1982_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:PP_1982_1982_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Section_1_1 rdf:type owl:Thing .
 lexid:PP_1982_1982_Section_1_2 lexid-s:isPartOf lexid:PP_1982_1982_Article_1 .
@@ -21224,7 +21224,7 @@ lexid:PP_1982_1982_Section_1_2 lexid-s:isPartOf lexid:PP_1982_1982_Article_1 .
 lexid:PP_1982_1982_Article_1 lexid-s:hasPart lexid:PP_1982_1982_Section_1_2 .
 lexid:PP_1982_1982_Section_1_2 rdf:type lexid-s:Section .
 lexid:PP_1982_1982_Section_1_2 lexid-s:name "(2)"^^xsd:string .
-lexid:PP_1982_1982_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:PP_1982_1982_Section_1_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:PP_1982_1982_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Section_1_2 rdf:type owl:Thing .
 lexid:PP_1982_1982_Section_1_3 lexid-s:isPartOf lexid:PP_1982_1982_Article_1 .
@@ -21233,14 +21233,14 @@ lexid:PP_1982_1982_Section_1_3 lexid-s:isPartOf lexid:PP_1982_1982_Article_1 .
 lexid:PP_1982_1982_Article_1 lexid-s:hasPart lexid:PP_1982_1982_Section_1_3 .
 lexid:PP_1982_1982_Section_1_3 rdf:type lexid-s:Section .
 lexid:PP_1982_1982_Section_1_3 lexid-s:name "(3)"^^xsd:string .
-lexid:PP_1982_1982_Section_1_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:PP_1982_1982_Section_1_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:PP_1982_1982_Section_1_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Section_1_3 rdf:type owl:Thing .
 lexid:PP_1982_1982_Article_1 lexid-s:isContentOf lexid:PP_1982_1982 .
 lexid:PP_1982_1982 lexid-s:hasContent lexid:PP_1982_1982_Article_1 .
 lexid:PP_1982_1982_Article_1 rdf:type lexid-s:Article .
 lexid:PP_1982_1982_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:PP_1982_1982_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:PP_1982_1982_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:PP_1982_1982_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Article_1 rdf:type owl:Thing .
 lexid:PP_1982_1982_Article_2 lexid-s:isContentOf lexid:PP_1982_1982 .
@@ -21251,7 +21251,7 @@ lexid:PP_1982_1982_Section_2_1 lexid-s:isPartOf lexid:PP_1982_1982_Article_2 .
 lexid:PP_1982_1982_Article_2 lexid-s:hasPart lexid:PP_1982_1982_Section_2_1 .
 lexid:PP_1982_1982_Section_2_1 rdf:type lexid-s:Section .
 lexid:PP_1982_1982_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:PP_1982_1982_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:PP_1982_1982_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:PP_1982_1982_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Section_2_1 rdf:type owl:Thing .
 lexid:PP_1982_1982_Section_2_2 lexid-s:isPartOf lexid:PP_1982_1982_Article_2 .
@@ -21260,14 +21260,14 @@ lexid:PP_1982_1982_Section_2_2 lexid-s:isPartOf lexid:PP_1982_1982_Article_2 .
 lexid:PP_1982_1982_Article_2 lexid-s:hasPart lexid:PP_1982_1982_Section_2_2 .
 lexid:PP_1982_1982_Section_2_2 rdf:type lexid-s:Section .
 lexid:PP_1982_1982_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:PP_1982_1982_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:PP_1982_1982_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:PP_1982_1982_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Section_2_2 rdf:type owl:Thing .
 lexid:PP_1982_1982_Article_2 lexid-s:isContentOf lexid:PP_1982_1982 .
 lexid:PP_1982_1982 lexid-s:hasContent lexid:PP_1982_1982_Article_2 .
 lexid:PP_1982_1982_Article_2 rdf:type lexid-s:Article .
 lexid:PP_1982_1982_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:PP_1982_1982_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:PP_1982_1982_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:PP_1982_1982_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Article_2 rdf:type owl:Thing .
 lexid:PP_1982_1982_Article_3 lexid-s:isContentOf lexid:PP_1982_1982 .
@@ -21276,7 +21276,7 @@ lexid:PP_1982_1982_Article_3 lexid-s:isContentOf lexid:PP_1982_1982 .
 lexid:PP_1982_1982 lexid-s:hasContent lexid:PP_1982_1982_Article_3 .
 lexid:PP_1982_1982_Article_3 rdf:type lexid-s:Article .
 lexid:PP_1982_1982_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:PP_1982_1982_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:PP_1982_1982_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:PP_1982_1982_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Article_3 rdf:type owl:Thing .
 lexid:PP_1982_1982_Article_4 lexid-s:isContentOf lexid:PP_1982_1982 .
@@ -21285,7 +21285,7 @@ lexid:PP_1982_1982_Article_4 lexid-s:isContentOf lexid:PP_1982_1982 .
 lexid:PP_1982_1982 lexid-s:hasContent lexid:PP_1982_1982_Article_4 .
 lexid:PP_1982_1982_Article_4 rdf:type lexid-s:Article .
 lexid:PP_1982_1982_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:PP_1982_1982_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:PP_1982_1982_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:PP_1982_1982_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Article_4 rdf:type owl:Thing .
 lexid:PP_1982_1982_Article_5 lexid-s:isContentOf lexid:PP_1982_1982 .
@@ -21294,7 +21294,7 @@ lexid:PP_1982_1982_Article_5 lexid-s:isContentOf lexid:PP_1982_1982 .
 lexid:PP_1982_1982 lexid-s:hasContent lexid:PP_1982_1982_Article_5 .
 lexid:PP_1982_1982_Article_5 rdf:type lexid-s:Article .
 lexid:PP_1982_1982_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:PP_1982_1982_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:PP_1982_1982_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:PP_1982_1982_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Article_5 rdf:type owl:Thing .
 lexid:PP_1982_1982_Article_6 lexid-s:isContentOf lexid:PP_1982_1982 .
@@ -21303,7 +21303,7 @@ lexid:PP_1982_1982_Article_6 lexid-s:isContentOf lexid:PP_1982_1982 .
 lexid:PP_1982_1982 lexid-s:hasContent lexid:PP_1982_1982_Article_6 .
 lexid:PP_1982_1982_Article_6 rdf:type lexid-s:Article .
 lexid:PP_1982_1982_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:PP_1982_1982_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:PP_1982_1982_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:PP_1982_1982_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_1982_Article_6 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_1 lexid-s:isContentOf lexid:UU_1982_5 .
@@ -21314,7 +21314,7 @@ lexid:UU_1982_5_Section_1_1 lexid-s:isPartOf lexid:UU_1982_5_Article_1 .
 lexid:UU_1982_5_Article_1 lexid-s:hasPart lexid:UU_1982_5_Section_1_1 .
 lexid:UU_1982_5_Section_1_1 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_5_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_5_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_5_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_1_1 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_1_2 lexid-s:isPartOf lexid:UU_1982_5_Article_1 .
@@ -21323,7 +21323,7 @@ lexid:UU_1982_5_Section_1_2 lexid-s:isPartOf lexid:UU_1982_5_Article_1 .
 lexid:UU_1982_5_Article_1 lexid-s:hasPart lexid:UU_1982_5_Section_1_2 .
 lexid:UU_1982_5_Section_1_2 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_1_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_5_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_5_Section_1_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_5_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_1_2 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_1_3 lexid-s:isPartOf lexid:UU_1982_5_Article_1 .
@@ -21332,7 +21332,7 @@ lexid:UU_1982_5_Section_1_3 lexid-s:isPartOf lexid:UU_1982_5_Article_1 .
 lexid:UU_1982_5_Article_1 lexid-s:hasPart lexid:UU_1982_5_Section_1_3 .
 lexid:UU_1982_5_Section_1_3 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_1_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_5_Section_1_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_5_Section_1_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_5_Section_1_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_1_3 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_1_4 lexid-s:isPartOf lexid:UU_1982_5_Article_1 .
@@ -21341,7 +21341,7 @@ lexid:UU_1982_5_Section_1_4 lexid-s:isPartOf lexid:UU_1982_5_Article_1 .
 lexid:UU_1982_5_Article_1 lexid-s:hasPart lexid:UU_1982_5_Section_1_4 .
 lexid:UU_1982_5_Section_1_4 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_1_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_5_Section_1_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_5_Section_1_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_5_Section_1_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_1_4 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_1_5 lexid-s:isPartOf lexid:UU_1982_5_Article_1 .
@@ -21350,14 +21350,14 @@ lexid:UU_1982_5_Section_1_5 lexid-s:isPartOf lexid:UU_1982_5_Article_1 .
 lexid:UU_1982_5_Article_1 lexid-s:hasPart lexid:UU_1982_5_Section_1_5 .
 lexid:UU_1982_5_Section_1_5 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_1_5 lexid-s:name "(5)"^^xsd:string .
-lexid:UU_1982_5_Section_1_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:UU_1982_5_Section_1_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:UU_1982_5_Section_1_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_1_5 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_1 lexid-s:isContentOf lexid:UU_1982_5 .
 lexid:UU_1982_5 lexid-s:hasContent lexid:UU_1982_5_Article_1 .
 lexid:UU_1982_5_Article_1 rdf:type lexid-s:Article .
 lexid:UU_1982_5_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:UU_1982_5_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:UU_1982_5_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:UU_1982_5_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Article_1 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_2 lexid-s:isContentOf lexid:UU_1982_5 .
@@ -21368,7 +21368,7 @@ lexid:UU_1982_5_Section_2_1 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
 lexid:UU_1982_5_Article_2 lexid-s:hasPart lexid:UU_1982_5_Section_2_1 .
 lexid:UU_1982_5_Section_2_1 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_5_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_5_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_5_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_2_1 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_2_2 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
@@ -21377,7 +21377,7 @@ lexid:UU_1982_5_Section_2_2 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
 lexid:UU_1982_5_Article_2 lexid-s:hasPart lexid:UU_1982_5_Section_2_2 .
 lexid:UU_1982_5_Section_2_2 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_5_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_5_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_5_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_2_2 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_2_3 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
@@ -21386,7 +21386,7 @@ lexid:UU_1982_5_Section_2_3 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
 lexid:UU_1982_5_Article_2 lexid-s:hasPart lexid:UU_1982_5_Section_2_3 .
 lexid:UU_1982_5_Section_2_3 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_2_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_5_Section_2_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_5_Section_2_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_5_Section_2_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_2_3 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_2_4 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
@@ -21395,7 +21395,7 @@ lexid:UU_1982_5_Section_2_4 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
 lexid:UU_1982_5_Article_2 lexid-s:hasPart lexid:UU_1982_5_Section_2_4 .
 lexid:UU_1982_5_Section_2_4 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_2_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_5_Section_2_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_5_Section_2_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_5_Section_2_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_2_4 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_2_5 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
@@ -21404,7 +21404,7 @@ lexid:UU_1982_5_Section_2_5 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
 lexid:UU_1982_5_Article_2 lexid-s:hasPart lexid:UU_1982_5_Section_2_5 .
 lexid:UU_1982_5_Section_2_5 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_2_5 lexid-s:name "(5)"^^xsd:string .
-lexid:UU_1982_5_Section_2_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:UU_1982_5_Section_2_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:UU_1982_5_Section_2_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_2_5 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_2_6 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
@@ -21413,7 +21413,7 @@ lexid:UU_1982_5_Section_2_6 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
 lexid:UU_1982_5_Article_2 lexid-s:hasPart lexid:UU_1982_5_Section_2_6 .
 lexid:UU_1982_5_Section_2_6 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_2_6 lexid-s:name "(6)"^^xsd:string .
-lexid:UU_1982_5_Section_2_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:UU_1982_5_Section_2_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:UU_1982_5_Section_2_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_2_6 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_2_7 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
@@ -21422,14 +21422,14 @@ lexid:UU_1982_5_Section_2_7 lexid-s:isPartOf lexid:UU_1982_5_Article_2 .
 lexid:UU_1982_5_Article_2 lexid-s:hasPart lexid:UU_1982_5_Section_2_7 .
 lexid:UU_1982_5_Section_2_7 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_2_7 lexid-s:name "(7)"^^xsd:string .
-lexid:UU_1982_5_Section_2_7 rdfs:label "ayat 7 : (7)"^^xsd:string .
+lexid:UU_1982_5_Section_2_7 rdfs:label "ayat 7"^^xsd:string .
 lexid:UU_1982_5_Section_2_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_2_7 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_2 lexid-s:isContentOf lexid:UU_1982_5 .
 lexid:UU_1982_5 lexid-s:hasContent lexid:UU_1982_5_Article_2 .
 lexid:UU_1982_5_Article_2 rdf:type lexid-s:Article .
 lexid:UU_1982_5_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:UU_1982_5_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:UU_1982_5_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:UU_1982_5_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Article_2 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_3 lexid-s:isContentOf lexid:UU_1982_5 .
@@ -21440,7 +21440,7 @@ lexid:UU_1982_5_Section_3_1 lexid-s:isPartOf lexid:UU_1982_5_Article_3 .
 lexid:UU_1982_5_Article_3 lexid-s:hasPart lexid:UU_1982_5_Section_3_1 .
 lexid:UU_1982_5_Section_3_1 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_5_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_5_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_5_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_3_1 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_3_2 lexid-s:isPartOf lexid:UU_1982_5_Article_3 .
@@ -21449,7 +21449,7 @@ lexid:UU_1982_5_Section_3_2 lexid-s:isPartOf lexid:UU_1982_5_Article_3 .
 lexid:UU_1982_5_Article_3 lexid-s:hasPart lexid:UU_1982_5_Section_3_2 .
 lexid:UU_1982_5_Section_3_2 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_5_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_5_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_5_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_3_2 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_3_3 lexid-s:isPartOf lexid:UU_1982_5_Article_3 .
@@ -21458,7 +21458,7 @@ lexid:UU_1982_5_Section_3_3 lexid-s:isPartOf lexid:UU_1982_5_Article_3 .
 lexid:UU_1982_5_Article_3 lexid-s:hasPart lexid:UU_1982_5_Section_3_3 .
 lexid:UU_1982_5_Section_3_3 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_3_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_5_Section_3_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_5_Section_3_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_5_Section_3_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_3_3 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_3_4 lexid-s:isPartOf lexid:UU_1982_5_Article_3 .
@@ -21467,7 +21467,7 @@ lexid:UU_1982_5_Section_3_4 lexid-s:isPartOf lexid:UU_1982_5_Article_3 .
 lexid:UU_1982_5_Article_3 lexid-s:hasPart lexid:UU_1982_5_Section_3_4 .
 lexid:UU_1982_5_Section_3_4 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_3_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_5_Section_3_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_5_Section_3_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_5_Section_3_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_3_4 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_3_5 lexid-s:isPartOf lexid:UU_1982_5_Article_3 .
@@ -21476,14 +21476,14 @@ lexid:UU_1982_5_Section_3_5 lexid-s:isPartOf lexid:UU_1982_5_Article_3 .
 lexid:UU_1982_5_Article_3 lexid-s:hasPart lexid:UU_1982_5_Section_3_5 .
 lexid:UU_1982_5_Section_3_5 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_3_5 lexid-s:name "(5)"^^xsd:string .
-lexid:UU_1982_5_Section_3_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:UU_1982_5_Section_3_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:UU_1982_5_Section_3_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_3_5 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_3 lexid-s:isContentOf lexid:UU_1982_5 .
 lexid:UU_1982_5 lexid-s:hasContent lexid:UU_1982_5_Article_3 .
 lexid:UU_1982_5_Article_3 rdf:type lexid-s:Article .
 lexid:UU_1982_5_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:UU_1982_5_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:UU_1982_5_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:UU_1982_5_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Article_3 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_4 lexid-s:isContentOf lexid:UU_1982_5 .
@@ -21494,7 +21494,7 @@ lexid:UU_1982_5_Section_4_2 lexid-s:isPartOf lexid:UU_1982_5_Article_4 .
 lexid:UU_1982_5_Article_4 lexid-s:hasPart lexid:UU_1982_5_Section_4_2 .
 lexid:UU_1982_5_Section_4_2 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_4_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_5_Section_4_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_5_Section_4_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_5_Section_4_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_4_2 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_4_3 lexid-s:isPartOf lexid:UU_1982_5_Article_4 .
@@ -21503,7 +21503,7 @@ lexid:UU_1982_5_Section_4_3 lexid-s:isPartOf lexid:UU_1982_5_Article_4 .
 lexid:UU_1982_5_Article_4 lexid-s:hasPart lexid:UU_1982_5_Section_4_3 .
 lexid:UU_1982_5_Section_4_3 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_4_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_5_Section_4_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_5_Section_4_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_5_Section_4_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_4_3 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_4_4 lexid-s:isPartOf lexid:UU_1982_5_Article_4 .
@@ -21512,7 +21512,7 @@ lexid:UU_1982_5_Section_4_4 lexid-s:isPartOf lexid:UU_1982_5_Article_4 .
 lexid:UU_1982_5_Article_4 lexid-s:hasPart lexid:UU_1982_5_Section_4_4 .
 lexid:UU_1982_5_Section_4_4 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_4_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_5_Section_4_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_5_Section_4_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_5_Section_4_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_4_4 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_4_5 lexid-s:isPartOf lexid:UU_1982_5_Article_4 .
@@ -21521,14 +21521,14 @@ lexid:UU_1982_5_Section_4_5 lexid-s:isPartOf lexid:UU_1982_5_Article_4 .
 lexid:UU_1982_5_Article_4 lexid-s:hasPart lexid:UU_1982_5_Section_4_5 .
 lexid:UU_1982_5_Section_4_5 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_4_5 lexid-s:name "(5)"^^xsd:string .
-lexid:UU_1982_5_Section_4_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:UU_1982_5_Section_4_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:UU_1982_5_Section_4_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_4_5 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_4 lexid-s:isContentOf lexid:UU_1982_5 .
 lexid:UU_1982_5 lexid-s:hasContent lexid:UU_1982_5_Article_4 .
 lexid:UU_1982_5_Article_4 rdf:type lexid-s:Article .
 lexid:UU_1982_5_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:UU_1982_5_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:UU_1982_5_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:UU_1982_5_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Article_4 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_5 lexid-s:isContentOf lexid:UU_1982_5 .
@@ -21537,7 +21537,7 @@ lexid:UU_1982_5_Article_5 lexid-s:isContentOf lexid:UU_1982_5 .
 lexid:UU_1982_5 lexid-s:hasContent lexid:UU_1982_5_Article_5 .
 lexid:UU_1982_5_Article_5 rdf:type lexid-s:Article .
 lexid:UU_1982_5_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:UU_1982_5_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:UU_1982_5_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:UU_1982_5_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Article_5 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_6 lexid-s:isContentOf lexid:UU_1982_5 .
@@ -21548,7 +21548,7 @@ lexid:UU_1982_5_Section_6_1 lexid-s:isPartOf lexid:UU_1982_5_Article_6 .
 lexid:UU_1982_5_Article_6 lexid-s:hasPart lexid:UU_1982_5_Section_6_1 .
 lexid:UU_1982_5_Section_6_1 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_6_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_5_Section_6_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_5_Section_6_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_5_Section_6_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_6_1 rdf:type owl:Thing .
 lexid:UU_1982_5_Section_6_2 lexid-s:isPartOf lexid:UU_1982_5_Article_6 .
@@ -21557,14 +21557,14 @@ lexid:UU_1982_5_Section_6_2 lexid-s:isPartOf lexid:UU_1982_5_Article_6 .
 lexid:UU_1982_5_Article_6 lexid-s:hasPart lexid:UU_1982_5_Section_6_2 .
 lexid:UU_1982_5_Section_6_2 rdf:type lexid-s:Section .
 lexid:UU_1982_5_Section_6_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_5_Section_6_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_5_Section_6_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_5_Section_6_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Section_6_2 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_6 lexid-s:isContentOf lexid:UU_1982_5 .
 lexid:UU_1982_5 lexid-s:hasContent lexid:UU_1982_5_Article_6 .
 lexid:UU_1982_5_Article_6 rdf:type lexid-s:Article .
 lexid:UU_1982_5_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:UU_1982_5_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:UU_1982_5_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:UU_1982_5_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Article_6 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_7 lexid-s:isContentOf lexid:UU_1982_5 .
@@ -21573,7 +21573,7 @@ lexid:UU_1982_5_Article_7 lexid-s:isContentOf lexid:UU_1982_5 .
 lexid:UU_1982_5 lexid-s:hasContent lexid:UU_1982_5_Article_7 .
 lexid:UU_1982_5_Article_7 rdf:type lexid-s:Article .
 lexid:UU_1982_5_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:UU_1982_5_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:UU_1982_5_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:UU_1982_5_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Article_7 rdf:type owl:Thing .
 lexid:UU_1982_5_Article_8 lexid-s:isContentOf lexid:UU_1982_5 .
@@ -21582,7 +21582,7 @@ lexid:UU_1982_5_Article_8 lexid-s:isContentOf lexid:UU_1982_5 .
 lexid:UU_1982_5 lexid-s:hasContent lexid:UU_1982_5_Article_8 .
 lexid:UU_1982_5_Article_8 rdf:type lexid-s:Article .
 lexid:UU_1982_5_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:UU_1982_5_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:UU_1982_5_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:UU_1982_5_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_5_Article_8 rdf:type owl:Thing .
 lexid:PP_1982_6_Article_1 lexid-s:isContentOf lexid:PP_1982_6 .
@@ -21593,7 +21593,7 @@ lexid:PP_1982_6_Section_1_1 lexid-s:isPartOf lexid:PP_1982_6_Article_1 .
 lexid:PP_1982_6_Article_1 lexid-s:hasPart lexid:PP_1982_6_Section_1_1 .
 lexid:PP_1982_6_Section_1_1 rdf:type lexid-s:Section .
 lexid:PP_1982_6_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:PP_1982_6_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:PP_1982_6_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:PP_1982_6_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Section_1_1 rdf:type owl:Thing .
 lexid:PP_1982_6_Section_1_2 lexid-s:isPartOf lexid:PP_1982_6_Article_1 .
@@ -21602,7 +21602,7 @@ lexid:PP_1982_6_Section_1_2 lexid-s:isPartOf lexid:PP_1982_6_Article_1 .
 lexid:PP_1982_6_Article_1 lexid-s:hasPart lexid:PP_1982_6_Section_1_2 .
 lexid:PP_1982_6_Section_1_2 rdf:type lexid-s:Section .
 lexid:PP_1982_6_Section_1_2 lexid-s:name "(2)"^^xsd:string .
-lexid:PP_1982_6_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:PP_1982_6_Section_1_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:PP_1982_6_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Section_1_2 rdf:type owl:Thing .
 lexid:PP_1982_6_Section_1_3 lexid-s:isPartOf lexid:PP_1982_6_Article_1 .
@@ -21611,14 +21611,14 @@ lexid:PP_1982_6_Section_1_3 lexid-s:isPartOf lexid:PP_1982_6_Article_1 .
 lexid:PP_1982_6_Article_1 lexid-s:hasPart lexid:PP_1982_6_Section_1_3 .
 lexid:PP_1982_6_Section_1_3 rdf:type lexid-s:Section .
 lexid:PP_1982_6_Section_1_3 lexid-s:name "(3)"^^xsd:string .
-lexid:PP_1982_6_Section_1_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:PP_1982_6_Section_1_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:PP_1982_6_Section_1_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Section_1_3 rdf:type owl:Thing .
 lexid:PP_1982_6_Article_1 lexid-s:isContentOf lexid:PP_1982_6 .
 lexid:PP_1982_6 lexid-s:hasContent lexid:PP_1982_6_Article_1 .
 lexid:PP_1982_6_Article_1 rdf:type lexid-s:Article .
 lexid:PP_1982_6_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:PP_1982_6_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:PP_1982_6_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:PP_1982_6_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Article_1 rdf:type owl:Thing .
 lexid:PP_1982_6_Article_2 lexid-s:isContentOf lexid:PP_1982_6 .
@@ -21629,7 +21629,7 @@ lexid:PP_1982_6_Section_2_1 lexid-s:isPartOf lexid:PP_1982_6_Article_2 .
 lexid:PP_1982_6_Article_2 lexid-s:hasPart lexid:PP_1982_6_Section_2_1 .
 lexid:PP_1982_6_Section_2_1 rdf:type lexid-s:Section .
 lexid:PP_1982_6_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:PP_1982_6_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:PP_1982_6_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:PP_1982_6_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Section_2_1 rdf:type owl:Thing .
 lexid:PP_1982_6_Section_2_2 lexid-s:isPartOf lexid:PP_1982_6_Article_2 .
@@ -21638,14 +21638,14 @@ lexid:PP_1982_6_Section_2_2 lexid-s:isPartOf lexid:PP_1982_6_Article_2 .
 lexid:PP_1982_6_Article_2 lexid-s:hasPart lexid:PP_1982_6_Section_2_2 .
 lexid:PP_1982_6_Section_2_2 rdf:type lexid-s:Section .
 lexid:PP_1982_6_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:PP_1982_6_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:PP_1982_6_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:PP_1982_6_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Section_2_2 rdf:type owl:Thing .
 lexid:PP_1982_6_Article_2 lexid-s:isContentOf lexid:PP_1982_6 .
 lexid:PP_1982_6 lexid-s:hasContent lexid:PP_1982_6_Article_2 .
 lexid:PP_1982_6_Article_2 rdf:type lexid-s:Article .
 lexid:PP_1982_6_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:PP_1982_6_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:PP_1982_6_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:PP_1982_6_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Article_2 rdf:type owl:Thing .
 lexid:PP_1982_6_Article_3 lexid-s:isContentOf lexid:PP_1982_6 .
@@ -21656,7 +21656,7 @@ lexid:PP_1982_6_Section_3_1 lexid-s:isPartOf lexid:PP_1982_6_Article_3 .
 lexid:PP_1982_6_Article_3 lexid-s:hasPart lexid:PP_1982_6_Section_3_1 .
 lexid:PP_1982_6_Section_3_1 rdf:type lexid-s:Section .
 lexid:PP_1982_6_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:PP_1982_6_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:PP_1982_6_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:PP_1982_6_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Section_3_1 rdf:type owl:Thing .
 lexid:PP_1982_6_Section_3_2 lexid-s:isPartOf lexid:PP_1982_6_Article_3 .
@@ -21665,14 +21665,14 @@ lexid:PP_1982_6_Section_3_2 lexid-s:isPartOf lexid:PP_1982_6_Article_3 .
 lexid:PP_1982_6_Article_3 lexid-s:hasPart lexid:PP_1982_6_Section_3_2 .
 lexid:PP_1982_6_Section_3_2 rdf:type lexid-s:Section .
 lexid:PP_1982_6_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:PP_1982_6_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:PP_1982_6_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:PP_1982_6_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Section_3_2 rdf:type owl:Thing .
 lexid:PP_1982_6_Article_3 lexid-s:isContentOf lexid:PP_1982_6 .
 lexid:PP_1982_6 lexid-s:hasContent lexid:PP_1982_6_Article_3 .
 lexid:PP_1982_6_Article_3 rdf:type lexid-s:Article .
 lexid:PP_1982_6_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:PP_1982_6_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:PP_1982_6_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:PP_1982_6_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Article_3 rdf:type owl:Thing .
 lexid:PP_1982_6_Article_4 lexid-s:isContentOf lexid:PP_1982_6 .
@@ -21681,7 +21681,7 @@ lexid:PP_1982_6_Article_4 lexid-s:isContentOf lexid:PP_1982_6 .
 lexid:PP_1982_6 lexid-s:hasContent lexid:PP_1982_6_Article_4 .
 lexid:PP_1982_6_Article_4 rdf:type lexid-s:Article .
 lexid:PP_1982_6_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:PP_1982_6_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:PP_1982_6_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:PP_1982_6_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Article_4 rdf:type owl:Thing .
 lexid:PP_1982_6_Article_5 lexid-s:isContentOf lexid:PP_1982_6 .
@@ -21690,7 +21690,7 @@ lexid:PP_1982_6_Article_5 lexid-s:isContentOf lexid:PP_1982_6 .
 lexid:PP_1982_6 lexid-s:hasContent lexid:PP_1982_6_Article_5 .
 lexid:PP_1982_6_Article_5 rdf:type lexid-s:Article .
 lexid:PP_1982_6_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:PP_1982_6_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:PP_1982_6_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:PP_1982_6_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_6_Article_5 rdf:type owl:Thing .
 lexid:UU_1982_6_Chapter_I lexid-s:isContentOf lexid:UU_1982_6 .
@@ -21703,7 +21703,7 @@ lexid:UU_1982_6_Article_2 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEDUA .
 lexid:UU_1982_6_Part_I_KEDUA lexid-s:hasPart lexid:UU_1982_6_Article_2 .
 lexid:UU_1982_6_Article_2 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:UU_1982_6_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:UU_1982_6_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:UU_1982_6_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_3 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEDUA .
@@ -21714,7 +21714,7 @@ lexid:UU_1982_6_Section_3_1 lexid-s:isPartOf lexid:UU_1982_6_Article_3 .
 lexid:UU_1982_6_Article_3 lexid-s:hasPart lexid:UU_1982_6_Section_3_1 .
 lexid:UU_1982_6_Section_3_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_3_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_3_2 lexid-s:isPartOf lexid:UU_1982_6_Article_3 .
@@ -21723,14 +21723,14 @@ lexid:UU_1982_6_Section_3_2 lexid-s:isPartOf lexid:UU_1982_6_Article_3 .
 lexid:UU_1982_6_Article_3 lexid-s:hasPart lexid:UU_1982_6_Section_3_2 .
 lexid:UU_1982_6_Section_3_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_3_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_3 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEDUA .
 lexid:UU_1982_6_Part_I_KEDUA lexid-s:hasPart lexid:UU_1982_6_Article_3 .
 lexid:UU_1982_6_Article_3 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:UU_1982_6_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:UU_1982_6_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:UU_1982_6_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_4 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEDUA .
@@ -21739,7 +21739,7 @@ lexid:UU_1982_6_Article_4 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEDUA .
 lexid:UU_1982_6_Part_I_KEDUA lexid-s:hasPart lexid:UU_1982_6_Article_4 .
 lexid:UU_1982_6_Article_4 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:UU_1982_6_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:UU_1982_6_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:UU_1982_6_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_4 rdf:type owl:Thing .
 lexid:UU_1982_6_Part_I_KEDUA lexid-s:isPartOf lexid:UU_1982_6_Chapter_I .
@@ -21759,7 +21759,7 @@ lexid:UU_1982_6_Section_5_1 lexid-s:isPartOf lexid:UU_1982_6_Article_5 .
 lexid:UU_1982_6_Article_5 lexid-s:hasPart lexid:UU_1982_6_Section_5_1 .
 lexid:UU_1982_6_Section_5_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_5_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_5_2 lexid-s:isPartOf lexid:UU_1982_6_Article_5 .
@@ -21768,14 +21768,14 @@ lexid:UU_1982_6_Section_5_2 lexid-s:isPartOf lexid:UU_1982_6_Article_5 .
 lexid:UU_1982_6_Article_5 lexid-s:hasPart lexid:UU_1982_6_Section_5_2 .
 lexid:UU_1982_6_Section_5_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_5_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_5 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KETIGA .
 lexid:UU_1982_6_Part_I_KETIGA lexid-s:hasPart lexid:UU_1982_6_Article_5 .
 lexid:UU_1982_6_Article_5 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:UU_1982_6_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:UU_1982_6_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:UU_1982_6_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_5 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_6 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KETIGA .
@@ -21784,7 +21784,7 @@ lexid:UU_1982_6_Article_6 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KETIGA .
 lexid:UU_1982_6_Part_I_KETIGA lexid-s:hasPart lexid:UU_1982_6_Article_6 .
 lexid:UU_1982_6_Article_6 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:UU_1982_6_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:UU_1982_6_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:UU_1982_6_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_6 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_7 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KETIGA .
@@ -21793,7 +21793,7 @@ lexid:UU_1982_6_Article_7 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KETIGA .
 lexid:UU_1982_6_Part_I_KETIGA lexid-s:hasPart lexid:UU_1982_6_Article_7 .
 lexid:UU_1982_6_Article_7 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:UU_1982_6_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:UU_1982_6_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:UU_1982_6_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_7 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_8 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KETIGA .
@@ -21804,7 +21804,7 @@ lexid:UU_1982_6_Section_8_1 lexid-s:isPartOf lexid:UU_1982_6_Article_8 .
 lexid:UU_1982_6_Article_8 lexid-s:hasPart lexid:UU_1982_6_Section_8_1 .
 lexid:UU_1982_6_Section_8_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_8_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_8_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_8_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_8_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_8_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_8_2 lexid-s:isPartOf lexid:UU_1982_6_Article_8 .
@@ -21813,14 +21813,14 @@ lexid:UU_1982_6_Section_8_2 lexid-s:isPartOf lexid:UU_1982_6_Article_8 .
 lexid:UU_1982_6_Article_8 lexid-s:hasPart lexid:UU_1982_6_Section_8_2 .
 lexid:UU_1982_6_Section_8_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_8_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_8_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_8_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_8_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_8_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_8 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KETIGA .
 lexid:UU_1982_6_Part_I_KETIGA lexid-s:hasPart lexid:UU_1982_6_Article_8 .
 lexid:UU_1982_6_Article_8 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:UU_1982_6_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:UU_1982_6_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:UU_1982_6_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_8 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_9 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KETIGA .
@@ -21829,7 +21829,7 @@ lexid:UU_1982_6_Article_9 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KETIGA .
 lexid:UU_1982_6_Part_I_KETIGA lexid-s:hasPart lexid:UU_1982_6_Article_9 .
 lexid:UU_1982_6_Article_9 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:UU_1982_6_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:UU_1982_6_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:UU_1982_6_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_9 rdf:type owl:Thing .
 lexid:UU_1982_6_Part_I_KETIGA lexid-s:isPartOf lexid:UU_1982_6_Chapter_I .
@@ -21849,7 +21849,7 @@ lexid:UU_1982_6_Section_10_1 lexid-s:isPartOf lexid:UU_1982_6_Article_10 .
 lexid:UU_1982_6_Article_10 lexid-s:hasPart lexid:UU_1982_6_Section_10_1 .
 lexid:UU_1982_6_Section_10_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_10_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_10_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_10_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_10_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_10_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_10_2 lexid-s:isPartOf lexid:UU_1982_6_Article_10 .
@@ -21858,7 +21858,7 @@ lexid:UU_1982_6_Section_10_2 lexid-s:isPartOf lexid:UU_1982_6_Article_10 .
 lexid:UU_1982_6_Article_10 lexid-s:hasPart lexid:UU_1982_6_Section_10_2 .
 lexid:UU_1982_6_Section_10_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_10_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_10_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_10_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_10_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_10_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_10_3 lexid-s:isPartOf lexid:UU_1982_6_Article_10 .
@@ -21867,7 +21867,7 @@ lexid:UU_1982_6_Section_10_3 lexid-s:isPartOf lexid:UU_1982_6_Article_10 .
 lexid:UU_1982_6_Article_10 lexid-s:hasPart lexid:UU_1982_6_Section_10_3 .
 lexid:UU_1982_6_Section_10_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_10_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_10_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_10_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_10_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_10_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_10_4 lexid-s:isPartOf lexid:UU_1982_6_Article_10 .
@@ -21876,7 +21876,7 @@ lexid:UU_1982_6_Section_10_4 lexid-s:isPartOf lexid:UU_1982_6_Article_10 .
 lexid:UU_1982_6_Article_10 lexid-s:hasPart lexid:UU_1982_6_Section_10_4 .
 lexid:UU_1982_6_Section_10_4 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_10_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_6_Section_10_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_6_Section_10_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_6_Section_10_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_10_4 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_10_5 lexid-s:isPartOf lexid:UU_1982_6_Article_10 .
@@ -21885,14 +21885,14 @@ lexid:UU_1982_6_Section_10_5 lexid-s:isPartOf lexid:UU_1982_6_Article_10 .
 lexid:UU_1982_6_Article_10 lexid-s:hasPart lexid:UU_1982_6_Section_10_5 .
 lexid:UU_1982_6_Section_10_5 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_10_5 lexid-s:name "(5)"^^xsd:string .
-lexid:UU_1982_6_Section_10_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:UU_1982_6_Section_10_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:UU_1982_6_Section_10_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_10_5 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_10 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEEMPAT .
 lexid:UU_1982_6_Part_I_KEEMPAT lexid-s:hasPart lexid:UU_1982_6_Article_10 .
 lexid:UU_1982_6_Article_10 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_10 lexid-s:name "Pasal 10"^^xsd:string .
-lexid:UU_1982_6_Article_10 rdfs:label "Pasal 10 : Pasal 10"^^xsd:string .
+lexid:UU_1982_6_Article_10 rdfs:label "Pasal 10"^^xsd:string .
 lexid:UU_1982_6_Article_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_10 rdf:type owl:Thing .
 lexid:UU_1982_6_Part_I_KEEMPAT lexid-s:isPartOf lexid:UU_1982_6_Chapter_I .
@@ -21912,7 +21912,7 @@ lexid:UU_1982_6_Section_11_1 lexid-s:isPartOf lexid:UU_1982_6_Article_11 .
 lexid:UU_1982_6_Article_11 lexid-s:hasPart lexid:UU_1982_6_Section_11_1 .
 lexid:UU_1982_6_Section_11_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_11_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_11_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_11_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_11_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_11_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_11_2 lexid-s:isPartOf lexid:UU_1982_6_Article_11 .
@@ -21921,7 +21921,7 @@ lexid:UU_1982_6_Section_11_2 lexid-s:isPartOf lexid:UU_1982_6_Article_11 .
 lexid:UU_1982_6_Article_11 lexid-s:hasPart lexid:UU_1982_6_Section_11_2 .
 lexid:UU_1982_6_Section_11_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_11_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_11_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_11_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_11_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_11_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_11_3 lexid-s:isPartOf lexid:UU_1982_6_Article_11 .
@@ -21930,14 +21930,14 @@ lexid:UU_1982_6_Section_11_3 lexid-s:isPartOf lexid:UU_1982_6_Article_11 .
 lexid:UU_1982_6_Article_11 lexid-s:hasPart lexid:UU_1982_6_Section_11_3 .
 lexid:UU_1982_6_Section_11_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_11_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_11_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_11_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_11_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_11_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_11 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KELIMA .
 lexid:UU_1982_6_Part_I_KELIMA lexid-s:hasPart lexid:UU_1982_6_Article_11 .
 lexid:UU_1982_6_Article_11 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_11 lexid-s:name "Pasal 11"^^xsd:string .
-lexid:UU_1982_6_Article_11 rdfs:label "Pasal 11 : Pasal 11"^^xsd:string .
+lexid:UU_1982_6_Article_11 rdfs:label "Pasal 11"^^xsd:string .
 lexid:UU_1982_6_Article_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_11 rdf:type owl:Thing .
 lexid:UU_1982_6_Part_I_KELIMA lexid-s:isPartOf lexid:UU_1982_6_Chapter_I .
@@ -21955,7 +21955,7 @@ lexid:UU_1982_6_Article_13 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_13 .
 lexid:UU_1982_6_Article_13 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_13 lexid-s:name "Pasal 13"^^xsd:string .
-lexid:UU_1982_6_Article_13 rdfs:label "Pasal 13 : Pasal 13"^^xsd:string .
+lexid:UU_1982_6_Article_13 rdfs:label "Pasal 13"^^xsd:string .
 lexid:UU_1982_6_Article_13 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_13 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_14 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -21964,7 +21964,7 @@ lexid:UU_1982_6_Article_14 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_14 .
 lexid:UU_1982_6_Article_14 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_14 lexid-s:name "Pasal 14"^^xsd:string .
-lexid:UU_1982_6_Article_14 rdfs:label "Pasal 14 : Pasal 14"^^xsd:string .
+lexid:UU_1982_6_Article_14 rdfs:label "Pasal 14"^^xsd:string .
 lexid:UU_1982_6_Article_14 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_14 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_15 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -21975,7 +21975,7 @@ lexid:UU_1982_6_Section_15_1 lexid-s:isPartOf lexid:UU_1982_6_Article_15 .
 lexid:UU_1982_6_Article_15 lexid-s:hasPart lexid:UU_1982_6_Section_15_1 .
 lexid:UU_1982_6_Section_15_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_15_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_15_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_15_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_15_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_15_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_15_2 lexid-s:isPartOf lexid:UU_1982_6_Article_15 .
@@ -21984,7 +21984,7 @@ lexid:UU_1982_6_Section_15_2 lexid-s:isPartOf lexid:UU_1982_6_Article_15 .
 lexid:UU_1982_6_Article_15 lexid-s:hasPart lexid:UU_1982_6_Section_15_2 .
 lexid:UU_1982_6_Section_15_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_15_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_15_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_15_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_15_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_15_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_15_3 lexid-s:isPartOf lexid:UU_1982_6_Article_15 .
@@ -21993,14 +21993,14 @@ lexid:UU_1982_6_Section_15_3 lexid-s:isPartOf lexid:UU_1982_6_Article_15 .
 lexid:UU_1982_6_Article_15 lexid-s:hasPart lexid:UU_1982_6_Section_15_3 .
 lexid:UU_1982_6_Section_15_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_15_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_15_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_15_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_15_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_15_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_15 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_15 .
 lexid:UU_1982_6_Article_15 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_15 lexid-s:name "Pasal 15"^^xsd:string .
-lexid:UU_1982_6_Article_15 rdfs:label "Pasal 15 : Pasal 15"^^xsd:string .
+lexid:UU_1982_6_Article_15 rdfs:label "Pasal 15"^^xsd:string .
 lexid:UU_1982_6_Article_15 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_15 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_16 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -22011,7 +22011,7 @@ lexid:UU_1982_6_Section_16_1 lexid-s:isPartOf lexid:UU_1982_6_Article_16 .
 lexid:UU_1982_6_Article_16 lexid-s:hasPart lexid:UU_1982_6_Section_16_1 .
 lexid:UU_1982_6_Section_16_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_16_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_16_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_16_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_16_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_16_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_16_2 lexid-s:isPartOf lexid:UU_1982_6_Article_16 .
@@ -22020,7 +22020,7 @@ lexid:UU_1982_6_Section_16_2 lexid-s:isPartOf lexid:UU_1982_6_Article_16 .
 lexid:UU_1982_6_Article_16 lexid-s:hasPart lexid:UU_1982_6_Section_16_2 .
 lexid:UU_1982_6_Section_16_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_16_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_16_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_16_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_16_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_16_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_16_3 lexid-s:isPartOf lexid:UU_1982_6_Article_16 .
@@ -22029,7 +22029,7 @@ lexid:UU_1982_6_Section_16_3 lexid-s:isPartOf lexid:UU_1982_6_Article_16 .
 lexid:UU_1982_6_Article_16 lexid-s:hasPart lexid:UU_1982_6_Section_16_3 .
 lexid:UU_1982_6_Section_16_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_16_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_16_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_16_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_16_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_16_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_16_4 lexid-s:isPartOf lexid:UU_1982_6_Article_16 .
@@ -22038,14 +22038,14 @@ lexid:UU_1982_6_Section_16_4 lexid-s:isPartOf lexid:UU_1982_6_Article_16 .
 lexid:UU_1982_6_Article_16 lexid-s:hasPart lexid:UU_1982_6_Section_16_4 .
 lexid:UU_1982_6_Section_16_4 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_16_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_6_Section_16_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_6_Section_16_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_6_Section_16_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_16_4 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_16 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_16 .
 lexid:UU_1982_6_Article_16 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_16 lexid-s:name "Pasal 16"^^xsd:string .
-lexid:UU_1982_6_Article_16 rdfs:label "Pasal 16 : Pasal 16"^^xsd:string .
+lexid:UU_1982_6_Article_16 rdfs:label "Pasal 16"^^xsd:string .
 lexid:UU_1982_6_Article_16 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_16 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_18 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -22056,7 +22056,7 @@ lexid:UU_1982_6_Section_18_1 lexid-s:isPartOf lexid:UU_1982_6_Article_18 .
 lexid:UU_1982_6_Article_18 lexid-s:hasPart lexid:UU_1982_6_Section_18_1 .
 lexid:UU_1982_6_Section_18_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_18_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_18_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_18_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_18_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_18_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_18_2 lexid-s:isPartOf lexid:UU_1982_6_Article_18 .
@@ -22065,7 +22065,7 @@ lexid:UU_1982_6_Section_18_2 lexid-s:isPartOf lexid:UU_1982_6_Article_18 .
 lexid:UU_1982_6_Article_18 lexid-s:hasPart lexid:UU_1982_6_Section_18_2 .
 lexid:UU_1982_6_Section_18_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_18_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_18_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_18_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_18_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_18_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_18_3 lexid-s:isPartOf lexid:UU_1982_6_Article_18 .
@@ -22074,14 +22074,14 @@ lexid:UU_1982_6_Section_18_3 lexid-s:isPartOf lexid:UU_1982_6_Article_18 .
 lexid:UU_1982_6_Article_18 lexid-s:hasPart lexid:UU_1982_6_Section_18_3 .
 lexid:UU_1982_6_Section_18_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_18_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_18_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_18_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_18_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_18_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_18 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_18 .
 lexid:UU_1982_6_Article_18 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_18 lexid-s:name "Pasal 18"^^xsd:string .
-lexid:UU_1982_6_Article_18 rdfs:label "Pasal 18 : Pasal 18"^^xsd:string .
+lexid:UU_1982_6_Article_18 rdfs:label "Pasal 18"^^xsd:string .
 lexid:UU_1982_6_Article_18 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_18 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_19 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -22090,7 +22090,7 @@ lexid:UU_1982_6_Article_19 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_19 .
 lexid:UU_1982_6_Article_19 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_19 lexid-s:name "Pasal 19"^^xsd:string .
-lexid:UU_1982_6_Article_19 rdfs:label "Pasal 19 : Pasal 19"^^xsd:string .
+lexid:UU_1982_6_Article_19 rdfs:label "Pasal 19"^^xsd:string .
 lexid:UU_1982_6_Article_19 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_19 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_20 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -22099,7 +22099,7 @@ lexid:UU_1982_6_Article_20 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_20 .
 lexid:UU_1982_6_Article_20 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_20 lexid-s:name "Pasal 20"^^xsd:string .
-lexid:UU_1982_6_Article_20 rdfs:label "Pasal 20 : Pasal 20"^^xsd:string .
+lexid:UU_1982_6_Article_20 rdfs:label "Pasal 20"^^xsd:string .
 lexid:UU_1982_6_Article_20 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_20 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_21 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -22108,7 +22108,7 @@ lexid:UU_1982_6_Article_21 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_21 .
 lexid:UU_1982_6_Article_21 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_21 lexid-s:name "Pasal 21"^^xsd:string .
-lexid:UU_1982_6_Article_21 rdfs:label "Pasal 21 : Pasal 21"^^xsd:string .
+lexid:UU_1982_6_Article_21 rdfs:label "Pasal 21"^^xsd:string .
 lexid:UU_1982_6_Article_21 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_21 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_22 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -22117,7 +22117,7 @@ lexid:UU_1982_6_Article_22 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_22 .
 lexid:UU_1982_6_Article_22 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_22 lexid-s:name "Pasal 22"^^xsd:string .
-lexid:UU_1982_6_Article_22 rdfs:label "Pasal 22 : Pasal 22"^^xsd:string .
+lexid:UU_1982_6_Article_22 rdfs:label "Pasal 22"^^xsd:string .
 lexid:UU_1982_6_Article_22 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_22 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_23 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -22126,7 +22126,7 @@ lexid:UU_1982_6_Article_23 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_23 .
 lexid:UU_1982_6_Article_23 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_23 lexid-s:name "Pasal 23"^^xsd:string .
-lexid:UU_1982_6_Article_23 rdfs:label "Pasal 23 : Pasal 23"^^xsd:string .
+lexid:UU_1982_6_Article_23 rdfs:label "Pasal 23"^^xsd:string .
 lexid:UU_1982_6_Article_23 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_23 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_24 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -22137,7 +22137,7 @@ lexid:UU_1982_6_Section_24_1 lexid-s:isPartOf lexid:UU_1982_6_Article_24 .
 lexid:UU_1982_6_Article_24 lexid-s:hasPart lexid:UU_1982_6_Section_24_1 .
 lexid:UU_1982_6_Section_24_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_24_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_24_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_24_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_24_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_24_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_24_2 lexid-s:isPartOf lexid:UU_1982_6_Article_24 .
@@ -22146,7 +22146,7 @@ lexid:UU_1982_6_Section_24_2 lexid-s:isPartOf lexid:UU_1982_6_Article_24 .
 lexid:UU_1982_6_Article_24 lexid-s:hasPart lexid:UU_1982_6_Section_24_2 .
 lexid:UU_1982_6_Section_24_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_24_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_24_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_24_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_24_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_24_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_24_3 lexid-s:isPartOf lexid:UU_1982_6_Article_24 .
@@ -22155,7 +22155,7 @@ lexid:UU_1982_6_Section_24_3 lexid-s:isPartOf lexid:UU_1982_6_Article_24 .
 lexid:UU_1982_6_Article_24 lexid-s:hasPart lexid:UU_1982_6_Section_24_3 .
 lexid:UU_1982_6_Section_24_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_24_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_24_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_24_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_24_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_24_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_24_4 lexid-s:isPartOf lexid:UU_1982_6_Article_24 .
@@ -22164,14 +22164,14 @@ lexid:UU_1982_6_Section_24_4 lexid-s:isPartOf lexid:UU_1982_6_Article_24 .
 lexid:UU_1982_6_Article_24 lexid-s:hasPart lexid:UU_1982_6_Section_24_4 .
 lexid:UU_1982_6_Section_24_4 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_24_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_6_Section_24_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_6_Section_24_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_6_Section_24_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_24_4 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_24 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_24 .
 lexid:UU_1982_6_Article_24 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_24 lexid-s:name "Pasal 24"^^xsd:string .
-lexid:UU_1982_6_Article_24 rdfs:label "Pasal 24 : Pasal 24"^^xsd:string .
+lexid:UU_1982_6_Article_24 rdfs:label "Pasal 24"^^xsd:string .
 lexid:UU_1982_6_Article_24 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_24 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_25 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
@@ -22182,7 +22182,7 @@ lexid:UU_1982_6_Section_25_1 lexid-s:isPartOf lexid:UU_1982_6_Article_25 .
 lexid:UU_1982_6_Article_25 lexid-s:hasPart lexid:UU_1982_6_Section_25_1 .
 lexid:UU_1982_6_Section_25_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_25_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_25_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_25_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_25_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_25_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_25_2 lexid-s:isPartOf lexid:UU_1982_6_Article_25 .
@@ -22191,7 +22191,7 @@ lexid:UU_1982_6_Section_25_2 lexid-s:isPartOf lexid:UU_1982_6_Article_25 .
 lexid:UU_1982_6_Article_25 lexid-s:hasPart lexid:UU_1982_6_Section_25_2 .
 lexid:UU_1982_6_Section_25_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_25_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_25_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_25_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_25_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_25_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_25_3 lexid-s:isPartOf lexid:UU_1982_6_Article_25 .
@@ -22200,14 +22200,14 @@ lexid:UU_1982_6_Section_25_3 lexid-s:isPartOf lexid:UU_1982_6_Article_25 .
 lexid:UU_1982_6_Article_25 lexid-s:hasPart lexid:UU_1982_6_Section_25_3 .
 lexid:UU_1982_6_Section_25_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_25_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_25_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_25_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_25_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_25_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_25 lexid-s:isPartOf lexid:UU_1982_6_Part_I_KEENAM .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:hasPart lexid:UU_1982_6_Article_25 .
 lexid:UU_1982_6_Article_25 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_25 lexid-s:name "Pasal 25"^^xsd:string .
-lexid:UU_1982_6_Article_25 rdfs:label "Pasal 25 : Pasal 25"^^xsd:string .
+lexid:UU_1982_6_Article_25 rdfs:label "Pasal 25"^^xsd:string .
 lexid:UU_1982_6_Article_25 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_25 rdf:type owl:Thing .
 lexid:UU_1982_6_Part_I_KEENAM lexid-s:isPartOf lexid:UU_1982_6_Chapter_I .
@@ -22234,7 +22234,7 @@ lexid:UU_1982_6_Section_26_1 lexid-s:isPartOf lexid:UU_1982_6_Article_26 .
 lexid:UU_1982_6_Article_26 lexid-s:hasPart lexid:UU_1982_6_Section_26_1 .
 lexid:UU_1982_6_Section_26_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_26_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_26_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_26_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_26_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_26_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_26_2 lexid-s:isPartOf lexid:UU_1982_6_Article_26 .
@@ -22243,7 +22243,7 @@ lexid:UU_1982_6_Section_26_2 lexid-s:isPartOf lexid:UU_1982_6_Article_26 .
 lexid:UU_1982_6_Article_26 lexid-s:hasPart lexid:UU_1982_6_Section_26_2 .
 lexid:UU_1982_6_Section_26_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_26_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_26_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_26_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_26_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_26_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_26_3 lexid-s:isPartOf lexid:UU_1982_6_Article_26 .
@@ -22252,7 +22252,7 @@ lexid:UU_1982_6_Section_26_3 lexid-s:isPartOf lexid:UU_1982_6_Article_26 .
 lexid:UU_1982_6_Article_26 lexid-s:hasPart lexid:UU_1982_6_Section_26_3 .
 lexid:UU_1982_6_Section_26_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_26_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_26_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_26_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_26_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_26_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_26_4 lexid-s:isPartOf lexid:UU_1982_6_Article_26 .
@@ -22261,14 +22261,14 @@ lexid:UU_1982_6_Section_26_4 lexid-s:isPartOf lexid:UU_1982_6_Article_26 .
 lexid:UU_1982_6_Article_26 lexid-s:hasPart lexid:UU_1982_6_Section_26_4 .
 lexid:UU_1982_6_Section_26_4 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_26_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_6_Section_26_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_6_Section_26_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_6_Section_26_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_26_4 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_26 lexid-s:isPartOf lexid:UU_1982_6_Chapter_II .
 lexid:UU_1982_6_Chapter_II lexid-s:hasPart lexid:UU_1982_6_Article_26 .
 lexid:UU_1982_6_Article_26 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_26 lexid-s:name "Pasal 26"^^xsd:string .
-lexid:UU_1982_6_Article_26 rdfs:label "Pasal 26 : Pasal 26"^^xsd:string .
+lexid:UU_1982_6_Article_26 rdfs:label "Pasal 26"^^xsd:string .
 lexid:UU_1982_6_Article_26 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_26 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_27 lexid-s:isPartOf lexid:UU_1982_6_Chapter_II .
@@ -22277,7 +22277,7 @@ lexid:UU_1982_6_Article_27 lexid-s:isPartOf lexid:UU_1982_6_Chapter_II .
 lexid:UU_1982_6_Chapter_II lexid-s:hasPart lexid:UU_1982_6_Article_27 .
 lexid:UU_1982_6_Article_27 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_27 lexid-s:name "Pasal 27"^^xsd:string .
-lexid:UU_1982_6_Article_27 rdfs:label "Pasal 27 : Pasal 27"^^xsd:string .
+lexid:UU_1982_6_Article_27 rdfs:label "Pasal 27"^^xsd:string .
 lexid:UU_1982_6_Article_27 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_27 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_28 lexid-s:isPartOf lexid:UU_1982_6_Chapter_II .
@@ -22288,7 +22288,7 @@ lexid:UU_1982_6_Section_28_1 lexid-s:isPartOf lexid:UU_1982_6_Article_28 .
 lexid:UU_1982_6_Article_28 lexid-s:hasPart lexid:UU_1982_6_Section_28_1 .
 lexid:UU_1982_6_Section_28_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_28_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_28_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_28_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_28_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_28_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_28_2 lexid-s:isPartOf lexid:UU_1982_6_Article_28 .
@@ -22297,14 +22297,14 @@ lexid:UU_1982_6_Section_28_2 lexid-s:isPartOf lexid:UU_1982_6_Article_28 .
 lexid:UU_1982_6_Article_28 lexid-s:hasPart lexid:UU_1982_6_Section_28_2 .
 lexid:UU_1982_6_Section_28_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_28_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_28_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_28_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_28_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_28_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_28 lexid-s:isPartOf lexid:UU_1982_6_Chapter_II .
 lexid:UU_1982_6_Chapter_II lexid-s:hasPart lexid:UU_1982_6_Article_28 .
 lexid:UU_1982_6_Article_28 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_28 lexid-s:name "Pasal 28"^^xsd:string .
-lexid:UU_1982_6_Article_28 rdfs:label "Pasal 28 : Pasal 28"^^xsd:string .
+lexid:UU_1982_6_Article_28 rdfs:label "Pasal 28"^^xsd:string .
 lexid:UU_1982_6_Article_28 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_28 rdf:type owl:Thing .
 lexid:UU_1982_6_Chapter_II lexid-s:isContentOf lexid:UU_1982_6 .
@@ -22324,7 +22324,7 @@ lexid:UU_1982_6_Section_29_1 lexid-s:isPartOf lexid:UU_1982_6_Article_29 .
 lexid:UU_1982_6_Article_29 lexid-s:hasPart lexid:UU_1982_6_Section_29_1 .
 lexid:UU_1982_6_Section_29_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_29_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_29_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_29_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_29_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_29_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_29_2 lexid-s:isPartOf lexid:UU_1982_6_Article_29 .
@@ -22333,7 +22333,7 @@ lexid:UU_1982_6_Section_29_2 lexid-s:isPartOf lexid:UU_1982_6_Article_29 .
 lexid:UU_1982_6_Article_29 lexid-s:hasPart lexid:UU_1982_6_Section_29_2 .
 lexid:UU_1982_6_Section_29_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_29_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_29_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_29_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_29_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_29_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_29_3 lexid-s:isPartOf lexid:UU_1982_6_Article_29 .
@@ -22342,14 +22342,14 @@ lexid:UU_1982_6_Section_29_3 lexid-s:isPartOf lexid:UU_1982_6_Article_29 .
 lexid:UU_1982_6_Article_29 lexid-s:hasPart lexid:UU_1982_6_Section_29_3 .
 lexid:UU_1982_6_Section_29_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_29_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_29_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_29_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_29_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_29_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_29 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_29 .
 lexid:UU_1982_6_Article_29 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_29 lexid-s:name "Pasal 29"^^xsd:string .
-lexid:UU_1982_6_Article_29 rdfs:label "Pasal 29 : Pasal 29"^^xsd:string .
+lexid:UU_1982_6_Article_29 rdfs:label "Pasal 29"^^xsd:string .
 lexid:UU_1982_6_Article_29 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_29 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_30 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
@@ -22358,7 +22358,7 @@ lexid:UU_1982_6_Article_30 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_30 .
 lexid:UU_1982_6_Article_30 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_30 lexid-s:name "Pasal 30"^^xsd:string .
-lexid:UU_1982_6_Article_30 rdfs:label "Pasal 30 : Pasal 30"^^xsd:string .
+lexid:UU_1982_6_Article_30 rdfs:label "Pasal 30"^^xsd:string .
 lexid:UU_1982_6_Article_30 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_30 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_31 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
@@ -22369,7 +22369,7 @@ lexid:UU_1982_6_Section_31_1 lexid-s:isPartOf lexid:UU_1982_6_Article_31 .
 lexid:UU_1982_6_Article_31 lexid-s:hasPart lexid:UU_1982_6_Section_31_1 .
 lexid:UU_1982_6_Section_31_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_31_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_31_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_31_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_31_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_31_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_31_2 lexid-s:isPartOf lexid:UU_1982_6_Article_31 .
@@ -22378,7 +22378,7 @@ lexid:UU_1982_6_Section_31_2 lexid-s:isPartOf lexid:UU_1982_6_Article_31 .
 lexid:UU_1982_6_Article_31 lexid-s:hasPart lexid:UU_1982_6_Section_31_2 .
 lexid:UU_1982_6_Section_31_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_31_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_31_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_31_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_31_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_31_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_31_3 lexid-s:isPartOf lexid:UU_1982_6_Article_31 .
@@ -22387,14 +22387,14 @@ lexid:UU_1982_6_Section_31_3 lexid-s:isPartOf lexid:UU_1982_6_Article_31 .
 lexid:UU_1982_6_Article_31 lexid-s:hasPart lexid:UU_1982_6_Section_31_3 .
 lexid:UU_1982_6_Section_31_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_31_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_31_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_31_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_31_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_31_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_31 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_31 .
 lexid:UU_1982_6_Article_31 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_31 lexid-s:name "Pasal 31"^^xsd:string .
-lexid:UU_1982_6_Article_31 rdfs:label "Pasal 31 : Pasal 31"^^xsd:string .
+lexid:UU_1982_6_Article_31 rdfs:label "Pasal 31"^^xsd:string .
 lexid:UU_1982_6_Article_31 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_31 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_32 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
@@ -22403,7 +22403,7 @@ lexid:UU_1982_6_Article_32 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_32 .
 lexid:UU_1982_6_Article_32 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_32 lexid-s:name "Pasal 32"^^xsd:string .
-lexid:UU_1982_6_Article_32 rdfs:label "Pasal 32 : Pasal 32"^^xsd:string .
+lexid:UU_1982_6_Article_32 rdfs:label "Pasal 32"^^xsd:string .
 lexid:UU_1982_6_Article_32 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_32 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_33 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
@@ -22412,7 +22412,7 @@ lexid:UU_1982_6_Article_33 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_33 .
 lexid:UU_1982_6_Article_33 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_33 lexid-s:name "Pasal 33"^^xsd:string .
-lexid:UU_1982_6_Article_33 rdfs:label "Pasal 33 : Pasal 33"^^xsd:string .
+lexid:UU_1982_6_Article_33 rdfs:label "Pasal 33"^^xsd:string .
 lexid:UU_1982_6_Article_33 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_33 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_34 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
@@ -22423,7 +22423,7 @@ lexid:UU_1982_6_Section_34_1 lexid-s:isPartOf lexid:UU_1982_6_Article_34 .
 lexid:UU_1982_6_Article_34 lexid-s:hasPart lexid:UU_1982_6_Section_34_1 .
 lexid:UU_1982_6_Section_34_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_34_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_34_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_34_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_34_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_34_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_34_2 lexid-s:isPartOf lexid:UU_1982_6_Article_34 .
@@ -22432,7 +22432,7 @@ lexid:UU_1982_6_Section_34_2 lexid-s:isPartOf lexid:UU_1982_6_Article_34 .
 lexid:UU_1982_6_Article_34 lexid-s:hasPart lexid:UU_1982_6_Section_34_2 .
 lexid:UU_1982_6_Section_34_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_34_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_34_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_34_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_34_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_34_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_34_3 lexid-s:isPartOf lexid:UU_1982_6_Article_34 .
@@ -22441,14 +22441,14 @@ lexid:UU_1982_6_Section_34_3 lexid-s:isPartOf lexid:UU_1982_6_Article_34 .
 lexid:UU_1982_6_Article_34 lexid-s:hasPart lexid:UU_1982_6_Section_34_3 .
 lexid:UU_1982_6_Section_34_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_34_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_34_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_34_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_34_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_34_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_34 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_34 .
 lexid:UU_1982_6_Article_34 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_34 lexid-s:name "Pasal 34"^^xsd:string .
-lexid:UU_1982_6_Article_34 rdfs:label "Pasal 34 : Pasal 34"^^xsd:string .
+lexid:UU_1982_6_Article_34 rdfs:label "Pasal 34"^^xsd:string .
 lexid:UU_1982_6_Article_34 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_34 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_35 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
@@ -22459,7 +22459,7 @@ lexid:UU_1982_6_Section_35_1 lexid-s:isPartOf lexid:UU_1982_6_Article_35 .
 lexid:UU_1982_6_Article_35 lexid-s:hasPart lexid:UU_1982_6_Section_35_1 .
 lexid:UU_1982_6_Section_35_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_35_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_35_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_35_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_35_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_35_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_35_2 lexid-s:isPartOf lexid:UU_1982_6_Article_35 .
@@ -22468,7 +22468,7 @@ lexid:UU_1982_6_Section_35_2 lexid-s:isPartOf lexid:UU_1982_6_Article_35 .
 lexid:UU_1982_6_Article_35 lexid-s:hasPart lexid:UU_1982_6_Section_35_2 .
 lexid:UU_1982_6_Section_35_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_35_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_35_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_35_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_35_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_35_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_35_3 lexid-s:isPartOf lexid:UU_1982_6_Article_35 .
@@ -22477,7 +22477,7 @@ lexid:UU_1982_6_Section_35_3 lexid-s:isPartOf lexid:UU_1982_6_Article_35 .
 lexid:UU_1982_6_Article_35 lexid-s:hasPart lexid:UU_1982_6_Section_35_3 .
 lexid:UU_1982_6_Section_35_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_35_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_35_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_35_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_35_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_35_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_35_4 lexid-s:isPartOf lexid:UU_1982_6_Article_35 .
@@ -22486,14 +22486,14 @@ lexid:UU_1982_6_Section_35_4 lexid-s:isPartOf lexid:UU_1982_6_Article_35 .
 lexid:UU_1982_6_Article_35 lexid-s:hasPart lexid:UU_1982_6_Section_35_4 .
 lexid:UU_1982_6_Section_35_4 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_35_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_6_Section_35_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_6_Section_35_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_6_Section_35_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_35_4 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_35 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_35 .
 lexid:UU_1982_6_Article_35 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_35 lexid-s:name "Pasal 35"^^xsd:string .
-lexid:UU_1982_6_Article_35 rdfs:label "Pasal 35 : Pasal 35"^^xsd:string .
+lexid:UU_1982_6_Article_35 rdfs:label "Pasal 35"^^xsd:string .
 lexid:UU_1982_6_Article_35 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_35 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_36 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
@@ -22504,7 +22504,7 @@ lexid:UU_1982_6_Section_36_1 lexid-s:isPartOf lexid:UU_1982_6_Article_36 .
 lexid:UU_1982_6_Article_36 lexid-s:hasPart lexid:UU_1982_6_Section_36_1 .
 lexid:UU_1982_6_Section_36_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_36_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_36_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_36_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_36_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_36_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_36_2 lexid-s:isPartOf lexid:UU_1982_6_Article_36 .
@@ -22513,7 +22513,7 @@ lexid:UU_1982_6_Section_36_2 lexid-s:isPartOf lexid:UU_1982_6_Article_36 .
 lexid:UU_1982_6_Article_36 lexid-s:hasPart lexid:UU_1982_6_Section_36_2 .
 lexid:UU_1982_6_Section_36_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_36_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_36_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_36_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_36_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_36_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_36_3 lexid-s:isPartOf lexid:UU_1982_6_Article_36 .
@@ -22522,14 +22522,14 @@ lexid:UU_1982_6_Section_36_3 lexid-s:isPartOf lexid:UU_1982_6_Article_36 .
 lexid:UU_1982_6_Article_36 lexid-s:hasPart lexid:UU_1982_6_Section_36_3 .
 lexid:UU_1982_6_Section_36_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_36_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_36_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_36_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_36_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_36_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_36 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_36 .
 lexid:UU_1982_6_Article_36 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_36 lexid-s:name "Pasal 36"^^xsd:string .
-lexid:UU_1982_6_Article_36 rdfs:label "Pasal 36 : Pasal 36"^^xsd:string .
+lexid:UU_1982_6_Article_36 rdfs:label "Pasal 36"^^xsd:string .
 lexid:UU_1982_6_Article_36 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_36 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_37 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
@@ -22540,7 +22540,7 @@ lexid:UU_1982_6_Section_37_1 lexid-s:isPartOf lexid:UU_1982_6_Article_37 .
 lexid:UU_1982_6_Article_37 lexid-s:hasPart lexid:UU_1982_6_Section_37_1 .
 lexid:UU_1982_6_Section_37_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_37_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_37_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_37_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_37_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_37_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_37_2 lexid-s:isPartOf lexid:UU_1982_6_Article_37 .
@@ -22549,14 +22549,14 @@ lexid:UU_1982_6_Section_37_2 lexid-s:isPartOf lexid:UU_1982_6_Article_37 .
 lexid:UU_1982_6_Article_37 lexid-s:hasPart lexid:UU_1982_6_Section_37_2 .
 lexid:UU_1982_6_Section_37_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_37_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_37_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_37_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_37_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_37_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_37 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_37 .
 lexid:UU_1982_6_Article_37 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_37 lexid-s:name "Pasal 37"^^xsd:string .
-lexid:UU_1982_6_Article_37 rdfs:label "Pasal 37 : Pasal 37"^^xsd:string .
+lexid:UU_1982_6_Article_37 rdfs:label "Pasal 37"^^xsd:string .
 lexid:UU_1982_6_Article_37 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_37 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_38 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
@@ -22565,7 +22565,7 @@ lexid:UU_1982_6_Article_38 lexid-s:isPartOf lexid:UU_1982_6_Chapter_III .
 lexid:UU_1982_6_Chapter_III lexid-s:hasPart lexid:UU_1982_6_Article_38 .
 lexid:UU_1982_6_Article_38 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_38 lexid-s:name "Pasal 38"^^xsd:string .
-lexid:UU_1982_6_Article_38 rdfs:label "Pasal 38 : Pasal 38"^^xsd:string .
+lexid:UU_1982_6_Article_38 rdfs:label "Pasal 38"^^xsd:string .
 lexid:UU_1982_6_Article_38 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_38 rdf:type owl:Thing .
 lexid:UU_1982_6_Chapter_III lexid-s:isContentOf lexid:UU_1982_6 .
@@ -22585,7 +22585,7 @@ lexid:UU_1982_6_Section_39_1 lexid-s:isPartOf lexid:UU_1982_6_Article_39 .
 lexid:UU_1982_6_Article_39 lexid-s:hasPart lexid:UU_1982_6_Section_39_1 .
 lexid:UU_1982_6_Section_39_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_39_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_39_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_39_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_39_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_39_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_39_2 lexid-s:isPartOf lexid:UU_1982_6_Article_39 .
@@ -22594,7 +22594,7 @@ lexid:UU_1982_6_Section_39_2 lexid-s:isPartOf lexid:UU_1982_6_Article_39 .
 lexid:UU_1982_6_Article_39 lexid-s:hasPart lexid:UU_1982_6_Section_39_2 .
 lexid:UU_1982_6_Section_39_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_39_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_39_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_39_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_39_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_39_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_39_3 lexid-s:isPartOf lexid:UU_1982_6_Article_39 .
@@ -22603,7 +22603,7 @@ lexid:UU_1982_6_Section_39_3 lexid-s:isPartOf lexid:UU_1982_6_Article_39 .
 lexid:UU_1982_6_Article_39 lexid-s:hasPart lexid:UU_1982_6_Section_39_3 .
 lexid:UU_1982_6_Section_39_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_39_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_39_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_39_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_39_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_39_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_39_4 lexid-s:isPartOf lexid:UU_1982_6_Article_39 .
@@ -22612,14 +22612,14 @@ lexid:UU_1982_6_Section_39_4 lexid-s:isPartOf lexid:UU_1982_6_Article_39 .
 lexid:UU_1982_6_Article_39 lexid-s:hasPart lexid:UU_1982_6_Section_39_4 .
 lexid:UU_1982_6_Section_39_4 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_39_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_6_Section_39_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_6_Section_39_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_6_Section_39_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_39_4 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_39 lexid-s:isPartOf lexid:UU_1982_6_Chapter_IV .
 lexid:UU_1982_6_Chapter_IV lexid-s:hasPart lexid:UU_1982_6_Article_39 .
 lexid:UU_1982_6_Article_39 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_39 lexid-s:name "Pasal 39"^^xsd:string .
-lexid:UU_1982_6_Article_39 rdfs:label "Pasal 39 : Pasal 39"^^xsd:string .
+lexid:UU_1982_6_Article_39 rdfs:label "Pasal 39"^^xsd:string .
 lexid:UU_1982_6_Article_39 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_39 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_40 lexid-s:isPartOf lexid:UU_1982_6_Chapter_IV .
@@ -22630,7 +22630,7 @@ lexid:UU_1982_6_Section_40_1 lexid-s:isPartOf lexid:UU_1982_6_Article_40 .
 lexid:UU_1982_6_Article_40 lexid-s:hasPart lexid:UU_1982_6_Section_40_1 .
 lexid:UU_1982_6_Section_40_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_40_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_40_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_40_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_40_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_40_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_40_2 lexid-s:isPartOf lexid:UU_1982_6_Article_40 .
@@ -22639,7 +22639,7 @@ lexid:UU_1982_6_Section_40_2 lexid-s:isPartOf lexid:UU_1982_6_Article_40 .
 lexid:UU_1982_6_Article_40 lexid-s:hasPart lexid:UU_1982_6_Section_40_2 .
 lexid:UU_1982_6_Section_40_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_40_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_40_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_40_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_40_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_40_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_40_3 lexid-s:isPartOf lexid:UU_1982_6_Article_40 .
@@ -22648,14 +22648,14 @@ lexid:UU_1982_6_Section_40_3 lexid-s:isPartOf lexid:UU_1982_6_Article_40 .
 lexid:UU_1982_6_Article_40 lexid-s:hasPart lexid:UU_1982_6_Section_40_3 .
 lexid:UU_1982_6_Section_40_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_40_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_40_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_40_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_40_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_40_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_40 lexid-s:isPartOf lexid:UU_1982_6_Chapter_IV .
 lexid:UU_1982_6_Chapter_IV lexid-s:hasPart lexid:UU_1982_6_Article_40 .
 lexid:UU_1982_6_Article_40 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_40 lexid-s:name "Pasal 40"^^xsd:string .
-lexid:UU_1982_6_Article_40 rdfs:label "Pasal 40 : Pasal 40"^^xsd:string .
+lexid:UU_1982_6_Article_40 rdfs:label "Pasal 40"^^xsd:string .
 lexid:UU_1982_6_Article_40 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_40 rdf:type owl:Thing .
 lexid:UU_1982_6_Chapter_IV lexid-s:isContentOf lexid:UU_1982_6 .
@@ -22673,7 +22673,7 @@ lexid:UU_1982_6_Article_41 lexid-s:isPartOf lexid:UU_1982_6_Chapter_V .
 lexid:UU_1982_6_Chapter_V lexid-s:hasPart lexid:UU_1982_6_Article_41 .
 lexid:UU_1982_6_Article_41 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_41 lexid-s:name "Pasal 41"^^xsd:string .
-lexid:UU_1982_6_Article_41 rdfs:label "Pasal 41 : Pasal 41"^^xsd:string .
+lexid:UU_1982_6_Article_41 rdfs:label "Pasal 41"^^xsd:string .
 lexid:UU_1982_6_Article_41 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_41 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_42 lexid-s:isPartOf lexid:UU_1982_6_Chapter_V .
@@ -22684,7 +22684,7 @@ lexid:UU_1982_6_Section_42_1 lexid-s:isPartOf lexid:UU_1982_6_Article_42 .
 lexid:UU_1982_6_Article_42 lexid-s:hasPart lexid:UU_1982_6_Section_42_1 .
 lexid:UU_1982_6_Section_42_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_42_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_42_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_42_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_42_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_42_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_42_2 lexid-s:isPartOf lexid:UU_1982_6_Article_42 .
@@ -22693,7 +22693,7 @@ lexid:UU_1982_6_Section_42_2 lexid-s:isPartOf lexid:UU_1982_6_Article_42 .
 lexid:UU_1982_6_Article_42 lexid-s:hasPart lexid:UU_1982_6_Section_42_2 .
 lexid:UU_1982_6_Section_42_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_42_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_42_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_42_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_42_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_42_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_42_3 lexid-s:isPartOf lexid:UU_1982_6_Article_42 .
@@ -22702,14 +22702,14 @@ lexid:UU_1982_6_Section_42_3 lexid-s:isPartOf lexid:UU_1982_6_Article_42 .
 lexid:UU_1982_6_Article_42 lexid-s:hasPart lexid:UU_1982_6_Section_42_3 .
 lexid:UU_1982_6_Section_42_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_42_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_42_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_42_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_42_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_42_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_42 lexid-s:isPartOf lexid:UU_1982_6_Chapter_V .
 lexid:UU_1982_6_Chapter_V lexid-s:hasPart lexid:UU_1982_6_Article_42 .
 lexid:UU_1982_6_Article_42 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_42 lexid-s:name "Pasal 42"^^xsd:string .
-lexid:UU_1982_6_Article_42 rdfs:label "Pasal 42 : Pasal 42"^^xsd:string .
+lexid:UU_1982_6_Article_42 rdfs:label "Pasal 42"^^xsd:string .
 lexid:UU_1982_6_Article_42 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_42 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_43 lexid-s:isPartOf lexid:UU_1982_6_Chapter_V .
@@ -22720,7 +22720,7 @@ lexid:UU_1982_6_Section_43_1 lexid-s:isPartOf lexid:UU_1982_6_Article_43 .
 lexid:UU_1982_6_Article_43 lexid-s:hasPart lexid:UU_1982_6_Section_43_1 .
 lexid:UU_1982_6_Section_43_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_43_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_43_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_43_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_43_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_43_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_43_2 lexid-s:isPartOf lexid:UU_1982_6_Article_43 .
@@ -22729,14 +22729,14 @@ lexid:UU_1982_6_Section_43_2 lexid-s:isPartOf lexid:UU_1982_6_Article_43 .
 lexid:UU_1982_6_Article_43 lexid-s:hasPart lexid:UU_1982_6_Section_43_2 .
 lexid:UU_1982_6_Section_43_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_43_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_43_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_43_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_43_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_43_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_43 lexid-s:isPartOf lexid:UU_1982_6_Chapter_V .
 lexid:UU_1982_6_Chapter_V lexid-s:hasPart lexid:UU_1982_6_Article_43 .
 lexid:UU_1982_6_Article_43 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_43 lexid-s:name "Pasal 43"^^xsd:string .
-lexid:UU_1982_6_Article_43 rdfs:label "Pasal 43 : Pasal 43"^^xsd:string .
+lexid:UU_1982_6_Article_43 rdfs:label "Pasal 43"^^xsd:string .
 lexid:UU_1982_6_Article_43 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_43 rdf:type owl:Thing .
 lexid:UU_1982_6_Chapter_V lexid-s:isContentOf lexid:UU_1982_6 .
@@ -22756,7 +22756,7 @@ lexid:UU_1982_6_Section_44_1 lexid-s:isPartOf lexid:UU_1982_6_Article_44 .
 lexid:UU_1982_6_Article_44 lexid-s:hasPart lexid:UU_1982_6_Section_44_1 .
 lexid:UU_1982_6_Section_44_1 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_44_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_6_Section_44_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_6_Section_44_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_6_Section_44_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_44_1 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_44_2 lexid-s:isPartOf lexid:UU_1982_6_Article_44 .
@@ -22765,7 +22765,7 @@ lexid:UU_1982_6_Section_44_2 lexid-s:isPartOf lexid:UU_1982_6_Article_44 .
 lexid:UU_1982_6_Article_44 lexid-s:hasPart lexid:UU_1982_6_Section_44_2 .
 lexid:UU_1982_6_Section_44_2 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_44_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_6_Section_44_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_6_Section_44_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_6_Section_44_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_44_2 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_44_3 lexid-s:isPartOf lexid:UU_1982_6_Article_44 .
@@ -22774,7 +22774,7 @@ lexid:UU_1982_6_Section_44_3 lexid-s:isPartOf lexid:UU_1982_6_Article_44 .
 lexid:UU_1982_6_Article_44 lexid-s:hasPart lexid:UU_1982_6_Section_44_3 .
 lexid:UU_1982_6_Section_44_3 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_44_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_6_Section_44_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_6_Section_44_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_6_Section_44_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_44_3 rdf:type owl:Thing .
 lexid:UU_1982_6_Section_44_4 lexid-s:isPartOf lexid:UU_1982_6_Article_44 .
@@ -22783,14 +22783,14 @@ lexid:UU_1982_6_Section_44_4 lexid-s:isPartOf lexid:UU_1982_6_Article_44 .
 lexid:UU_1982_6_Article_44 lexid-s:hasPart lexid:UU_1982_6_Section_44_4 .
 lexid:UU_1982_6_Section_44_4 rdf:type lexid-s:Section .
 lexid:UU_1982_6_Section_44_4 lexid-s:name "(4)"^^xsd:string .
-lexid:UU_1982_6_Section_44_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:UU_1982_6_Section_44_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:UU_1982_6_Section_44_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Section_44_4 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_44 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VI .
 lexid:UU_1982_6_Chapter_VI lexid-s:hasPart lexid:UU_1982_6_Article_44 .
 lexid:UU_1982_6_Article_44 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_44 lexid-s:name "Pasal 44"^^xsd:string .
-lexid:UU_1982_6_Article_44 rdfs:label "Pasal 44 : Pasal 44"^^xsd:string .
+lexid:UU_1982_6_Article_44 rdfs:label "Pasal 44"^^xsd:string .
 lexid:UU_1982_6_Article_44 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_44 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_45 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VI .
@@ -22799,7 +22799,7 @@ lexid:UU_1982_6_Article_45 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VI .
 lexid:UU_1982_6_Chapter_VI lexid-s:hasPart lexid:UU_1982_6_Article_45 .
 lexid:UU_1982_6_Article_45 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_45 lexid-s:name "Pasal 45"^^xsd:string .
-lexid:UU_1982_6_Article_45 rdfs:label "Pasal 45 : Pasal 45"^^xsd:string .
+lexid:UU_1982_6_Article_45 rdfs:label "Pasal 45"^^xsd:string .
 lexid:UU_1982_6_Article_45 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_45 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_46 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VI .
@@ -22808,7 +22808,7 @@ lexid:UU_1982_6_Article_46 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VI .
 lexid:UU_1982_6_Chapter_VI lexid-s:hasPart lexid:UU_1982_6_Article_46 .
 lexid:UU_1982_6_Article_46 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_46 lexid-s:name "Pasal 46"^^xsd:string .
-lexid:UU_1982_6_Article_46 rdfs:label "Pasal 46 : Pasal 46"^^xsd:string .
+lexid:UU_1982_6_Article_46 rdfs:label "Pasal 46"^^xsd:string .
 lexid:UU_1982_6_Article_46 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_46 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_47 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VI .
@@ -22817,7 +22817,7 @@ lexid:UU_1982_6_Article_47 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VI .
 lexid:UU_1982_6_Chapter_VI lexid-s:hasPart lexid:UU_1982_6_Article_47 .
 lexid:UU_1982_6_Article_47 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_47 lexid-s:name "Pasal 47"^^xsd:string .
-lexid:UU_1982_6_Article_47 rdfs:label "Pasal 47 : Pasal 47"^^xsd:string .
+lexid:UU_1982_6_Article_47 rdfs:label "Pasal 47"^^xsd:string .
 lexid:UU_1982_6_Article_47 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_47 rdf:type owl:Thing .
 lexid:UU_1982_6_Chapter_VI lexid-s:isContentOf lexid:UU_1982_6 .
@@ -22835,7 +22835,7 @@ lexid:UU_1982_6_Article_48 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VII .
 lexid:UU_1982_6_Chapter_VII lexid-s:hasPart lexid:UU_1982_6_Article_48 .
 lexid:UU_1982_6_Article_48 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_48 lexid-s:name "Pasal 48"^^xsd:string .
-lexid:UU_1982_6_Article_48 rdfs:label "Pasal 48 : Pasal 48"^^xsd:string .
+lexid:UU_1982_6_Article_48 rdfs:label "Pasal 48"^^xsd:string .
 lexid:UU_1982_6_Article_48 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_48 rdf:type owl:Thing .
 lexid:UU_1982_6_Article_49 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VII .
@@ -22844,7 +22844,7 @@ lexid:UU_1982_6_Article_49 lexid-s:isPartOf lexid:UU_1982_6_Chapter_VII .
 lexid:UU_1982_6_Chapter_VII lexid-s:hasPart lexid:UU_1982_6_Article_49 .
 lexid:UU_1982_6_Article_49 rdf:type lexid-s:Article .
 lexid:UU_1982_6_Article_49 lexid-s:name "Pasal 49"^^xsd:string .
-lexid:UU_1982_6_Article_49 rdfs:label "Pasal 49 : Pasal 49"^^xsd:string .
+lexid:UU_1982_6_Article_49 rdfs:label "Pasal 49"^^xsd:string .
 lexid:UU_1982_6_Article_49 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_6_Article_49 rdf:type owl:Thing .
 lexid:UU_1982_6_Chapter_VII lexid-s:isContentOf lexid:UU_1982_6 .
@@ -22860,7 +22860,7 @@ lexid:PP_1982_7_Article_1 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_1 .
 lexid:PP_1982_7_Article_1 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:PP_1982_7_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:PP_1982_7_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:PP_1982_7_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_1 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_2 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -22869,7 +22869,7 @@ lexid:PP_1982_7_Article_2 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_2 .
 lexid:PP_1982_7_Article_2 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:PP_1982_7_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:PP_1982_7_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:PP_1982_7_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_2 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_3 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -22878,7 +22878,7 @@ lexid:PP_1982_7_Article_3 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_3 .
 lexid:PP_1982_7_Article_3 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:PP_1982_7_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:PP_1982_7_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:PP_1982_7_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_3 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_4 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -22887,7 +22887,7 @@ lexid:PP_1982_7_Article_4 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_4 .
 lexid:PP_1982_7_Article_4 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:PP_1982_7_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:PP_1982_7_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:PP_1982_7_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_4 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_5 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -22896,7 +22896,7 @@ lexid:PP_1982_7_Article_5 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_5 .
 lexid:PP_1982_7_Article_5 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:PP_1982_7_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:PP_1982_7_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:PP_1982_7_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_5 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_6 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -22905,7 +22905,7 @@ lexid:PP_1982_7_Article_6 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_6 .
 lexid:PP_1982_7_Article_6 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:PP_1982_7_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:PP_1982_7_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:PP_1982_7_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_6 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_7 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -22914,7 +22914,7 @@ lexid:PP_1982_7_Article_7 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_7 .
 lexid:PP_1982_7_Article_7 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:PP_1982_7_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:PP_1982_7_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:PP_1982_7_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_7 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_8 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -22923,7 +22923,7 @@ lexid:PP_1982_7_Article_8 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_8 .
 lexid:PP_1982_7_Article_8 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:PP_1982_7_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:PP_1982_7_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:PP_1982_7_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_8 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_9 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -22934,7 +22934,7 @@ lexid:PP_1982_7_Section_9_1 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
 lexid:PP_1982_7_Article_9 lexid-s:hasPart lexid:PP_1982_7_Section_9_1 .
 lexid:PP_1982_7_Section_9_1 rdf:type lexid-s:Section .
 lexid:PP_1982_7_Section_9_1 lexid-s:name "(1)"^^xsd:string .
-lexid:PP_1982_7_Section_9_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:PP_1982_7_Section_9_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:PP_1982_7_Section_9_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Section_9_1 rdf:type owl:Thing .
 lexid:PP_1982_7_Section_9_2 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
@@ -22943,7 +22943,7 @@ lexid:PP_1982_7_Section_9_2 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
 lexid:PP_1982_7_Article_9 lexid-s:hasPart lexid:PP_1982_7_Section_9_2 .
 lexid:PP_1982_7_Section_9_2 rdf:type lexid-s:Section .
 lexid:PP_1982_7_Section_9_2 lexid-s:name "(2)"^^xsd:string .
-lexid:PP_1982_7_Section_9_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:PP_1982_7_Section_9_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:PP_1982_7_Section_9_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Section_9_2 rdf:type owl:Thing .
 lexid:PP_1982_7_Section_9_3 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
@@ -22952,7 +22952,7 @@ lexid:PP_1982_7_Section_9_3 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
 lexid:PP_1982_7_Article_9 lexid-s:hasPart lexid:PP_1982_7_Section_9_3 .
 lexid:PP_1982_7_Section_9_3 rdf:type lexid-s:Section .
 lexid:PP_1982_7_Section_9_3 lexid-s:name "(3)"^^xsd:string .
-lexid:PP_1982_7_Section_9_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:PP_1982_7_Section_9_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:PP_1982_7_Section_9_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Section_9_3 rdf:type owl:Thing .
 lexid:PP_1982_7_Section_9_4 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
@@ -22961,7 +22961,7 @@ lexid:PP_1982_7_Section_9_4 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
 lexid:PP_1982_7_Article_9 lexid-s:hasPart lexid:PP_1982_7_Section_9_4 .
 lexid:PP_1982_7_Section_9_4 rdf:type lexid-s:Section .
 lexid:PP_1982_7_Section_9_4 lexid-s:name "(4)"^^xsd:string .
-lexid:PP_1982_7_Section_9_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:PP_1982_7_Section_9_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:PP_1982_7_Section_9_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Section_9_4 rdf:type owl:Thing .
 lexid:PP_1982_7_Section_9_5 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
@@ -22970,7 +22970,7 @@ lexid:PP_1982_7_Section_9_5 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
 lexid:PP_1982_7_Article_9 lexid-s:hasPart lexid:PP_1982_7_Section_9_5 .
 lexid:PP_1982_7_Section_9_5 rdf:type lexid-s:Section .
 lexid:PP_1982_7_Section_9_5 lexid-s:name "(5)"^^xsd:string .
-lexid:PP_1982_7_Section_9_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:PP_1982_7_Section_9_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:PP_1982_7_Section_9_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Section_9_5 rdf:type owl:Thing .
 lexid:PP_1982_7_Section_9_6 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
@@ -22979,7 +22979,7 @@ lexid:PP_1982_7_Section_9_6 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
 lexid:PP_1982_7_Article_9 lexid-s:hasPart lexid:PP_1982_7_Section_9_6 .
 lexid:PP_1982_7_Section_9_6 rdf:type lexid-s:Section .
 lexid:PP_1982_7_Section_9_6 lexid-s:name "(6)"^^xsd:string .
-lexid:PP_1982_7_Section_9_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:PP_1982_7_Section_9_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:PP_1982_7_Section_9_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Section_9_6 rdf:type owl:Thing .
 lexid:PP_1982_7_Section_9_7 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
@@ -22988,7 +22988,7 @@ lexid:PP_1982_7_Section_9_7 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
 lexid:PP_1982_7_Article_9 lexid-s:hasPart lexid:PP_1982_7_Section_9_7 .
 lexid:PP_1982_7_Section_9_7 rdf:type lexid-s:Section .
 lexid:PP_1982_7_Section_9_7 lexid-s:name "(7)"^^xsd:string .
-lexid:PP_1982_7_Section_9_7 rdfs:label "ayat 7 : (7)"^^xsd:string .
+lexid:PP_1982_7_Section_9_7 rdfs:label "ayat 7"^^xsd:string .
 lexid:PP_1982_7_Section_9_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Section_9_7 rdf:type owl:Thing .
 lexid:PP_1982_7_Section_9_8 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
@@ -22997,14 +22997,14 @@ lexid:PP_1982_7_Section_9_8 lexid-s:isPartOf lexid:PP_1982_7_Article_9 .
 lexid:PP_1982_7_Article_9 lexid-s:hasPart lexid:PP_1982_7_Section_9_8 .
 lexid:PP_1982_7_Section_9_8 rdf:type lexid-s:Section .
 lexid:PP_1982_7_Section_9_8 lexid-s:name "(8)"^^xsd:string .
-lexid:PP_1982_7_Section_9_8 rdfs:label "ayat 8 : (8)"^^xsd:string .
+lexid:PP_1982_7_Section_9_8 rdfs:label "ayat 8"^^xsd:string .
 lexid:PP_1982_7_Section_9_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Section_9_8 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_9 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_9 .
 lexid:PP_1982_7_Article_9 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:PP_1982_7_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:PP_1982_7_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:PP_1982_7_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_9 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_10 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -23013,7 +23013,7 @@ lexid:PP_1982_7_Article_10 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_10 .
 lexid:PP_1982_7_Article_10 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_10 lexid-s:name "Pasal 10"^^xsd:string .
-lexid:PP_1982_7_Article_10 rdfs:label "Pasal 10 : Pasal 10"^^xsd:string .
+lexid:PP_1982_7_Article_10 rdfs:label "Pasal 10"^^xsd:string .
 lexid:PP_1982_7_Article_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_10 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_11 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -23022,7 +23022,7 @@ lexid:PP_1982_7_Article_11 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_11 .
 lexid:PP_1982_7_Article_11 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_11 lexid-s:name "Pasal 11"^^xsd:string .
-lexid:PP_1982_7_Article_11 rdfs:label "Pasal 11 : Pasal 11"^^xsd:string .
+lexid:PP_1982_7_Article_11 rdfs:label "Pasal 11"^^xsd:string .
 lexid:PP_1982_7_Article_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_11 rdf:type owl:Thing .
 lexid:PP_1982_7_Article_12 lexid-s:isContentOf lexid:PP_1982_7 .
@@ -23031,7 +23031,7 @@ lexid:PP_1982_7_Article_12 lexid-s:isContentOf lexid:PP_1982_7 .
 lexid:PP_1982_7 lexid-s:hasContent lexid:PP_1982_7_Article_12 .
 lexid:PP_1982_7_Article_12 rdf:type lexid-s:Article .
 lexid:PP_1982_7_Article_12 lexid-s:name "Pasal 12"^^xsd:string .
-lexid:PP_1982_7_Article_12 rdfs:label "Pasal 12 : Pasal 12"^^xsd:string .
+lexid:PP_1982_7_Article_12 rdfs:label "Pasal 12"^^xsd:string .
 lexid:PP_1982_7_Article_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_7_Article_12 rdf:type owl:Thing .
 lexid:UU_1982_7_Article_1 lexid-s:isContentOf lexid:UU_1982_7 .
@@ -23042,14 +23042,14 @@ lexid:UU_1982_7_Section_1_1 lexid-s:isPartOf lexid:UU_1982_7_Article_1 .
 lexid:UU_1982_7_Article_1 lexid-s:hasPart lexid:UU_1982_7_Section_1_1 .
 lexid:UU_1982_7_Section_1_1 rdf:type lexid-s:Section .
 lexid:UU_1982_7_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_7_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_7_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_7_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_7_Section_1_1 rdf:type owl:Thing .
 lexid:UU_1982_7_Article_1 lexid-s:isContentOf lexid:UU_1982_7 .
 lexid:UU_1982_7 lexid-s:hasContent lexid:UU_1982_7_Article_1 .
 lexid:UU_1982_7_Article_1 rdf:type lexid-s:Article .
 lexid:UU_1982_7_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:UU_1982_7_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:UU_1982_7_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:UU_1982_7_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_7_Article_1 rdf:type owl:Thing .
 lexid:UU_1982_7_Article_2 lexid-s:isContentOf lexid:UU_1982_7 .
@@ -23060,14 +23060,14 @@ lexid:UU_1982_7_Section_2_1 lexid-s:isPartOf lexid:UU_1982_7_Article_2 .
 lexid:UU_1982_7_Article_2 lexid-s:hasPart lexid:UU_1982_7_Section_2_1 .
 lexid:UU_1982_7_Section_2_1 rdf:type lexid-s:Section .
 lexid:UU_1982_7_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_7_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_7_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_7_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_7_Section_2_1 rdf:type owl:Thing .
 lexid:UU_1982_7_Article_2 lexid-s:isContentOf lexid:UU_1982_7 .
 lexid:UU_1982_7 lexid-s:hasContent lexid:UU_1982_7_Article_2 .
 lexid:UU_1982_7_Article_2 rdf:type lexid-s:Article .
 lexid:UU_1982_7_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:UU_1982_7_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:UU_1982_7_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:UU_1982_7_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_7_Article_2 rdf:type owl:Thing .
 lexid:UU_1982_7_Article_3 lexid-s:isContentOf lexid:UU_1982_7 .
@@ -23078,7 +23078,7 @@ lexid:UU_1982_7_Section_3_1 lexid-s:isPartOf lexid:UU_1982_7_Article_3 .
 lexid:UU_1982_7_Article_3 lexid-s:hasPart lexid:UU_1982_7_Section_3_1 .
 lexid:UU_1982_7_Section_3_1 rdf:type lexid-s:Section .
 lexid:UU_1982_7_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_7_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_7_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_7_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_7_Section_3_1 rdf:type owl:Thing .
 lexid:UU_1982_7_Section_3_2 lexid-s:isPartOf lexid:UU_1982_7_Article_3 .
@@ -23087,14 +23087,14 @@ lexid:UU_1982_7_Section_3_2 lexid-s:isPartOf lexid:UU_1982_7_Article_3 .
 lexid:UU_1982_7_Article_3 lexid-s:hasPart lexid:UU_1982_7_Section_3_2 .
 lexid:UU_1982_7_Section_3_2 rdf:type lexid-s:Section .
 lexid:UU_1982_7_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_7_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_7_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_7_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_7_Section_3_2 rdf:type owl:Thing .
 lexid:UU_1982_7_Article_3 lexid-s:isContentOf lexid:UU_1982_7 .
 lexid:UU_1982_7 lexid-s:hasContent lexid:UU_1982_7_Article_3 .
 lexid:UU_1982_7_Article_3 rdf:type lexid-s:Article .
 lexid:UU_1982_7_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:UU_1982_7_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:UU_1982_7_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:UU_1982_7_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_7_Article_3 rdf:type owl:Thing .
 lexid:UU_1982_7_Article_4 lexid-s:isContentOf lexid:UU_1982_7 .
@@ -23103,7 +23103,7 @@ lexid:UU_1982_7_Article_4 lexid-s:isContentOf lexid:UU_1982_7 .
 lexid:UU_1982_7 lexid-s:hasContent lexid:UU_1982_7_Article_4 .
 lexid:UU_1982_7_Article_4 rdf:type lexid-s:Article .
 lexid:UU_1982_7_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:UU_1982_7_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:UU_1982_7_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:UU_1982_7_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_7_Article_4 rdf:type owl:Thing .
 lexid:UU_1982_7_Article_5 lexid-s:isContentOf lexid:UU_1982_7 .
@@ -23112,7 +23112,7 @@ lexid:UU_1982_7_Article_5 lexid-s:isContentOf lexid:UU_1982_7 .
 lexid:UU_1982_7 lexid-s:hasContent lexid:UU_1982_7_Article_5 .
 lexid:UU_1982_7_Article_5 rdf:type lexid-s:Article .
 lexid:UU_1982_7_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:UU_1982_7_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:UU_1982_7_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:UU_1982_7_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_7_Article_5 rdf:type owl:Thing .
 lexid:PP_1982_8_Chapter_I lexid-s:isContentOf lexid:PP_1982_8 .
@@ -23123,7 +23123,7 @@ lexid:PP_1982_8_Article_1 lexid-s:isPartOf lexid:PP_1982_8_Chapter_I .
 lexid:PP_1982_8_Chapter_I lexid-s:hasPart lexid:PP_1982_8_Article_1 .
 lexid:PP_1982_8_Article_1 rdf:type lexid-s:Article .
 lexid:PP_1982_8_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:PP_1982_8_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:PP_1982_8_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:PP_1982_8_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_8_Article_1 rdf:type owl:Thing .
 lexid:PP_1982_8_Article_2 lexid-s:isPartOf lexid:PP_1982_8_Chapter_I .
@@ -23134,14 +23134,14 @@ lexid:PP_1982_8_Section_2_1 lexid-s:isPartOf lexid:PP_1982_8_Article_2 .
 lexid:PP_1982_8_Article_2 lexid-s:hasPart lexid:PP_1982_8_Section_2_1 .
 lexid:PP_1982_8_Section_2_1 rdf:type lexid-s:Section .
 lexid:PP_1982_8_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:PP_1982_8_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:PP_1982_8_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:PP_1982_8_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_8_Section_2_1 rdf:type owl:Thing .
 lexid:PP_1982_8_Article_2 lexid-s:isPartOf lexid:PP_1982_8_Chapter_I .
 lexid:PP_1982_8_Chapter_I lexid-s:hasPart lexid:PP_1982_8_Article_2 .
 lexid:PP_1982_8_Article_2 rdf:type lexid-s:Article .
 lexid:PP_1982_8_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:PP_1982_8_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:PP_1982_8_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:PP_1982_8_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_8_Article_2 rdf:type owl:Thing .
 lexid:PP_1982_8_Chapter_I lexid-s:isContentOf lexid:PP_1982_8 .
@@ -23159,7 +23159,7 @@ lexid:PP_1982_8_Article_3 lexid-s:isPartOf lexid:PP_1982_8_Chapter_II .
 lexid:PP_1982_8_Chapter_II lexid-s:hasPart lexid:PP_1982_8_Article_3 .
 lexid:PP_1982_8_Article_3 rdf:type lexid-s:Article .
 lexid:PP_1982_8_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:PP_1982_8_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:PP_1982_8_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:PP_1982_8_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_8_Article_3 rdf:type owl:Thing .
 lexid:PP_1982_8_Chapter_II lexid-s:isContentOf lexid:PP_1982_8 .
@@ -23177,7 +23177,7 @@ lexid:PP_1982_8_Article_4 lexid-s:isPartOf lexid:PP_1982_8_Chapter_III .
 lexid:PP_1982_8_Chapter_III lexid-s:hasPart lexid:PP_1982_8_Article_4 .
 lexid:PP_1982_8_Article_4 rdf:type lexid-s:Article .
 lexid:PP_1982_8_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:PP_1982_8_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:PP_1982_8_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:PP_1982_8_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_8_Article_4 rdf:type owl:Thing .
 lexid:PP_1982_8_Article_5 lexid-s:isPartOf lexid:PP_1982_8_Chapter_III .
@@ -23186,7 +23186,7 @@ lexid:PP_1982_8_Article_5 lexid-s:isPartOf lexid:PP_1982_8_Chapter_III .
 lexid:PP_1982_8_Chapter_III lexid-s:hasPart lexid:PP_1982_8_Article_5 .
 lexid:PP_1982_8_Article_5 rdf:type lexid-s:Article .
 lexid:PP_1982_8_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:PP_1982_8_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:PP_1982_8_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:PP_1982_8_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_8_Article_5 rdf:type owl:Thing .
 lexid:PP_1982_8_Chapter_III lexid-s:isContentOf lexid:PP_1982_8 .
@@ -23204,7 +23204,7 @@ lexid:UU_1982_8_Section_1_1 lexid-s:isPartOf lexid:UU_1982_8_Article_1 .
 lexid:UU_1982_8_Article_1 lexid-s:hasPart lexid:UU_1982_8_Section_1_1 .
 lexid:UU_1982_8_Section_1_1 rdf:type lexid-s:Section .
 lexid:UU_1982_8_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_8_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_8_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_8_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_8_Section_1_1 rdf:type owl:Thing .
 lexid:UU_1982_8_Section_1_2 lexid-s:isPartOf lexid:UU_1982_8_Article_1 .
@@ -23213,7 +23213,7 @@ lexid:UU_1982_8_Section_1_2 lexid-s:isPartOf lexid:UU_1982_8_Article_1 .
 lexid:UU_1982_8_Article_1 lexid-s:hasPart lexid:UU_1982_8_Section_1_2 .
 lexid:UU_1982_8_Section_1_2 rdf:type lexid-s:Section .
 lexid:UU_1982_8_Section_1_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_8_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_8_Section_1_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_8_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_8_Section_1_2 rdf:type owl:Thing .
 lexid:UU_1982_8_Section_1_3 lexid-s:isPartOf lexid:UU_1982_8_Article_1 .
@@ -23222,14 +23222,14 @@ lexid:UU_1982_8_Section_1_3 lexid-s:isPartOf lexid:UU_1982_8_Article_1 .
 lexid:UU_1982_8_Article_1 lexid-s:hasPart lexid:UU_1982_8_Section_1_3 .
 lexid:UU_1982_8_Section_1_3 rdf:type lexid-s:Section .
 lexid:UU_1982_8_Section_1_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_8_Section_1_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_8_Section_1_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_8_Section_1_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_8_Section_1_3 rdf:type owl:Thing .
 lexid:UU_1982_8_Article_1 lexid-s:isContentOf lexid:UU_1982_8 .
 lexid:UU_1982_8 lexid-s:hasContent lexid:UU_1982_8_Article_1 .
 lexid:UU_1982_8_Article_1 rdf:type lexid-s:Article .
 lexid:UU_1982_8_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:UU_1982_8_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:UU_1982_8_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:UU_1982_8_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_8_Article_1 rdf:type owl:Thing .
 lexid:UU_1982_8_Article_2 lexid-s:isContentOf lexid:UU_1982_8 .
@@ -23237,8 +23237,8 @@ lexid:UU_1982_8 lexid-s:hasContent lexid:UU_1982_8_Article_2 .
 lexid:UU_1982_8_Article_2 lexid-s:isContentOf lexid:UU_1982_8 .
 lexid:UU_1982_8 lexid-s:hasContent lexid:UU_1982_8_Article_2 .
 lexid:UU_1982_8_Article_2 rdf:type lexid-s:Article .
-lexid:UU_1982_8_Article_2 lexid-s:name "Pasal  2"^^xsd:string .
-lexid:UU_1982_8_Article_2 rdfs:label "Pasal 2 : Pasal  2"^^xsd:string .
+lexid:UU_1982_8_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:UU_1982_8_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:UU_1982_8_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_8_Article_2 rdf:type owl:Thing .
 lexid:PP_1982_9_Chapter_I lexid-s:isContentOf lexid:PP_1982_9 .
@@ -23249,7 +23249,7 @@ lexid:PP_1982_9_Article_1 lexid-s:isPartOf lexid:PP_1982_9_Chapter_I .
 lexid:PP_1982_9_Chapter_I lexid-s:hasPart lexid:PP_1982_9_Article_1 .
 lexid:PP_1982_9_Article_1 rdf:type lexid-s:Article .
 lexid:PP_1982_9_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:PP_1982_9_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:PP_1982_9_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:PP_1982_9_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_9_Article_1 rdf:type owl:Thing .
 lexid:PP_1982_9_Article_2 lexid-s:isPartOf lexid:PP_1982_9_Chapter_I .
@@ -23260,7 +23260,7 @@ lexid:PP_1982_9_Section_2_1 lexid-s:isPartOf lexid:PP_1982_9_Article_2 .
 lexid:PP_1982_9_Article_2 lexid-s:hasPart lexid:PP_1982_9_Section_2_1 .
 lexid:PP_1982_9_Section_2_1 rdf:type lexid-s:Section .
 lexid:PP_1982_9_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:PP_1982_9_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:PP_1982_9_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:PP_1982_9_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_9_Section_2_1 rdf:type owl:Thing .
 lexid:PP_1982_9_Section_2_2 lexid-s:isPartOf lexid:PP_1982_9_Article_2 .
@@ -23269,14 +23269,14 @@ lexid:PP_1982_9_Section_2_2 lexid-s:isPartOf lexid:PP_1982_9_Article_2 .
 lexid:PP_1982_9_Article_2 lexid-s:hasPart lexid:PP_1982_9_Section_2_2 .
 lexid:PP_1982_9_Section_2_2 rdf:type lexid-s:Section .
 lexid:PP_1982_9_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:PP_1982_9_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:PP_1982_9_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:PP_1982_9_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_9_Section_2_2 rdf:type owl:Thing .
 lexid:PP_1982_9_Article_2 lexid-s:isPartOf lexid:PP_1982_9_Chapter_I .
 lexid:PP_1982_9_Chapter_I lexid-s:hasPart lexid:PP_1982_9_Article_2 .
 lexid:PP_1982_9_Article_2 rdf:type lexid-s:Article .
 lexid:PP_1982_9_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:PP_1982_9_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:PP_1982_9_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:PP_1982_9_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_9_Article_2 rdf:type owl:Thing .
 lexid:PP_1982_9_Chapter_I lexid-s:isContentOf lexid:PP_1982_9 .
@@ -23294,7 +23294,7 @@ lexid:PP_1982_9_Article_3 lexid-s:isPartOf lexid:PP_1982_9_Chapter_II .
 lexid:PP_1982_9_Chapter_II lexid-s:hasPart lexid:PP_1982_9_Article_3 .
 lexid:PP_1982_9_Article_3 rdf:type lexid-s:Article .
 lexid:PP_1982_9_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:PP_1982_9_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:PP_1982_9_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:PP_1982_9_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_9_Article_3 rdf:type owl:Thing .
 lexid:PP_1982_9_Chapter_II lexid-s:isContentOf lexid:PP_1982_9 .
@@ -23312,7 +23312,7 @@ lexid:PP_1982_9_Article_4 lexid-s:isPartOf lexid:PP_1982_9_Chapter_III .
 lexid:PP_1982_9_Chapter_III lexid-s:hasPart lexid:PP_1982_9_Article_4 .
 lexid:PP_1982_9_Article_4 rdf:type lexid-s:Article .
 lexid:PP_1982_9_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:PP_1982_9_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:PP_1982_9_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:PP_1982_9_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_9_Article_4 rdf:type owl:Thing .
 lexid:PP_1982_9_Article_5 lexid-s:isPartOf lexid:PP_1982_9_Chapter_III .
@@ -23321,7 +23321,7 @@ lexid:PP_1982_9_Article_5 lexid-s:isPartOf lexid:PP_1982_9_Chapter_III .
 lexid:PP_1982_9_Chapter_III lexid-s:hasPart lexid:PP_1982_9_Article_5 .
 lexid:PP_1982_9_Article_5 rdf:type lexid-s:Article .
 lexid:PP_1982_9_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:PP_1982_9_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:PP_1982_9_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:PP_1982_9_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1982_9_Article_5 rdf:type owl:Thing .
 lexid:PP_1982_9_Chapter_III lexid-s:isContentOf lexid:PP_1982_9 .
@@ -23339,7 +23339,7 @@ lexid:UU_1982_9_Section_1_1 lexid-s:isPartOf lexid:UU_1982_9_Article_1 .
 lexid:UU_1982_9_Article_1 lexid-s:hasPart lexid:UU_1982_9_Section_1_1 .
 lexid:UU_1982_9_Section_1_1 rdf:type lexid-s:Section .
 lexid:UU_1982_9_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:UU_1982_9_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:UU_1982_9_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:UU_1982_9_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_9_Section_1_1 rdf:type owl:Thing .
 lexid:UU_1982_9_Section_1_2 lexid-s:isPartOf lexid:UU_1982_9_Article_1 .
@@ -23348,7 +23348,7 @@ lexid:UU_1982_9_Section_1_2 lexid-s:isPartOf lexid:UU_1982_9_Article_1 .
 lexid:UU_1982_9_Article_1 lexid-s:hasPart lexid:UU_1982_9_Section_1_2 .
 lexid:UU_1982_9_Section_1_2 rdf:type lexid-s:Section .
 lexid:UU_1982_9_Section_1_2 lexid-s:name "(2)"^^xsd:string .
-lexid:UU_1982_9_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:UU_1982_9_Section_1_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:UU_1982_9_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_9_Section_1_2 rdf:type owl:Thing .
 lexid:UU_1982_9_Section_1_3 lexid-s:isPartOf lexid:UU_1982_9_Article_1 .
@@ -23357,14 +23357,14 @@ lexid:UU_1982_9_Section_1_3 lexid-s:isPartOf lexid:UU_1982_9_Article_1 .
 lexid:UU_1982_9_Article_1 lexid-s:hasPart lexid:UU_1982_9_Section_1_3 .
 lexid:UU_1982_9_Section_1_3 rdf:type lexid-s:Section .
 lexid:UU_1982_9_Section_1_3 lexid-s:name "(3)"^^xsd:string .
-lexid:UU_1982_9_Section_1_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:UU_1982_9_Section_1_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:UU_1982_9_Section_1_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_9_Section_1_3 rdf:type owl:Thing .
 lexid:UU_1982_9_Article_1 lexid-s:isContentOf lexid:UU_1982_9 .
 lexid:UU_1982_9 lexid-s:hasContent lexid:UU_1982_9_Article_1 .
 lexid:UU_1982_9_Article_1 rdf:type lexid-s:Article .
 lexid:UU_1982_9_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:UU_1982_9_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:UU_1982_9_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:UU_1982_9_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_9_Article_1 rdf:type owl:Thing .
 lexid:UU_1982_9_Article_2 lexid-s:isContentOf lexid:UU_1982_9 .
@@ -23373,7 +23373,7 @@ lexid:UU_1982_9_Article_2 lexid-s:isContentOf lexid:UU_1982_9 .
 lexid:UU_1982_9 lexid-s:hasContent lexid:UU_1982_9_Article_2 .
 lexid:UU_1982_9_Article_2 rdf:type lexid-s:Article .
 lexid:UU_1982_9_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:UU_1982_9_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:UU_1982_9_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:UU_1982_9_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1982_9_Article_2 rdf:type owl:Thing .
 lexid:PP_1982_1982 lexid-s:considers "bahwa demi peningkatan daya guna dan hasil guna penyelenggaraan pemerintahan serta pembangunan di Kabupaten Daerah Tingkat II Langkat, dipandang perlu untuk memindahkan kedudukan pusat pemerintahan Kabupaten Daerah Tingkat II Langkat dari wilayah Kotamadya Daerah Tingkat II Binjai ke lokasi yang lebih tepat di wilayah Kabupaten Daerah Tingkat II Langkat"^^xsd:string .

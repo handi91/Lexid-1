@@ -20363,7 +20363,7 @@ lexid:Permen_Keu_2010_58_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_58 
 lexid:Permen_Keu_2010_58 lexid-s:hasContent lexid:Permen_Keu_2010_58_Article_1 .
 lexid:Permen_Keu_2010_58_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_58_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_58_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_58_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_58_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
@@ -20372,7 +20372,7 @@ lexid:Permen_Keu_2010_58_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_58 
 lexid:Permen_Keu_2010_58 lexid-s:hasContent lexid:Permen_Keu_2010_58_Article_2 .
 lexid:Permen_Keu_2010_58_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_58_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_58_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_58_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_58_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
@@ -20381,7 +20381,7 @@ lexid:Permen_Keu_2010_58_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_58 
 lexid:Permen_Keu_2010_58 lexid-s:hasContent lexid:Permen_Keu_2010_58_Article_3 .
 lexid:Permen_Keu_2010_58_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_58_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_58_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_58_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_58_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
@@ -20392,7 +20392,7 @@ lexid:Permen_Keu_2010_58_Section_4_1 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_4_1 .
 lexid:Permen_Keu_2010_58_Section_4_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_4_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_4_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_4_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_4_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_4_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Section_4_2 lexid-s:isPartOf lexid:Permen_Keu_2010_58_Article_4 .
@@ -20401,7 +20401,7 @@ lexid:Permen_Keu_2010_58_Section_4_2 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_4_2 .
 lexid:Permen_Keu_2010_58_Section_4_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_4_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_4_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_4_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_4_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_4_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Section_4_3 lexid-s:isPartOf lexid:Permen_Keu_2010_58_Article_4 .
@@ -20410,14 +20410,14 @@ lexid:Permen_Keu_2010_58_Section_4_3 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_4_3 .
 lexid:Permen_Keu_2010_58_Section_4_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_4_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_4_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_4_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_4_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_4_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
 lexid:Permen_Keu_2010_58 lexid-s:hasContent lexid:Permen_Keu_2010_58_Article_4 .
 lexid:Permen_Keu_2010_58_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_58_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_Keu_2010_58_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_Keu_2010_58_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Keu_2010_58_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Article_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
@@ -20428,7 +20428,7 @@ lexid:Permen_Keu_2010_58_Section_5_1 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_5_1 .
 lexid:Permen_Keu_2010_58_Section_5_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_5_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_58_Article_5 .
@@ -20437,7 +20437,7 @@ lexid:Permen_Keu_2010_58_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_5_2 .
 lexid:Permen_Keu_2010_58_Section_5_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_5_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_58_Article_5 .
@@ -20446,7 +20446,7 @@ lexid:Permen_Keu_2010_58_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_5_3 .
 lexid:Permen_Keu_2010_58_Section_5_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_5_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_5_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_5_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_5_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_5_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Section_5_4 lexid-s:isPartOf lexid:Permen_Keu_2010_58_Article_5 .
@@ -20455,7 +20455,7 @@ lexid:Permen_Keu_2010_58_Section_5_4 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_5_4 .
 lexid:Permen_Keu_2010_58_Section_5_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_5_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_5_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_5_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_5_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_5_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Section_5_5 lexid-s:isPartOf lexid:Permen_Keu_2010_58_Article_5 .
@@ -20464,14 +20464,14 @@ lexid:Permen_Keu_2010_58_Section_5_5 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_5_5 .
 lexid:Permen_Keu_2010_58_Section_5_5 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_5_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_5_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_5_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_5_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_5_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
 lexid:Permen_Keu_2010_58 lexid-s:hasContent lexid:Permen_Keu_2010_58_Article_5 .
 lexid:Permen_Keu_2010_58_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_58_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_58_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_58_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_58_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
@@ -20482,7 +20482,7 @@ lexid:Permen_Keu_2010_58_Section_6_1 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_6 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_6_1 .
 lexid:Permen_Keu_2010_58_Section_6_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_6_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_6_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_6_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_6_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_6_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Section_6_2 lexid-s:isPartOf lexid:Permen_Keu_2010_58_Article_6 .
@@ -20491,7 +20491,7 @@ lexid:Permen_Keu_2010_58_Section_6_2 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_6 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_6_2 .
 lexid:Permen_Keu_2010_58_Section_6_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_6_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_6_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_6_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_6_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_6_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Section_6_3 lexid-s:isPartOf lexid:Permen_Keu_2010_58_Article_6 .
@@ -20500,14 +20500,14 @@ lexid:Permen_Keu_2010_58_Section_6_3 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_6 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_6_3 .
 lexid:Permen_Keu_2010_58_Section_6_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_6_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_6_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_6_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_6_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_6_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
 lexid:Permen_Keu_2010_58 lexid-s:hasContent lexid:Permen_Keu_2010_58_Article_6 .
 lexid:Permen_Keu_2010_58_Article_6 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_58_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Permen_Keu_2010_58_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Permen_Keu_2010_58_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Permen_Keu_2010_58_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Article_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
@@ -20518,7 +20518,7 @@ lexid:Permen_Keu_2010_58_Section_7_1 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_7_1 .
 lexid:Permen_Keu_2010_58_Section_7_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_7_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_7_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_7_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_7_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_7_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Section_7_2 lexid-s:isPartOf lexid:Permen_Keu_2010_58_Article_7 .
@@ -20527,14 +20527,14 @@ lexid:Permen_Keu_2010_58_Section_7_2 lexid-s:isPartOf lexid:Permen_Keu_2010_58_A
 lexid:Permen_Keu_2010_58_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_58_Section_7_2 .
 lexid:Permen_Keu_2010_58_Section_7_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_58_Section_7_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_58_Section_7_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_58_Section_7_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_58_Section_7_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Section_7_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
 lexid:Permen_Keu_2010_58 lexid-s:hasContent lexid:Permen_Keu_2010_58_Article_7 .
 lexid:Permen_Keu_2010_58_Article_7 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_58_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Permen_Keu_2010_58_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Permen_Keu_2010_58_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Permen_Keu_2010_58_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Article_7 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58_Article_8 lexid-s:isContentOf lexid:Permen_Keu_2010_58 .
@@ -20543,7 +20543,7 @@ lexid:Permen_Keu_2010_58_Article_8 lexid-s:isContentOf lexid:Permen_Keu_2010_58 
 lexid:Permen_Keu_2010_58 lexid-s:hasContent lexid:Permen_Keu_2010_58_Article_8 .
 lexid:Permen_Keu_2010_58_Article_8 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_58_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Permen_Keu_2010_58_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Permen_Keu_2010_58_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Permen_Keu_2010_58_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_58_Article_8 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_59_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_59 .
@@ -20554,14 +20554,14 @@ lexid:Permen_Keu_2010_59_Section_1_1 lexid-s:isPartOf lexid:Permen_Keu_2010_59_A
 lexid:Permen_Keu_2010_59_Article_1 lexid-s:hasPart lexid:Permen_Keu_2010_59_Section_1_1 .
 lexid:Permen_Keu_2010_59_Section_1_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_59_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_59_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_59_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_59_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_59_Section_1_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_59_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_59 .
 lexid:Permen_Keu_2010_59 lexid-s:hasContent lexid:Permen_Keu_2010_59_Article_1 .
 lexid:Permen_Keu_2010_59_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_59_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_59_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_59_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_59_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_59_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_59_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_59 .
@@ -20570,7 +20570,7 @@ lexid:Permen_Keu_2010_59_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_59 
 lexid:Permen_Keu_2010_59 lexid-s:hasContent lexid:Permen_Keu_2010_59_Article_2 .
 lexid:Permen_Keu_2010_59_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_59_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_59_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_59_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_59_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_59_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_59_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_59 .
@@ -20579,7 +20579,7 @@ lexid:Permen_Keu_2010_59_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_59 
 lexid:Permen_Keu_2010_59 lexid-s:hasContent lexid:Permen_Keu_2010_59_Article_3 .
 lexid:Permen_Keu_2010_59_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_59_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_59_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_59_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_59_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_59_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_59_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_59 .
@@ -20588,7 +20588,7 @@ lexid:Permen_Keu_2010_59_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_59 
 lexid:Permen_Keu_2010_59 lexid-s:hasContent lexid:Permen_Keu_2010_59_Article_5 .
 lexid:Permen_Keu_2010_59_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_59_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_59_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_59_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_59_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_59_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_59_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_59 .
@@ -20597,7 +20597,7 @@ lexid:Permen_Keu_2010_59_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_59 
 lexid:Permen_Keu_2010_59 lexid-s:hasContent lexid:Permen_Keu_2010_59_Article_6 .
 lexid:Permen_Keu_2010_59_Article_6 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_59_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Permen_Keu_2010_59_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Permen_Keu_2010_59_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Permen_Keu_2010_59_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_59_Article_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_59_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_59 .
@@ -20606,7 +20606,7 @@ lexid:Permen_Keu_2010_59_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_59 
 lexid:Permen_Keu_2010_59 lexid-s:hasContent lexid:Permen_Keu_2010_59_Article_7 .
 lexid:Permen_Keu_2010_59_Article_7 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_59_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Permen_Keu_2010_59_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Permen_Keu_2010_59_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Permen_Keu_2010_59_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_59_Article_7 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_06 .
@@ -20617,7 +20617,7 @@ lexid:Permen_Keu_2010_06_Section_1_1 lexid-s:isPartOf lexid:Permen_Keu_2010_06_A
 lexid:Permen_Keu_2010_06_Article_1 lexid-s:hasPart lexid:Permen_Keu_2010_06_Section_1_1 .
 lexid:Permen_Keu_2010_06_Section_1_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_06_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_06_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_06_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_06_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Section_1_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Section_1_2 lexid-s:isPartOf lexid:Permen_Keu_2010_06_Article_1 .
@@ -20626,14 +20626,14 @@ lexid:Permen_Keu_2010_06_Section_1_2 lexid-s:isPartOf lexid:Permen_Keu_2010_06_A
 lexid:Permen_Keu_2010_06_Article_1 lexid-s:hasPart lexid:Permen_Keu_2010_06_Section_1_2 .
 lexid:Permen_Keu_2010_06_Section_1_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_06_Section_1_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_06_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_06_Section_1_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_06_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Section_1_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_06 .
 lexid:Permen_Keu_2010_06 lexid-s:hasContent lexid:Permen_Keu_2010_06_Article_1 .
 lexid:Permen_Keu_2010_06_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_06_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_06_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_06_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_06_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_06 .
@@ -20644,7 +20644,7 @@ lexid:Permen_Keu_2010_06_Section_2_1 lexid-s:isPartOf lexid:Permen_Keu_2010_06_A
 lexid:Permen_Keu_2010_06_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_06_Section_2_1 .
 lexid:Permen_Keu_2010_06_Section_2_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_06_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_06_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_06_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_06_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Section_2_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_06_Article_2 .
@@ -20653,7 +20653,7 @@ lexid:Permen_Keu_2010_06_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_06_A
 lexid:Permen_Keu_2010_06_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_06_Section_2_2 .
 lexid:Permen_Keu_2010_06_Section_2_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_06_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_06_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_06_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_06_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Section_2_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Section_2_3 lexid-s:isPartOf lexid:Permen_Keu_2010_06_Article_2 .
@@ -20662,14 +20662,14 @@ lexid:Permen_Keu_2010_06_Section_2_3 lexid-s:isPartOf lexid:Permen_Keu_2010_06_A
 lexid:Permen_Keu_2010_06_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_06_Section_2_3 .
 lexid:Permen_Keu_2010_06_Section_2_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_06_Section_2_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_06_Section_2_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_06_Section_2_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_06_Section_2_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Section_2_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_06 .
 lexid:Permen_Keu_2010_06 lexid-s:hasContent lexid:Permen_Keu_2010_06_Article_2 .
 lexid:Permen_Keu_2010_06_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_06_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_06_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_06_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_06_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_06 .
@@ -20680,7 +20680,7 @@ lexid:Permen_Keu_2010_06_Section_3_1 lexid-s:isPartOf lexid:Permen_Keu_2010_06_A
 lexid:Permen_Keu_2010_06_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_06_Section_3_1 .
 lexid:Permen_Keu_2010_06_Section_3_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_06_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_06_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_06_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_06_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Section_3_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_06_Article_3 .
@@ -20689,7 +20689,7 @@ lexid:Permen_Keu_2010_06_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_06_A
 lexid:Permen_Keu_2010_06_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_06_Section_3_2 .
 lexid:Permen_Keu_2010_06_Section_3_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_06_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_06_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_06_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_06_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Section_3_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Section_3_3 lexid-s:isPartOf lexid:Permen_Keu_2010_06_Article_3 .
@@ -20698,7 +20698,7 @@ lexid:Permen_Keu_2010_06_Section_3_3 lexid-s:isPartOf lexid:Permen_Keu_2010_06_A
 lexid:Permen_Keu_2010_06_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_06_Section_3_3 .
 lexid:Permen_Keu_2010_06_Section_3_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_06_Section_3_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_06_Section_3_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_06_Section_3_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_06_Section_3_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Section_3_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Section_3_4 lexid-s:isPartOf lexid:Permen_Keu_2010_06_Article_3 .
@@ -20707,14 +20707,14 @@ lexid:Permen_Keu_2010_06_Section_3_4 lexid-s:isPartOf lexid:Permen_Keu_2010_06_A
 lexid:Permen_Keu_2010_06_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_06_Section_3_4 .
 lexid:Permen_Keu_2010_06_Section_3_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_06_Section_3_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_06_Section_3_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_06_Section_3_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_06_Section_3_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Section_3_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_06 .
 lexid:Permen_Keu_2010_06 lexid-s:hasContent lexid:Permen_Keu_2010_06_Article_3 .
 lexid:Permen_Keu_2010_06_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_06_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_06_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_06_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_06_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_06 .
@@ -20723,7 +20723,7 @@ lexid:Permen_Keu_2010_06_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_06 
 lexid:Permen_Keu_2010_06 lexid-s:hasContent lexid:Permen_Keu_2010_06_Article_4 .
 lexid:Permen_Keu_2010_06_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_06_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_Keu_2010_06_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_Keu_2010_06_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Keu_2010_06_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Article_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_06_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_06 .
@@ -20732,7 +20732,7 @@ lexid:Permen_Keu_2010_06_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_06 
 lexid:Permen_Keu_2010_06 lexid-s:hasContent lexid:Permen_Keu_2010_06_Article_5 .
 lexid:Permen_Keu_2010_06_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_06_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_06_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_06_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_06_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_06_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20741,7 +20741,7 @@ lexid:Permen_Keu_2010_60_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_60 
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_1 .
 lexid:Permen_Keu_2010_60_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20752,7 +20752,7 @@ lexid:Permen_Keu_2010_60_Section_2_1 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_2_1 .
 lexid:Permen_Keu_2010_60_Section_2_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_2_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_2 .
@@ -20761,14 +20761,14 @@ lexid:Permen_Keu_2010_60_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_2_2 .
 lexid:Permen_Keu_2010_60_Section_2_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_2_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_2 .
 lexid:Permen_Keu_2010_60_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20779,7 +20779,7 @@ lexid:Permen_Keu_2010_60_Section_3_1 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_3_1 .
 lexid:Permen_Keu_2010_60_Section_3_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_3_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_3 .
@@ -20788,14 +20788,14 @@ lexid:Permen_Keu_2010_60_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_3_2 .
 lexid:Permen_Keu_2010_60_Section_3_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_3_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_3 .
 lexid:Permen_Keu_2010_60_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20806,7 +20806,7 @@ lexid:Permen_Keu_2010_60_Section_4_1 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_4_1 .
 lexid:Permen_Keu_2010_60_Section_4_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_4_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_4_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_4_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_4_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_4_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_4_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_4 .
@@ -20815,14 +20815,14 @@ lexid:Permen_Keu_2010_60_Section_4_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_4_2 .
 lexid:Permen_Keu_2010_60_Section_4_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_4_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_4_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_4_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_4_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_4_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_4 .
 lexid:Permen_Keu_2010_60_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20833,7 +20833,7 @@ lexid:Permen_Keu_2010_60_Section_5_1 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_5_1 .
 lexid:Permen_Keu_2010_60_Section_5_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_5_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_5 .
@@ -20842,7 +20842,7 @@ lexid:Permen_Keu_2010_60_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_5_2 .
 lexid:Permen_Keu_2010_60_Section_5_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_5_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_5 .
@@ -20851,7 +20851,7 @@ lexid:Permen_Keu_2010_60_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_5_3 .
 lexid:Permen_Keu_2010_60_Section_5_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_5_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_5_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_5_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_5_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_5_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_5_4 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_5 .
@@ -20860,14 +20860,14 @@ lexid:Permen_Keu_2010_60_Section_5_4 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_5_4 .
 lexid:Permen_Keu_2010_60_Section_5_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_5_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_5_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_5_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_5_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_5_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_5 .
 lexid:Permen_Keu_2010_60_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20876,7 +20876,7 @@ lexid:Permen_Keu_2010_60_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_60 
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_6 .
 lexid:Permen_Keu_2010_60_Article_6 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20887,7 +20887,7 @@ lexid:Permen_Keu_2010_60_Section_7_1 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_7_1 .
 lexid:Permen_Keu_2010_60_Section_7_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_7_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_7_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_7_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_7_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_7_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_7_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_7 .
@@ -20896,7 +20896,7 @@ lexid:Permen_Keu_2010_60_Section_7_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_7_2 .
 lexid:Permen_Keu_2010_60_Section_7_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_7_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_7_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_7_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_7_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_7_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_7_3 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_7 .
@@ -20905,14 +20905,14 @@ lexid:Permen_Keu_2010_60_Section_7_3 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_7_3 .
 lexid:Permen_Keu_2010_60_Section_7_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_7_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_7_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_7_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_7_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_7_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_7 .
 lexid:Permen_Keu_2010_60_Article_7 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_7 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_8 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20921,7 +20921,7 @@ lexid:Permen_Keu_2010_60_Article_8 lexid-s:isContentOf lexid:Permen_Keu_2010_60 
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_8 .
 lexid:Permen_Keu_2010_60_Article_8 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_8 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_9 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20932,7 +20932,7 @@ lexid:Permen_Keu_2010_60_Section_9_1 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_9 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_9_1 .
 lexid:Permen_Keu_2010_60_Section_9_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_9_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_9_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_9_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_9_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_9_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_9_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_9 .
@@ -20941,7 +20941,7 @@ lexid:Permen_Keu_2010_60_Section_9_2 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_9 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_9_2 .
 lexid:Permen_Keu_2010_60_Section_9_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_9_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_9_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_9_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_9_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_9_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Section_9_3 lexid-s:isPartOf lexid:Permen_Keu_2010_60_Article_9 .
@@ -20950,14 +20950,14 @@ lexid:Permen_Keu_2010_60_Section_9_3 lexid-s:isPartOf lexid:Permen_Keu_2010_60_A
 lexid:Permen_Keu_2010_60_Article_9 lexid-s:hasPart lexid:Permen_Keu_2010_60_Section_9_3 .
 lexid:Permen_Keu_2010_60_Section_9_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_60_Section_9_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_60_Section_9_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_60_Section_9_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_60_Section_9_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Section_9_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_9 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_9 .
 lexid:Permen_Keu_2010_60_Article_9 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_9 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_10 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20966,7 +20966,7 @@ lexid:Permen_Keu_2010_60_Article_10 lexid-s:isContentOf lexid:Permen_Keu_2010_60
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_10 .
 lexid:Permen_Keu_2010_60_Article_10 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_10 lexid-s:name "Pasal 10"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_10 rdfs:label "Pasal 10 : Pasal 10"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_10 rdfs:label "Pasal 10"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_10 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_11 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20975,7 +20975,7 @@ lexid:Permen_Keu_2010_60_Article_11 lexid-s:isContentOf lexid:Permen_Keu_2010_60
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_11 .
 lexid:Permen_Keu_2010_60_Article_11 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_11 lexid-s:name "Pasal 11"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_11 rdfs:label "Pasal 11 : Pasal 11"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_11 rdfs:label "Pasal 11"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_11 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_60_Article_12 lexid-s:isContentOf lexid:Permen_Keu_2010_60 .
@@ -20984,7 +20984,7 @@ lexid:Permen_Keu_2010_60_Article_12 lexid-s:isContentOf lexid:Permen_Keu_2010_60
 lexid:Permen_Keu_2010_60 lexid-s:hasContent lexid:Permen_Keu_2010_60_Article_12 .
 lexid:Permen_Keu_2010_60_Article_12 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_60_Article_12 lexid-s:name "Pasal 12"^^xsd:string .
-lexid:Permen_Keu_2010_60_Article_12 rdfs:label "Pasal 12 : Pasal 12"^^xsd:string .
+lexid:Permen_Keu_2010_60_Article_12 rdfs:label "Pasal 12"^^xsd:string .
 lexid:Permen_Keu_2010_60_Article_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_60_Article_12 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Chapter_I lexid-s:isContentOf lexid:Permen_Keu_2010_61 .
@@ -20995,7 +20995,7 @@ lexid:Permen_Keu_2010_61_Article_1 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Cha
 lexid:Permen_Keu_2010_61_Chapter_I lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_1 .
 lexid:Permen_Keu_2010_61_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Chapter_I lexid-s:isContentOf lexid:Permen_Keu_2010_61 .
@@ -21013,7 +21013,7 @@ lexid:Permen_Keu_2010_61_Article_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Cha
 lexid:Permen_Keu_2010_61_Chapter_II lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_2 .
 lexid:Permen_Keu_2010_61_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Chapter_II lexid-s:isContentOf lexid:Permen_Keu_2010_61 .
@@ -21033,7 +21033,7 @@ lexid:Permen_Keu_2010_61_Section_3_1 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_3_1 .
 lexid:Permen_Keu_2010_61_Section_3_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_3_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_3 .
@@ -21042,7 +21042,7 @@ lexid:Permen_Keu_2010_61_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_3_2 .
 lexid:Permen_Keu_2010_61_Section_3_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_3_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_3_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_3 .
@@ -21051,7 +21051,7 @@ lexid:Permen_Keu_2010_61_Section_3_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_3_3 .
 lexid:Permen_Keu_2010_61_Section_3_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_3_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_3_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_3_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_3_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_3_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_3_4 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_3 .
@@ -21060,7 +21060,7 @@ lexid:Permen_Keu_2010_61_Section_3_4 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_3_4 .
 lexid:Permen_Keu_2010_61_Section_3_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_3_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_3_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_3_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_3_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_3_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_3_5 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_3 .
@@ -21069,7 +21069,7 @@ lexid:Permen_Keu_2010_61_Section_3_5 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_3_5 .
 lexid:Permen_Keu_2010_61_Section_3_5 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_3_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_3_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_3_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_3_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_3_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_3_6 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_3 .
@@ -21078,14 +21078,14 @@ lexid:Permen_Keu_2010_61_Section_3_6 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_3_6 .
 lexid:Permen_Keu_2010_61_Section_3_6 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_3_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_3_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_3_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_3_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_3_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_III .
 lexid:Permen_Keu_2010_61_Chapter_III lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_3 .
 lexid:Permen_Keu_2010_61_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_4 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_III .
@@ -21096,7 +21096,7 @@ lexid:Permen_Keu_2010_61_Section_4_1 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_4_1 .
 lexid:Permen_Keu_2010_61_Section_4_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_4_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_4_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_4_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_4_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_4_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_4_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_4 .
@@ -21105,7 +21105,7 @@ lexid:Permen_Keu_2010_61_Section_4_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_4_2 .
 lexid:Permen_Keu_2010_61_Section_4_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_4_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_4_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_4_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_4_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_4_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_4_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_4 .
@@ -21114,14 +21114,14 @@ lexid:Permen_Keu_2010_61_Section_4_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_4_3 .
 lexid:Permen_Keu_2010_61_Section_4_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_4_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_4_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_4_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_4_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_4_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_4 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_III .
 lexid:Permen_Keu_2010_61_Chapter_III lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_4 .
 lexid:Permen_Keu_2010_61_Article_4 rdf:type lexid-s:Article .
-lexid:Permen_Keu_2010_61_Article_4 lexid-s:name "Pasal  4"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_4 rdfs:label "Pasal 4 : Pasal  4"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_5 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_III .
@@ -21132,7 +21132,7 @@ lexid:Permen_Keu_2010_61_Section_5_1 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_5_1 .
 lexid:Permen_Keu_2010_61_Section_5_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_5_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_5 .
@@ -21141,7 +21141,7 @@ lexid:Permen_Keu_2010_61_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_5_2 .
 lexid:Permen_Keu_2010_61_Section_5_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_5_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_5 .
@@ -21150,14 +21150,14 @@ lexid:Permen_Keu_2010_61_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_5_3 .
 lexid:Permen_Keu_2010_61_Section_5_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_5_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_5_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_5_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_5_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_5_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_5 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_III .
 lexid:Permen_Keu_2010_61_Chapter_III lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_5 .
 lexid:Permen_Keu_2010_61_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_6 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_III .
@@ -21166,7 +21166,7 @@ lexid:Permen_Keu_2010_61_Article_6 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Cha
 lexid:Permen_Keu_2010_61_Chapter_III lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_6 .
 lexid:Permen_Keu_2010_61_Article_6 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Chapter_III lexid-s:isContentOf lexid:Permen_Keu_2010_61 .
@@ -21186,7 +21186,7 @@ lexid:Permen_Keu_2010_61_Section_7_1 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_7_1 .
 lexid:Permen_Keu_2010_61_Section_7_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_7_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_7_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_7_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_7_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_7_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_7_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_7 .
@@ -21195,7 +21195,7 @@ lexid:Permen_Keu_2010_61_Section_7_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_7_2 .
 lexid:Permen_Keu_2010_61_Section_7_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_7_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_7_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_7_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_7_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_7_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_7_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_7 .
@@ -21204,7 +21204,7 @@ lexid:Permen_Keu_2010_61_Section_7_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_7_3 .
 lexid:Permen_Keu_2010_61_Section_7_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_7_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_7_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_7_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_7_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_7_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_7_4 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_7 .
@@ -21213,7 +21213,7 @@ lexid:Permen_Keu_2010_61_Section_7_4 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_7_4 .
 lexid:Permen_Keu_2010_61_Section_7_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_7_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_7_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_7_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_7_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_7_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_7_5 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_7 .
@@ -21222,14 +21222,14 @@ lexid:Permen_Keu_2010_61_Section_7_5 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_7_5 .
 lexid:Permen_Keu_2010_61_Section_7_5 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_7_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_7_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_7_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_7_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_7_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_7 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_IV .
 lexid:Permen_Keu_2010_61_Chapter_IV lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_7 .
 lexid:Permen_Keu_2010_61_Article_7 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_7 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Chapter_IV lexid-s:isContentOf lexid:Permen_Keu_2010_61 .
@@ -21249,7 +21249,7 @@ lexid:Permen_Keu_2010_61_Section_8_1 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_8 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_8_1 .
 lexid:Permen_Keu_2010_61_Section_8_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_8_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_8_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_8_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_8_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_8_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_8_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_8 .
@@ -21258,14 +21258,14 @@ lexid:Permen_Keu_2010_61_Section_8_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_8 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_8_2 .
 lexid:Permen_Keu_2010_61_Section_8_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_8_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_8_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_8_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_8_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_8_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_8 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_V .
 lexid:Permen_Keu_2010_61_Chapter_V lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_8 .
 lexid:Permen_Keu_2010_61_Article_8 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_8 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_9 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_V .
@@ -21276,7 +21276,7 @@ lexid:Permen_Keu_2010_61_Section_9_1 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_9 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_9_1 .
 lexid:Permen_Keu_2010_61_Section_9_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_9_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_9_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_9_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_9_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_9_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_9_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_9 .
@@ -21285,14 +21285,14 @@ lexid:Permen_Keu_2010_61_Section_9_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_A
 lexid:Permen_Keu_2010_61_Article_9 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_9_2 .
 lexid:Permen_Keu_2010_61_Section_9_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_9_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_9_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_9_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_9_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_9_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_9 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_V .
 lexid:Permen_Keu_2010_61_Chapter_V lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_9 .
 lexid:Permen_Keu_2010_61_Article_9 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_9 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Chapter_V lexid-s:isContentOf lexid:Permen_Keu_2010_61 .
@@ -21312,7 +21312,7 @@ lexid:Permen_Keu_2010_61_Section_10_1 lexid-s:isPartOf lexid:Permen_Keu_2010_61_
 lexid:Permen_Keu_2010_61_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_10_1 .
 lexid:Permen_Keu_2010_61_Section_10_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_10_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_10_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_10_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_10_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_10_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_10_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_10 .
@@ -21321,7 +21321,7 @@ lexid:Permen_Keu_2010_61_Section_10_2 lexid-s:isPartOf lexid:Permen_Keu_2010_61_
 lexid:Permen_Keu_2010_61_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_10_2 .
 lexid:Permen_Keu_2010_61_Section_10_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_10_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_10_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_10_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_10_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_10_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_10_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_10 .
@@ -21330,7 +21330,7 @@ lexid:Permen_Keu_2010_61_Section_10_3 lexid-s:isPartOf lexid:Permen_Keu_2010_61_
 lexid:Permen_Keu_2010_61_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_10_3 .
 lexid:Permen_Keu_2010_61_Section_10_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_10_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_10_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_10_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_10_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_10_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_10_4 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_10 .
@@ -21339,7 +21339,7 @@ lexid:Permen_Keu_2010_61_Section_10_4 lexid-s:isPartOf lexid:Permen_Keu_2010_61_
 lexid:Permen_Keu_2010_61_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_10_4 .
 lexid:Permen_Keu_2010_61_Section_10_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_10_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_10_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_10_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_10_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_10_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_10_5 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_10 .
@@ -21348,7 +21348,7 @@ lexid:Permen_Keu_2010_61_Section_10_5 lexid-s:isPartOf lexid:Permen_Keu_2010_61_
 lexid:Permen_Keu_2010_61_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_10_5 .
 lexid:Permen_Keu_2010_61_Section_10_5 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_10_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_10_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_10_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_10_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_10_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Section_10_6 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Article_10 .
@@ -21357,14 +21357,14 @@ lexid:Permen_Keu_2010_61_Section_10_6 lexid-s:isPartOf lexid:Permen_Keu_2010_61_
 lexid:Permen_Keu_2010_61_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_61_Section_10_6 .
 lexid:Permen_Keu_2010_61_Section_10_6 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_61_Section_10_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Permen_Keu_2010_61_Section_10_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Permen_Keu_2010_61_Section_10_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Permen_Keu_2010_61_Section_10_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Section_10_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Article_10 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Chapter_VI .
 lexid:Permen_Keu_2010_61_Chapter_VI lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_10 .
 lexid:Permen_Keu_2010_61_Article_10 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_10 lexid-s:name "Pasal 10"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_10 rdfs:label "Pasal 10 : Pasal 10"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_10 rdfs:label "Pasal 10"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_10 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Chapter_VI lexid-s:isContentOf lexid:Permen_Keu_2010_61 .
@@ -21382,7 +21382,7 @@ lexid:Permen_Keu_2010_61_Article_11 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Ch
 lexid:Permen_Keu_2010_61_Chapter_VII lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_11 .
 lexid:Permen_Keu_2010_61_Article_11 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_11 lexid-s:name "Pasal 11"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_11 rdfs:label "Pasal 11 : Pasal 11"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_11 rdfs:label "Pasal 11"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_11 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Chapter_VII lexid-s:isContentOf lexid:Permen_Keu_2010_61 .
@@ -21400,7 +21400,7 @@ lexid:Permen_Keu_2010_61_Article_12 lexid-s:isPartOf lexid:Permen_Keu_2010_61_Ch
 lexid:Permen_Keu_2010_61_Chapter_VIII lexid-s:hasPart lexid:Permen_Keu_2010_61_Article_12 .
 lexid:Permen_Keu_2010_61_Article_12 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_61_Article_12 lexid-s:name "Pasal 12"^^xsd:string .
-lexid:Permen_Keu_2010_61_Article_12 rdfs:label "Pasal 12 : Pasal 12"^^xsd:string .
+lexid:Permen_Keu_2010_61_Article_12 rdfs:label "Pasal 12"^^xsd:string .
 lexid:Permen_Keu_2010_61_Article_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_61_Article_12 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_61_Chapter_VIII lexid-s:isContentOf lexid:Permen_Keu_2010_61 .
@@ -21416,7 +21416,7 @@ lexid:Permen_Keu_2010_62_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_62 
 lexid:Permen_Keu_2010_62 lexid-s:hasContent lexid:Permen_Keu_2010_62_Article_1 .
 lexid:Permen_Keu_2010_62_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_62_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_62_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_62_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_62_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_62_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_62_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_62 .
@@ -21425,7 +21425,7 @@ lexid:Permen_Keu_2010_62_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_62 
 lexid:Permen_Keu_2010_62 lexid-s:hasContent lexid:Permen_Keu_2010_62_Article_2 .
 lexid:Permen_Keu_2010_62_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_62_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_62_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_62_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_62_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_62_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_62_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_62 .
@@ -21434,7 +21434,7 @@ lexid:Permen_Keu_2010_62_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_62 
 lexid:Permen_Keu_2010_62 lexid-s:hasContent lexid:Permen_Keu_2010_62_Article_3 .
 lexid:Permen_Keu_2010_62_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_62_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_62_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_62_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_62_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_62_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_62_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_62 .
@@ -21443,7 +21443,7 @@ lexid:Permen_Keu_2010_62_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_62 
 lexid:Permen_Keu_2010_62 lexid-s:hasContent lexid:Permen_Keu_2010_62_Article_4 .
 lexid:Permen_Keu_2010_62_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_62_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_Keu_2010_62_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_Keu_2010_62_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Keu_2010_62_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_62_Article_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_62_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_62 .
@@ -21452,7 +21452,7 @@ lexid:Permen_Keu_2010_62_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_62 
 lexid:Permen_Keu_2010_62 lexid-s:hasContent lexid:Permen_Keu_2010_62_Article_5 .
 lexid:Permen_Keu_2010_62_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_62_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_62_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_62_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_62_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_62_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21461,7 +21461,7 @@ lexid:Permen_Keu_2010_63_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_63 
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_1 .
 lexid:Permen_Keu_2010_63_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21472,7 +21472,7 @@ lexid:Permen_Keu_2010_63_Section_2_1 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_2_1 .
 lexid:Permen_Keu_2010_63_Section_2_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_2_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_2 .
@@ -21481,14 +21481,14 @@ lexid:Permen_Keu_2010_63_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_2_2 .
 lexid:Permen_Keu_2010_63_Section_2_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_2_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_2 .
 lexid:Permen_Keu_2010_63_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21499,7 +21499,7 @@ lexid:Permen_Keu_2010_63_Section_3_1 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_3_1 .
 lexid:Permen_Keu_2010_63_Section_3_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_3_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_3 .
@@ -21508,7 +21508,7 @@ lexid:Permen_Keu_2010_63_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_3_2 .
 lexid:Permen_Keu_2010_63_Section_3_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_3_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_3_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_3 .
@@ -21517,7 +21517,7 @@ lexid:Permen_Keu_2010_63_Section_3_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_3_3 .
 lexid:Permen_Keu_2010_63_Section_3_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_3_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_3_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_3_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_3_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_3_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_3_4 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_3 .
@@ -21526,7 +21526,7 @@ lexid:Permen_Keu_2010_63_Section_3_4 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_3_4 .
 lexid:Permen_Keu_2010_63_Section_3_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_3_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_3_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_3_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_3_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_3_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_3_5 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_3 .
@@ -21535,7 +21535,7 @@ lexid:Permen_Keu_2010_63_Section_3_5 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_3_5 .
 lexid:Permen_Keu_2010_63_Section_3_5 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_3_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_3_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_3_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_3_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_3_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_3_6 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_3 .
@@ -21544,14 +21544,14 @@ lexid:Permen_Keu_2010_63_Section_3_6 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_3_6 .
 lexid:Permen_Keu_2010_63_Section_3_6 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_3_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_3_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_3_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_3_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_3_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_3 .
 lexid:Permen_Keu_2010_63_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21560,7 +21560,7 @@ lexid:Permen_Keu_2010_63_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_63 
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_4 .
 lexid:Permen_Keu_2010_63_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21571,7 +21571,7 @@ lexid:Permen_Keu_2010_63_Section_5_1 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_5_1 .
 lexid:Permen_Keu_2010_63_Section_5_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_5_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_5 .
@@ -21580,7 +21580,7 @@ lexid:Permen_Keu_2010_63_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_5_2 .
 lexid:Permen_Keu_2010_63_Section_5_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_5_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_5 .
@@ -21589,14 +21589,14 @@ lexid:Permen_Keu_2010_63_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_5_3 .
 lexid:Permen_Keu_2010_63_Section_5_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_5_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_5_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_5_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_5_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_5_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_5 .
 lexid:Permen_Keu_2010_63_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21607,7 +21607,7 @@ lexid:Permen_Keu_2010_63_Section_6_1 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_6 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_6_1 .
 lexid:Permen_Keu_2010_63_Section_6_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_6_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_6_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_6_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_6_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_6_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_6_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_6 .
@@ -21616,7 +21616,7 @@ lexid:Permen_Keu_2010_63_Section_6_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_6 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_6_2 .
 lexid:Permen_Keu_2010_63_Section_6_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_6_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_6_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_6_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_6_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_6_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_6_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_6 .
@@ -21625,14 +21625,14 @@ lexid:Permen_Keu_2010_63_Section_6_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_6 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_6_3 .
 lexid:Permen_Keu_2010_63_Section_6_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_6_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_6_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_6_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_6_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_6_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_6 .
 lexid:Permen_Keu_2010_63_Article_6 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21643,7 +21643,7 @@ lexid:Permen_Keu_2010_63_Section_7_1 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_7_1 .
 lexid:Permen_Keu_2010_63_Section_7_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_7_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_7_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_7_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_7_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_7_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_7_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_7 .
@@ -21652,7 +21652,7 @@ lexid:Permen_Keu_2010_63_Section_7_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_7_2 .
 lexid:Permen_Keu_2010_63_Section_7_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_7_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_7_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_7_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_7_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_7_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_7_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_7 .
@@ -21661,14 +21661,14 @@ lexid:Permen_Keu_2010_63_Section_7_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_7 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_7_3 .
 lexid:Permen_Keu_2010_63_Section_7_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_7_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_7_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_7_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_7_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_7_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_7 .
 lexid:Permen_Keu_2010_63_Article_7 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_7 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_8 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21679,7 +21679,7 @@ lexid:Permen_Keu_2010_63_Section_8_1 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_8 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_8_1 .
 lexid:Permen_Keu_2010_63_Section_8_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_8_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_8_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_8_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_8_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_8_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_8_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_8 .
@@ -21688,7 +21688,7 @@ lexid:Permen_Keu_2010_63_Section_8_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_8 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_8_2 .
 lexid:Permen_Keu_2010_63_Section_8_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_8_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_8_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_8_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_8_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_8_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_8_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_8 .
@@ -21697,7 +21697,7 @@ lexid:Permen_Keu_2010_63_Section_8_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_8 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_8_3 .
 lexid:Permen_Keu_2010_63_Section_8_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_8_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_8_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_8_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_8_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_8_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_8_4 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_8 .
@@ -21706,14 +21706,14 @@ lexid:Permen_Keu_2010_63_Section_8_4 lexid-s:isPartOf lexid:Permen_Keu_2010_63_A
 lexid:Permen_Keu_2010_63_Article_8 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_8_4 .
 lexid:Permen_Keu_2010_63_Section_8_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_8_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_8_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_8_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_8_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_8_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_8 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_8 .
 lexid:Permen_Keu_2010_63_Article_8 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_8 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_9 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21722,7 +21722,7 @@ lexid:Permen_Keu_2010_63_Article_9 lexid-s:isContentOf lexid:Permen_Keu_2010_63 
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_9 .
 lexid:Permen_Keu_2010_63_Article_9 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_9 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_10 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21733,7 +21733,7 @@ lexid:Permen_Keu_2010_63_Section_10_1 lexid-s:isPartOf lexid:Permen_Keu_2010_63_
 lexid:Permen_Keu_2010_63_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_10_1 .
 lexid:Permen_Keu_2010_63_Section_10_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_10_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_10_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_10_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_10_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_10_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_10_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_10 .
@@ -21742,7 +21742,7 @@ lexid:Permen_Keu_2010_63_Section_10_2 lexid-s:isPartOf lexid:Permen_Keu_2010_63_
 lexid:Permen_Keu_2010_63_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_10_2 .
 lexid:Permen_Keu_2010_63_Section_10_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_10_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_10_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_10_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_10_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_10_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_10_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_10 .
@@ -21751,7 +21751,7 @@ lexid:Permen_Keu_2010_63_Section_10_3 lexid-s:isPartOf lexid:Permen_Keu_2010_63_
 lexid:Permen_Keu_2010_63_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_10_3 .
 lexid:Permen_Keu_2010_63_Section_10_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_10_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_10_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_10_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_10_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_10_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_10_4 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_10 .
@@ -21760,7 +21760,7 @@ lexid:Permen_Keu_2010_63_Section_10_4 lexid-s:isPartOf lexid:Permen_Keu_2010_63_
 lexid:Permen_Keu_2010_63_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_10_4 .
 lexid:Permen_Keu_2010_63_Section_10_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_10_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_10_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_10_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_10_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_10_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Section_10_5 lexid-s:isPartOf lexid:Permen_Keu_2010_63_Article_10 .
@@ -21769,14 +21769,14 @@ lexid:Permen_Keu_2010_63_Section_10_5 lexid-s:isPartOf lexid:Permen_Keu_2010_63_
 lexid:Permen_Keu_2010_63_Article_10 lexid-s:hasPart lexid:Permen_Keu_2010_63_Section_10_5 .
 lexid:Permen_Keu_2010_63_Section_10_5 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_63_Section_10_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Keu_2010_63_Section_10_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Keu_2010_63_Section_10_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Keu_2010_63_Section_10_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Section_10_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_10 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_10 .
 lexid:Permen_Keu_2010_63_Article_10 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_10 lexid-s:name "Pasal 10"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_10 rdfs:label "Pasal 10 : Pasal 10"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_10 rdfs:label "Pasal 10"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_10 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_11 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21785,7 +21785,7 @@ lexid:Permen_Keu_2010_63_Article_11 lexid-s:isContentOf lexid:Permen_Keu_2010_63
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_11 .
 lexid:Permen_Keu_2010_63_Article_11 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_11 lexid-s:name "Pasal 11"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_11 rdfs:label "Pasal 11 : Pasal 11"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_11 rdfs:label "Pasal 11"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_11 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_63_Article_12 lexid-s:isContentOf lexid:Permen_Keu_2010_63 .
@@ -21794,7 +21794,7 @@ lexid:Permen_Keu_2010_63_Article_12 lexid-s:isContentOf lexid:Permen_Keu_2010_63
 lexid:Permen_Keu_2010_63 lexid-s:hasContent lexid:Permen_Keu_2010_63_Article_12 .
 lexid:Permen_Keu_2010_63_Article_12 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_63_Article_12 lexid-s:name "Pasal 12"^^xsd:string .
-lexid:Permen_Keu_2010_63_Article_12 rdfs:label "Pasal 12 : Pasal 12"^^xsd:string .
+lexid:Permen_Keu_2010_63_Article_12 rdfs:label "Pasal 12"^^xsd:string .
 lexid:Permen_Keu_2010_63_Article_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_63_Article_12 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_64 .
@@ -21805,7 +21805,7 @@ lexid:Permen_Keu_2010_64_Section_1_1 lexid-s:isPartOf lexid:Permen_Keu_2010_64_A
 lexid:Permen_Keu_2010_64_Article_1 lexid-s:hasPart lexid:Permen_Keu_2010_64_Section_1_1 .
 lexid:Permen_Keu_2010_64_Section_1_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_64_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_64_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_64_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_64_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Section_1_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Section_1_2 lexid-s:isPartOf lexid:Permen_Keu_2010_64_Article_1 .
@@ -21814,14 +21814,14 @@ lexid:Permen_Keu_2010_64_Section_1_2 lexid-s:isPartOf lexid:Permen_Keu_2010_64_A
 lexid:Permen_Keu_2010_64_Article_1 lexid-s:hasPart lexid:Permen_Keu_2010_64_Section_1_2 .
 lexid:Permen_Keu_2010_64_Section_1_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_64_Section_1_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_64_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_64_Section_1_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_64_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Section_1_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_64 .
 lexid:Permen_Keu_2010_64 lexid-s:hasContent lexid:Permen_Keu_2010_64_Article_1 .
 lexid:Permen_Keu_2010_64_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_64_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_64_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_64_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_64_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_64 .
@@ -21830,7 +21830,7 @@ lexid:Permen_Keu_2010_64_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_64 
 lexid:Permen_Keu_2010_64 lexid-s:hasContent lexid:Permen_Keu_2010_64_Article_2 .
 lexid:Permen_Keu_2010_64_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_64_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_64_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_64_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_64_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_64 .
@@ -21841,7 +21841,7 @@ lexid:Permen_Keu_2010_64_Section_3_1 lexid-s:isPartOf lexid:Permen_Keu_2010_64_A
 lexid:Permen_Keu_2010_64_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_64_Section_3_1 .
 lexid:Permen_Keu_2010_64_Section_3_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_64_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_64_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_64_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_64_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Section_3_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_64_Article_3 .
@@ -21850,14 +21850,14 @@ lexid:Permen_Keu_2010_64_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_64_A
 lexid:Permen_Keu_2010_64_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_64_Section_3_2 .
 lexid:Permen_Keu_2010_64_Section_3_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_64_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_64_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_64_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_64_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Section_3_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_64 .
 lexid:Permen_Keu_2010_64 lexid-s:hasContent lexid:Permen_Keu_2010_64_Article_3 .
 lexid:Permen_Keu_2010_64_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_64_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_64_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_64_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_64_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_64 .
@@ -21866,7 +21866,7 @@ lexid:Permen_Keu_2010_64_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_64 
 lexid:Permen_Keu_2010_64 lexid-s:hasContent lexid:Permen_Keu_2010_64_Article_4 .
 lexid:Permen_Keu_2010_64_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_64_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_Keu_2010_64_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_Keu_2010_64_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Keu_2010_64_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Article_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_64 .
@@ -21877,7 +21877,7 @@ lexid:Permen_Keu_2010_64_Section_5_1 lexid-s:isPartOf lexid:Permen_Keu_2010_64_A
 lexid:Permen_Keu_2010_64_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_64_Section_5_1 .
 lexid:Permen_Keu_2010_64_Section_5_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_64_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_64_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_64_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_64_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Section_5_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_64_Article_5 .
@@ -21886,14 +21886,14 @@ lexid:Permen_Keu_2010_64_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_64_A
 lexid:Permen_Keu_2010_64_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_64_Section_5_2 .
 lexid:Permen_Keu_2010_64_Section_5_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_64_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_64_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_64_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_64_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Section_5_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_64 .
 lexid:Permen_Keu_2010_64 lexid-s:hasContent lexid:Permen_Keu_2010_64_Article_5 .
 lexid:Permen_Keu_2010_64_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_64_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_64_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_64_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_64_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_64_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_64 .
@@ -21902,7 +21902,7 @@ lexid:Permen_Keu_2010_64_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_64 
 lexid:Permen_Keu_2010_64 lexid-s:hasContent lexid:Permen_Keu_2010_64_Article_6 .
 lexid:Permen_Keu_2010_64_Article_6 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_64_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Permen_Keu_2010_64_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Permen_Keu_2010_64_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Permen_Keu_2010_64_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_64_Article_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
@@ -21911,7 +21911,7 @@ lexid:Permen_Keu_2010_65_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_65 
 lexid:Permen_Keu_2010_65 lexid-s:hasContent lexid:Permen_Keu_2010_65_Article_1 .
 lexid:Permen_Keu_2010_65_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_65_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_65_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_65_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_65_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
@@ -21922,7 +21922,7 @@ lexid:Permen_Keu_2010_65_Section_2_1 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_2_1 .
 lexid:Permen_Keu_2010_65_Section_2_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_2_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_2 .
@@ -21931,7 +21931,7 @@ lexid:Permen_Keu_2010_65_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_2_2 .
 lexid:Permen_Keu_2010_65_Section_2_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_2_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_2_3 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_2 .
@@ -21940,14 +21940,14 @@ lexid:Permen_Keu_2010_65_Section_2_3 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_2_3 .
 lexid:Permen_Keu_2010_65_Section_2_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_2_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_2_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_2_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_2_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_2_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
 lexid:Permen_Keu_2010_65 lexid-s:hasContent lexid:Permen_Keu_2010_65_Article_2 .
 lexid:Permen_Keu_2010_65_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_65_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_65_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_65_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_65_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
@@ -21958,7 +21958,7 @@ lexid:Permen_Keu_2010_65_Section_3_1 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_3_1 .
 lexid:Permen_Keu_2010_65_Section_3_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_3_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_3 .
@@ -21967,14 +21967,14 @@ lexid:Permen_Keu_2010_65_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_3_2 .
 lexid:Permen_Keu_2010_65_Section_3_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_3_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
 lexid:Permen_Keu_2010_65 lexid-s:hasContent lexid:Permen_Keu_2010_65_Article_3 .
 lexid:Permen_Keu_2010_65_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_65_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_65_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_65_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_65_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
@@ -21985,7 +21985,7 @@ lexid:Permen_Keu_2010_65_Section_4_1 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_4_1 .
 lexid:Permen_Keu_2010_65_Section_4_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_4_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_4_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_4_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_4_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_4_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_4_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_4 .
@@ -21994,7 +21994,7 @@ lexid:Permen_Keu_2010_65_Section_4_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_4_2 .
 lexid:Permen_Keu_2010_65_Section_4_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_4_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_4_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_4_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_4_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_4_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_4_3 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_4 .
@@ -22003,7 +22003,7 @@ lexid:Permen_Keu_2010_65_Section_4_3 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_4_3 .
 lexid:Permen_Keu_2010_65_Section_4_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_4_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_4_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_4_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_4_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_4_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_4_4 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_4 .
@@ -22012,7 +22012,7 @@ lexid:Permen_Keu_2010_65_Section_4_4 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_4_4 .
 lexid:Permen_Keu_2010_65_Section_4_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_4_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_4_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_4_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_4_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_4_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_4_5 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_4 .
@@ -22021,7 +22021,7 @@ lexid:Permen_Keu_2010_65_Section_4_5 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_4_5 .
 lexid:Permen_Keu_2010_65_Section_4_5 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_4_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_4_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_4_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_4_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_4_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_4_6 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_4 .
@@ -22030,7 +22030,7 @@ lexid:Permen_Keu_2010_65_Section_4_6 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_4_6 .
 lexid:Permen_Keu_2010_65_Section_4_6 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_4_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_4_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_4_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_4_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_4_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_4_7 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_4 .
@@ -22039,7 +22039,7 @@ lexid:Permen_Keu_2010_65_Section_4_7 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_4_7 .
 lexid:Permen_Keu_2010_65_Section_4_7 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_4_7 lexid-s:name "(7)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_4_7 rdfs:label "ayat 7 : (7)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_4_7 rdfs:label "ayat 7"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_4_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_4_7 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_4_8 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_4 .
@@ -22048,14 +22048,14 @@ lexid:Permen_Keu_2010_65_Section_4_8 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_4_8 .
 lexid:Permen_Keu_2010_65_Section_4_8 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_4_8 lexid-s:name "(8)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_4_8 rdfs:label "ayat 8 : (8)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_4_8 rdfs:label "ayat 8"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_4_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_4_8 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
 lexid:Permen_Keu_2010_65 lexid-s:hasContent lexid:Permen_Keu_2010_65_Article_4 .
 lexid:Permen_Keu_2010_65_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_65_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_Keu_2010_65_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_Keu_2010_65_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Keu_2010_65_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Article_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
@@ -22066,7 +22066,7 @@ lexid:Permen_Keu_2010_65_Section_5_1 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_5_1 .
 lexid:Permen_Keu_2010_65_Section_5_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_5_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_5 .
@@ -22075,7 +22075,7 @@ lexid:Permen_Keu_2010_65_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_5_2 .
 lexid:Permen_Keu_2010_65_Section_5_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_5_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_5 .
@@ -22084,7 +22084,7 @@ lexid:Permen_Keu_2010_65_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_5_3 .
 lexid:Permen_Keu_2010_65_Section_5_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_5_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_5_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_5_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_5_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_5_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_5_4 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_5 .
@@ -22093,7 +22093,7 @@ lexid:Permen_Keu_2010_65_Section_5_4 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_5_4 .
 lexid:Permen_Keu_2010_65_Section_5_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_5_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_5_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_5_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_5_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_5_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_5_6 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_5 .
@@ -22102,7 +22102,7 @@ lexid:Permen_Keu_2010_65_Section_5_6 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_5_6 .
 lexid:Permen_Keu_2010_65_Section_5_6 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_5_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_5_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_5_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_5_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_5_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_5_7 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_5 .
@@ -22111,7 +22111,7 @@ lexid:Permen_Keu_2010_65_Section_5_7 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_5_7 .
 lexid:Permen_Keu_2010_65_Section_5_7 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_5_7 lexid-s:name "(7)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_5_7 rdfs:label "ayat 7 : (7)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_5_7 rdfs:label "ayat 7"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_5_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_5_7 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_5_8 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_5 .
@@ -22120,14 +22120,14 @@ lexid:Permen_Keu_2010_65_Section_5_8 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_5_8 .
 lexid:Permen_Keu_2010_65_Section_5_8 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_5_8 lexid-s:name "(8)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_5_8 rdfs:label "ayat 8 : (8)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_5_8 rdfs:label "ayat 8"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_5_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_5_8 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
 lexid:Permen_Keu_2010_65 lexid-s:hasContent lexid:Permen_Keu_2010_65_Article_5 .
 lexid:Permen_Keu_2010_65_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_65_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_65_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_65_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_65_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
@@ -22138,7 +22138,7 @@ lexid:Permen_Keu_2010_65_Section_6_1 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_6 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_6_1 .
 lexid:Permen_Keu_2010_65_Section_6_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_6_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_6_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_6_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_6_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_6_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Section_6_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_Article_6 .
@@ -22147,14 +22147,14 @@ lexid:Permen_Keu_2010_65_Section_6_2 lexid-s:isPartOf lexid:Permen_Keu_2010_65_A
 lexid:Permen_Keu_2010_65_Article_6 lexid-s:hasPart lexid:Permen_Keu_2010_65_Section_6_2 .
 lexid:Permen_Keu_2010_65_Section_6_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_65_Section_6_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_65_Section_6_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_65_Section_6_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_65_Section_6_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Section_6_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
 lexid:Permen_Keu_2010_65 lexid-s:hasContent lexid:Permen_Keu_2010_65_Article_6 .
 lexid:Permen_Keu_2010_65_Article_6 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_65_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Permen_Keu_2010_65_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Permen_Keu_2010_65_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Permen_Keu_2010_65_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Article_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
@@ -22163,7 +22163,7 @@ lexid:Permen_Keu_2010_65_Article_7 lexid-s:isContentOf lexid:Permen_Keu_2010_65 
 lexid:Permen_Keu_2010_65 lexid-s:hasContent lexid:Permen_Keu_2010_65_Article_7 .
 lexid:Permen_Keu_2010_65_Article_7 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_65_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Permen_Keu_2010_65_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Permen_Keu_2010_65_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Permen_Keu_2010_65_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Article_7 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_65_Article_8 lexid-s:isContentOf lexid:Permen_Keu_2010_65 .
@@ -22172,7 +22172,7 @@ lexid:Permen_Keu_2010_65_Article_8 lexid-s:isContentOf lexid:Permen_Keu_2010_65 
 lexid:Permen_Keu_2010_65 lexid-s:hasContent lexid:Permen_Keu_2010_65_Article_8 .
 lexid:Permen_Keu_2010_65_Article_8 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_65_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Permen_Keu_2010_65_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Permen_Keu_2010_65_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Permen_Keu_2010_65_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_65_Article_8 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
@@ -22183,7 +22183,7 @@ lexid:Permen_Keu_2010_66_Section_1_1 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_1 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_1_1 .
 lexid:Permen_Keu_2010_66_Section_1_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_1_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_1_2 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_1 .
@@ -22192,14 +22192,14 @@ lexid:Permen_Keu_2010_66_Section_1_2 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_1 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_1_2 .
 lexid:Permen_Keu_2010_66_Section_1_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_1_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_1_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_1_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_1 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
 lexid:Permen_Keu_2010_66 lexid-s:hasContent lexid:Permen_Keu_2010_66_Article_1 .
 lexid:Permen_Keu_2010_66_Article_1 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_66_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Permen_Keu_2010_66_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Permen_Keu_2010_66_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Permen_Keu_2010_66_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Article_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
@@ -22210,7 +22210,7 @@ lexid:Permen_Keu_2010_66_Section_2_1 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_2_1 .
 lexid:Permen_Keu_2010_66_Section_2_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_2_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_2 .
@@ -22219,7 +22219,7 @@ lexid:Permen_Keu_2010_66_Section_2_2 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_2_2 .
 lexid:Permen_Keu_2010_66_Section_2_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_2_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_2_3 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_2 .
@@ -22228,7 +22228,7 @@ lexid:Permen_Keu_2010_66_Section_2_3 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_2_3 .
 lexid:Permen_Keu_2010_66_Section_2_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_2_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_2_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_2_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_2_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_2_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_2_4 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_2 .
@@ -22237,7 +22237,7 @@ lexid:Permen_Keu_2010_66_Section_2_4 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_2_4 .
 lexid:Permen_Keu_2010_66_Section_2_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_2_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_2_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_2_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_2_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_2_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_2_5 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_2 .
@@ -22246,14 +22246,14 @@ lexid:Permen_Keu_2010_66_Section_2_5 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_2 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_2_5 .
 lexid:Permen_Keu_2010_66_Section_2_5 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_2_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_2_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_2_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_2_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_2_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_2 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
 lexid:Permen_Keu_2010_66 lexid-s:hasContent lexid:Permen_Keu_2010_66_Article_2 .
 lexid:Permen_Keu_2010_66_Article_2 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_66_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Permen_Keu_2010_66_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Permen_Keu_2010_66_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Permen_Keu_2010_66_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Article_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
@@ -22264,7 +22264,7 @@ lexid:Permen_Keu_2010_66_Section_3_1 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_3_1 .
 lexid:Permen_Keu_2010_66_Section_3_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_3_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_3 .
@@ -22273,7 +22273,7 @@ lexid:Permen_Keu_2010_66_Section_3_2 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_3_2 .
 lexid:Permen_Keu_2010_66_Section_3_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_3_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_3_3 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_3 .
@@ -22282,7 +22282,7 @@ lexid:Permen_Keu_2010_66_Section_3_3 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_3_3 .
 lexid:Permen_Keu_2010_66_Section_3_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_3_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_3_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_3_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_3_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_3_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_3_4 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_3 .
@@ -22291,7 +22291,7 @@ lexid:Permen_Keu_2010_66_Section_3_4 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_3_4 .
 lexid:Permen_Keu_2010_66_Section_3_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_3_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_3_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_3_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_3_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_3_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_3_5 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_3 .
@@ -22300,14 +22300,14 @@ lexid:Permen_Keu_2010_66_Section_3_5 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_3 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_3_5 .
 lexid:Permen_Keu_2010_66_Section_3_5 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_3_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_3_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_3_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_3_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_3_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_3 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
 lexid:Permen_Keu_2010_66 lexid-s:hasContent lexid:Permen_Keu_2010_66_Article_3 .
 lexid:Permen_Keu_2010_66_Article_3 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_66_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Permen_Keu_2010_66_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Permen_Keu_2010_66_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Permen_Keu_2010_66_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Article_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
@@ -22316,7 +22316,7 @@ lexid:Permen_Keu_2010_66_Article_4 lexid-s:isContentOf lexid:Permen_Keu_2010_66 
 lexid:Permen_Keu_2010_66 lexid-s:hasContent lexid:Permen_Keu_2010_66_Article_4 .
 lexid:Permen_Keu_2010_66_Article_4 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_66_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Permen_Keu_2010_66_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Permen_Keu_2010_66_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Permen_Keu_2010_66_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Article_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
@@ -22327,7 +22327,7 @@ lexid:Permen_Keu_2010_66_Section_5_1 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_5_1 .
 lexid:Permen_Keu_2010_66_Section_5_1 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_5_1 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_5 .
@@ -22336,7 +22336,7 @@ lexid:Permen_Keu_2010_66_Section_5_2 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_5_2 .
 lexid:Permen_Keu_2010_66_Section_5_2 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_5_2 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_5 .
@@ -22345,7 +22345,7 @@ lexid:Permen_Keu_2010_66_Section_5_3 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_5_3 .
 lexid:Permen_Keu_2010_66_Section_5_3 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_5_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_5_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_5_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_5_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_5_3 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Section_5_4 lexid-s:isPartOf lexid:Permen_Keu_2010_66_Article_5 .
@@ -22354,14 +22354,14 @@ lexid:Permen_Keu_2010_66_Section_5_4 lexid-s:isPartOf lexid:Permen_Keu_2010_66_A
 lexid:Permen_Keu_2010_66_Article_5 lexid-s:hasPart lexid:Permen_Keu_2010_66_Section_5_4 .
 lexid:Permen_Keu_2010_66_Section_5_4 rdf:type lexid-s:Section .
 lexid:Permen_Keu_2010_66_Section_5_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Permen_Keu_2010_66_Section_5_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Permen_Keu_2010_66_Section_5_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Permen_Keu_2010_66_Section_5_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Section_5_4 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_5 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
 lexid:Permen_Keu_2010_66 lexid-s:hasContent lexid:Permen_Keu_2010_66_Article_5 .
 lexid:Permen_Keu_2010_66_Article_5 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_66_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Permen_Keu_2010_66_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Permen_Keu_2010_66_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Permen_Keu_2010_66_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Article_5 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_66_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_66 .
@@ -22370,7 +22370,7 @@ lexid:Permen_Keu_2010_66_Article_6 lexid-s:isContentOf lexid:Permen_Keu_2010_66 
 lexid:Permen_Keu_2010_66 lexid-s:hasContent lexid:Permen_Keu_2010_66_Article_6 .
 lexid:Permen_Keu_2010_66_Article_6 rdf:type lexid-s:Article .
 lexid:Permen_Keu_2010_66_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Permen_Keu_2010_66_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Permen_Keu_2010_66_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Permen_Keu_2010_66_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Permen_Keu_2010_66_Article_6 rdf:type owl:Thing .
 lexid:Permen_Keu_2010_58 lexid-s:considers "bahwa berdasarkan ketentuan Pasal 9 Peraturan Pemerintah Nomor 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum, tarif layanan instansi yang menerapkan Pengelolaan Keuangan Badan Layanan Umum ditetapkan oleh Menteri Keuangan atas usulan menteri/pimpinan lembaga"^^xsd:string .

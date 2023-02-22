@@ -27816,7 +27816,7 @@ lexid:Perwali_2017_98_Article_9A lexid-s:isPartOf lexid:Perwali_2017_98_Chapter_
 lexid:Perwali_2017_98_Chapter_IVA lexid-s:hasPart lexid:Perwali_2017_98_Article_9A .
 lexid:Perwali_2017_98_Article_9A rdf:type lexid-s:Article .
 lexid:Perwali_2017_98_Article_9A lexid-s:name "Pasal 9A"^^xsd:string .
-lexid:Perwali_2017_98_Article_9A rdfs:label "Pasal 9A : Pasal 9A"^^xsd:string .
+lexid:Perwali_2017_98_Article_9A rdfs:label "Pasal 9A"^^xsd:string .
 lexid:Perwali_2017_98_Article_9A rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_2017_98_Article_9A rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_19_Article_1 lexid-s:isContentOf lexid:Perwali_Tangerang_2019_19 .
@@ -27827,7 +27827,7 @@ lexid:Perwali_Tangerang_2019_19_Section_1_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_19_Article_1 lexid-s:hasPart lexid:Perwali_Tangerang_2019_19_Section_1_1 .
 lexid:Perwali_Tangerang_2019_19_Section_1_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_19_Section_1_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_19_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_19_Section_1_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_19_Section_1_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_19_Section_1_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_19_Article_1 .
@@ -27836,7 +27836,7 @@ lexid:Perwali_Tangerang_2019_19_Section_1_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_19_Article_1 lexid-s:hasPart lexid:Perwali_Tangerang_2019_19_Section_1_2 .
 lexid:Perwali_Tangerang_2019_19_Section_1_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_19_Section_1_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_19_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_19_Section_1_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_19_Section_1_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_19_Section_1_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_19_Article_1 .
@@ -27845,14 +27845,14 @@ lexid:Perwali_Tangerang_2019_19_Section_1_3 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_19_Article_1 lexid-s:hasPart lexid:Perwali_Tangerang_2019_19_Section_1_3 .
 lexid:Perwali_Tangerang_2019_19_Section_1_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_19_Section_1_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_19_Section_1_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_19_Section_1_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19_Section_1_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_19_Section_1_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_19_Article_1 lexid-s:isContentOf lexid:Perwali_Tangerang_2019_19 .
 lexid:Perwali_Tangerang_2019_19 lexid-s:hasContent lexid:Perwali_Tangerang_2019_19_Article_1 .
 lexid:Perwali_Tangerang_2019_19_Article_1 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_19_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Perwali_Tangerang_2019_19_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perwali_Tangerang_2019_19_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_19_Article_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_19_Article_2 lexid-s:isContentOf lexid:Perwali_Tangerang_2019_19 .
@@ -27861,7 +27861,7 @@ lexid:Perwali_Tangerang_2019_19_Article_2 lexid-s:isContentOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_19 lexid-s:hasContent lexid:Perwali_Tangerang_2019_19_Article_2 .
 lexid:Perwali_Tangerang_2019_19_Article_2 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_19_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Perwali_Tangerang_2019_19_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perwali_Tangerang_2019_19_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_19_Article_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_19_Article_3 lexid-s:isContentOf lexid:Perwali_Tangerang_2019_19 .
@@ -27870,7 +27870,7 @@ lexid:Perwali_Tangerang_2019_19_Article_3 lexid-s:isContentOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_19 lexid-s:hasContent lexid:Perwali_Tangerang_2019_19_Article_3 .
 lexid:Perwali_Tangerang_2019_19_Article_3 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_19_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Perwali_Tangerang_2019_19_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Perwali_Tangerang_2019_19_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_19_Article_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Chapter_I lexid-s:isContentOf lexid:Perwali_Tangerang_2019_18 .
@@ -27881,7 +27881,7 @@ lexid:Perwali_Tangerang_2019_18_Article_1 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_18_Chapter_I lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Article_1 .
 lexid:Perwali_Tangerang_2019_18_Article_1 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_18_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Article_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Chapter_I lexid-s:isContentOf lexid:Perwali_Tangerang_2019_18 .
@@ -27901,7 +27901,7 @@ lexid:Perwali_Tangerang_2019_18_Section_2_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_2 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_2_1 .
 lexid:Perwali_Tangerang_2019_18_Section_2_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_2_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_2_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_2 .
@@ -27910,7 +27910,7 @@ lexid:Perwali_Tangerang_2019_18_Section_2_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_2 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_2_2 .
 lexid:Perwali_Tangerang_2019_18_Section_2_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_2_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_2_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_2 .
@@ -27919,14 +27919,14 @@ lexid:Perwali_Tangerang_2019_18_Section_2_3 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_2 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_2_3 .
 lexid:Perwali_Tangerang_2019_18_Section_2_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_2_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_2_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_2_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_2_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_2_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Article_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Chapter_II .
 lexid:Perwali_Tangerang_2019_18_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Article_2 .
 lexid:Perwali_Tangerang_2019_18_Article_2 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_18_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Article_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Chapter_II .
@@ -27937,7 +27937,7 @@ lexid:Perwali_Tangerang_2019_18_Section_3_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_3_1 .
 lexid:Perwali_Tangerang_2019_18_Section_3_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_3_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_3_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_3 .
@@ -27946,7 +27946,7 @@ lexid:Perwali_Tangerang_2019_18_Section_3_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_3_2 .
 lexid:Perwali_Tangerang_2019_18_Section_3_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_3_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_3_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_3 .
@@ -27955,7 +27955,7 @@ lexid:Perwali_Tangerang_2019_18_Section_3_3 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_3_3 .
 lexid:Perwali_Tangerang_2019_18_Section_3_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_3_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_3_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_3_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_3_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_3_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_3_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_3 .
@@ -27964,7 +27964,7 @@ lexid:Perwali_Tangerang_2019_18_Section_3_4 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_3_4 .
 lexid:Perwali_Tangerang_2019_18_Section_3_4 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_3_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_3_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_3_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_3_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_3_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_3_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_3 .
@@ -27973,7 +27973,7 @@ lexid:Perwali_Tangerang_2019_18_Section_3_5 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_3_5 .
 lexid:Perwali_Tangerang_2019_18_Section_3_5 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_3_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_3_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_3_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_3_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_3_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_3_6 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_3 .
@@ -27982,7 +27982,7 @@ lexid:Perwali_Tangerang_2019_18_Section_3_6 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_3_6 .
 lexid:Perwali_Tangerang_2019_18_Section_3_6 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_3_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_3_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_3_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_3_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_3_6 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_3_7 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_3 .
@@ -27991,7 +27991,7 @@ lexid:Perwali_Tangerang_2019_18_Section_3_7 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_3_7 .
 lexid:Perwali_Tangerang_2019_18_Section_3_7 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_3_7 lexid-s:name "(7)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_3_7 rdfs:label "ayat 7 : (7)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_3_7 rdfs:label "ayat 7"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_3_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_3_7 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_3_9 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_3 .
@@ -28000,7 +28000,7 @@ lexid:Perwali_Tangerang_2019_18_Section_3_9 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_3_9 .
 lexid:Perwali_Tangerang_2019_18_Section_3_9 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_3_9 lexid-s:name "(9)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_3_9 rdfs:label "ayat 9 : (9)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_3_9 rdfs:label "ayat 9"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_3_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_3_9 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_3_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_3 .
@@ -28009,14 +28009,14 @@ lexid:Perwali_Tangerang_2019_18_Section_3_10 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_3_10 .
 lexid:Perwali_Tangerang_2019_18_Section_3_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_3_10 lexid-s:name "(10)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_3_10 rdfs:label "ayat 10 : (10)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_3_10 rdfs:label "ayat 10"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_3_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_3_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Chapter_II .
 lexid:Perwali_Tangerang_2019_18_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Article_3 .
 lexid:Perwali_Tangerang_2019_18_Article_3 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_18_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Article_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Article_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Chapter_II .
@@ -28027,7 +28027,7 @@ lexid:Perwali_Tangerang_2019_18_Section_4_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_4 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_4_1 .
 lexid:Perwali_Tangerang_2019_18_Section_4_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_4_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_4_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_4_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_4_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_4_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_4_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_4 .
@@ -28036,14 +28036,14 @@ lexid:Perwali_Tangerang_2019_18_Section_4_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_4 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_4_2 .
 lexid:Perwali_Tangerang_2019_18_Section_4_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_4_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_4_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_4_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_4_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_4_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Article_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Chapter_II .
 lexid:Perwali_Tangerang_2019_18_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Article_4 .
 lexid:Perwali_Tangerang_2019_18_Article_4 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_18_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Article_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Article_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Chapter_II .
@@ -28052,7 +28052,7 @@ lexid:Perwali_Tangerang_2019_18_Article_5 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_18_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Article_5 .
 lexid:Perwali_Tangerang_2019_18_Article_5 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_18_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Article_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Article_6 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Chapter_II .
@@ -28061,7 +28061,7 @@ lexid:Perwali_Tangerang_2019_18_Article_6 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_18_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Article_6 .
 lexid:Perwali_Tangerang_2019_18_Article_6 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_18_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Article_6 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Chapter_II lexid-s:isContentOf lexid:Perwali_Tangerang_2019_18 .
@@ -28081,7 +28081,7 @@ lexid:Perwali_Tangerang_2019_18_Section_7_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_7 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_7_1 .
 lexid:Perwali_Tangerang_2019_18_Section_7_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_7_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_7_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_7_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_7_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_7_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Section_7_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Article_7 .
@@ -28090,14 +28090,14 @@ lexid:Perwali_Tangerang_2019_18_Section_7_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_18_Article_7 lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Section_7_2 .
 lexid:Perwali_Tangerang_2019_18_Section_7_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_18_Section_7_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Section_7_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Section_7_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Section_7_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Section_7_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Article_7 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Chapter_III .
 lexid:Perwali_Tangerang_2019_18_Chapter_III lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Article_7 .
 lexid:Perwali_Tangerang_2019_18_Article_7 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_18_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Article_7 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Article_8 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_18_Chapter_III .
@@ -28106,7 +28106,7 @@ lexid:Perwali_Tangerang_2019_18_Article_8 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_18_Chapter_III lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Article_8 .
 lexid:Perwali_Tangerang_2019_18_Article_8 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_18_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Article_8 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Chapter_III lexid-s:isContentOf lexid:Perwali_Tangerang_2019_18 .
@@ -28124,7 +28124,7 @@ lexid:Perwali_Tangerang_2019_18_Article_9 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_18_Chapter_IV lexid-s:hasPart lexid:Perwali_Tangerang_2019_18_Article_9 .
 lexid:Perwali_Tangerang_2019_18_Article_9 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_18_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:Perwali_Tangerang_2019_18_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_18_Article_9 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_18_Chapter_IV lexid-s:isContentOf lexid:Perwali_Tangerang_2019_18 .
@@ -28142,7 +28142,7 @@ lexid:Perwali_Tangerang_2019_17_Article_1 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_17_Chapter_I lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Article_1 .
 lexid:Perwali_Tangerang_2019_17_Article_1 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_17_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Article_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Chapter_I lexid-s:isContentOf lexid:Perwali_Tangerang_2019_17 .
@@ -28162,7 +28162,7 @@ lexid:Perwali_Tangerang_2019_17_Section_2_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_2 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_2_1 .
 lexid:Perwali_Tangerang_2019_17_Section_2_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_2_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_2_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_2 .
@@ -28171,7 +28171,7 @@ lexid:Perwali_Tangerang_2019_17_Section_2_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_2 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_2_2 .
 lexid:Perwali_Tangerang_2019_17_Section_2_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_2_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_2_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_2 .
@@ -28180,14 +28180,14 @@ lexid:Perwali_Tangerang_2019_17_Section_2_3 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_2 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_2_3 .
 lexid:Perwali_Tangerang_2019_17_Section_2_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_2_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_2_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_2_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_2_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_2_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Article_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Chapter_II .
 lexid:Perwali_Tangerang_2019_17_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Article_2 .
 lexid:Perwali_Tangerang_2019_17_Article_2 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_17_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Article_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Chapter_II .
@@ -28198,7 +28198,7 @@ lexid:Perwali_Tangerang_2019_17_Section_3_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_1 .
 lexid:Perwali_Tangerang_2019_17_Section_3_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_3_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_3 .
@@ -28207,7 +28207,7 @@ lexid:Perwali_Tangerang_2019_17_Section_3_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_2 .
 lexid:Perwali_Tangerang_2019_17_Section_3_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_3_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_3 .
@@ -28216,7 +28216,7 @@ lexid:Perwali_Tangerang_2019_17_Section_3_3 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_3 .
 lexid:Perwali_Tangerang_2019_17_Section_3_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_3_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_3 .
@@ -28225,7 +28225,7 @@ lexid:Perwali_Tangerang_2019_17_Section_3_4 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_4 .
 lexid:Perwali_Tangerang_2019_17_Section_3_4 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_3_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_3 .
@@ -28234,7 +28234,7 @@ lexid:Perwali_Tangerang_2019_17_Section_3_5 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_5 .
 lexid:Perwali_Tangerang_2019_17_Section_3_5 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_3_6 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_3 .
@@ -28243,7 +28243,7 @@ lexid:Perwali_Tangerang_2019_17_Section_3_6 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_6 .
 lexid:Perwali_Tangerang_2019_17_Section_3_6 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_6 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_3_7 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_3 .
@@ -28252,7 +28252,7 @@ lexid:Perwali_Tangerang_2019_17_Section_3_7 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_7 .
 lexid:Perwali_Tangerang_2019_17_Section_3_7 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_7 lexid-s:name "(7)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_7 rdfs:label "ayat 7 : (7)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_7 rdfs:label "ayat 7"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_7 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_3_8 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_3 .
@@ -28261,7 +28261,7 @@ lexid:Perwali_Tangerang_2019_17_Section_3_8 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_8 .
 lexid:Perwali_Tangerang_2019_17_Section_3_8 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_8 lexid-s:name "(8)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_8 rdfs:label "ayat 8 : (8)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_8 rdfs:label "ayat 8"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_8 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_3_9 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_3 .
@@ -28270,7 +28270,7 @@ lexid:Perwali_Tangerang_2019_17_Section_3_9 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_9 .
 lexid:Perwali_Tangerang_2019_17_Section_3_9 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_9 lexid-s:name "(9)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_9 rdfs:label "ayat 9 : (9)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_9 rdfs:label "ayat 9"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_9 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_3_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_3 .
@@ -28279,14 +28279,14 @@ lexid:Perwali_Tangerang_2019_17_Section_3_10 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_3_10 .
 lexid:Perwali_Tangerang_2019_17_Section_3_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_3_10 lexid-s:name "(10)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_3_10 rdfs:label "ayat 10 : (10)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_3_10 rdfs:label "ayat 10"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_3_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_3_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Chapter_II .
 lexid:Perwali_Tangerang_2019_17_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Article_3 .
 lexid:Perwali_Tangerang_2019_17_Article_3 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_17_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Article_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Article_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Chapter_II .
@@ -28297,7 +28297,7 @@ lexid:Perwali_Tangerang_2019_17_Section_4_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_4 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_4_1 .
 lexid:Perwali_Tangerang_2019_17_Section_4_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_4_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_4_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_4_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_4_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_4_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_4_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_4 .
@@ -28306,14 +28306,14 @@ lexid:Perwali_Tangerang_2019_17_Section_4_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_4 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_4_2 .
 lexid:Perwali_Tangerang_2019_17_Section_4_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_4_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_4_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_4_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_4_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_4_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Article_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Chapter_II .
 lexid:Perwali_Tangerang_2019_17_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Article_4 .
 lexid:Perwali_Tangerang_2019_17_Article_4 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_17_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Article_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Article_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Chapter_II .
@@ -28322,7 +28322,7 @@ lexid:Perwali_Tangerang_2019_17_Article_5 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_17_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Article_5 .
 lexid:Perwali_Tangerang_2019_17_Article_5 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_17_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Article_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Article_6 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Chapter_II .
@@ -28331,7 +28331,7 @@ lexid:Perwali_Tangerang_2019_17_Article_6 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_17_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Article_6 .
 lexid:Perwali_Tangerang_2019_17_Article_6 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_17_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Article_6 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Chapter_II lexid-s:isContentOf lexid:Perwali_Tangerang_2019_17 .
@@ -28351,7 +28351,7 @@ lexid:Perwali_Tangerang_2019_17_Section_7_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_7 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_7_1 .
 lexid:Perwali_Tangerang_2019_17_Section_7_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_7_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_7_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_7_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_7_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_7_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Section_7_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Article_7 .
@@ -28360,14 +28360,14 @@ lexid:Perwali_Tangerang_2019_17_Section_7_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_17_Article_7 lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Section_7_2 .
 lexid:Perwali_Tangerang_2019_17_Section_7_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_17_Section_7_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Section_7_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Section_7_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Section_7_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Section_7_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Article_7 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Chapter_III .
 lexid:Perwali_Tangerang_2019_17_Chapter_III lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Article_7 .
 lexid:Perwali_Tangerang_2019_17_Article_7 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_17_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Article_7 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Article_8 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_17_Chapter_III .
@@ -28376,7 +28376,7 @@ lexid:Perwali_Tangerang_2019_17_Article_8 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_17_Chapter_III lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Article_8 .
 lexid:Perwali_Tangerang_2019_17_Article_8 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_17_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Article_8 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Chapter_III lexid-s:isContentOf lexid:Perwali_Tangerang_2019_17 .
@@ -28394,7 +28394,7 @@ lexid:Perwali_Tangerang_2019_17_Article_9 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_17_Chapter_IV lexid-s:hasPart lexid:Perwali_Tangerang_2019_17_Article_9 .
 lexid:Perwali_Tangerang_2019_17_Article_9 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_17_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:Perwali_Tangerang_2019_17_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_17_Article_9 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_17_Chapter_IV lexid-s:isContentOf lexid:Perwali_Tangerang_2019_17 .
@@ -28412,7 +28412,7 @@ lexid:Perwali_Tangerang_2019_11_Article_1 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_11_Chapter_I lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_1 .
 lexid:Perwali_Tangerang_2019_11_Article_1 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Chapter_I lexid-s:isContentOf lexid:Perwali_Tangerang_2019_11 .
@@ -28430,7 +28430,7 @@ lexid:Perwali_Tangerang_2019_11_Article_2 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_11_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_2 .
 lexid:Perwali_Tangerang_2019_11_Article_2 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
@@ -28441,7 +28441,7 @@ lexid:Perwali_Tangerang_2019_11_Section_3_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_3_1 .
 lexid:Perwali_Tangerang_2019_11_Section_3_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_3_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_3_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_3 .
@@ -28450,14 +28450,14 @@ lexid:Perwali_Tangerang_2019_11_Section_3_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_3 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_3_2 .
 lexid:Perwali_Tangerang_2019_11_Section_3_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_3_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
 lexid:Perwali_Tangerang_2019_11_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_3 .
 lexid:Perwali_Tangerang_2019_11_Article_3 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
@@ -28468,7 +28468,7 @@ lexid:Perwali_Tangerang_2019_11_Section_4_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_4 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_4_1 .
 lexid:Perwali_Tangerang_2019_11_Section_4_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_4_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_4_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_4_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_4_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_4_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_4_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_4 .
@@ -28477,7 +28477,7 @@ lexid:Perwali_Tangerang_2019_11_Section_4_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_4 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_4_2 .
 lexid:Perwali_Tangerang_2019_11_Section_4_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_4_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_4_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_4_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_4_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_4_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_4_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_4 .
@@ -28486,7 +28486,7 @@ lexid:Perwali_Tangerang_2019_11_Section_4_3 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_4 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_4_3 .
 lexid:Perwali_Tangerang_2019_11_Section_4_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_4_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_4_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_4_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_4_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_4_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_4_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_4 .
@@ -28495,14 +28495,14 @@ lexid:Perwali_Tangerang_2019_11_Section_4_4 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_4 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_4_4 .
 lexid:Perwali_Tangerang_2019_11_Section_4_4 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_4_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_4_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_4_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_4_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_4_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
 lexid:Perwali_Tangerang_2019_11_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_4 .
 lexid:Perwali_Tangerang_2019_11_Article_4 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
@@ -28513,7 +28513,7 @@ lexid:Perwali_Tangerang_2019_11_Section_5_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_5 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_5_1 .
 lexid:Perwali_Tangerang_2019_11_Section_5_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_5_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_5_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_5_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_5_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_5_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_5_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_5 .
@@ -28522,14 +28522,14 @@ lexid:Perwali_Tangerang_2019_11_Section_5_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_5 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_5_2 .
 lexid:Perwali_Tangerang_2019_11_Section_5_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_5_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_5_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_5_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_5_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_5_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
 lexid:Perwali_Tangerang_2019_11_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_5 .
 lexid:Perwali_Tangerang_2019_11_Article_5 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_6 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
@@ -28540,7 +28540,7 @@ lexid:Perwali_Tangerang_2019_11_Section_6_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_6 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_6_1 .
 lexid:Perwali_Tangerang_2019_11_Section_6_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_6_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_6_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_6_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_6_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_6_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_6_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_6 .
@@ -28549,7 +28549,7 @@ lexid:Perwali_Tangerang_2019_11_Section_6_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_6 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_6_2 .
 lexid:Perwali_Tangerang_2019_11_Section_6_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_6_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_6_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_6_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_6_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_6_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_6_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_6 .
@@ -28558,7 +28558,7 @@ lexid:Perwali_Tangerang_2019_11_Section_6_3 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_6 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_6_3 .
 lexid:Perwali_Tangerang_2019_11_Section_6_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_6_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_6_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_6_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_6_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_6_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_6_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_6 .
@@ -28567,7 +28567,7 @@ lexid:Perwali_Tangerang_2019_11_Section_6_4 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_6 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_6_4 .
 lexid:Perwali_Tangerang_2019_11_Section_6_4 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_6_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_6_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_6_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_6_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_6_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_6_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_6 .
@@ -28576,7 +28576,7 @@ lexid:Perwali_Tangerang_2019_11_Section_6_5 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_6 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_6_5 .
 lexid:Perwali_Tangerang_2019_11_Section_6_5 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_6_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_6_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_6_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_6_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_6_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_6_6 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_6 .
@@ -28585,14 +28585,14 @@ lexid:Perwali_Tangerang_2019_11_Section_6_6 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_6 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_6_6 .
 lexid:Perwali_Tangerang_2019_11_Section_6_6 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_6_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_6_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_6_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_6_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_6_6 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_6 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
 lexid:Perwali_Tangerang_2019_11_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_6 .
 lexid:Perwali_Tangerang_2019_11_Article_6 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_6 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_7 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
@@ -28603,7 +28603,7 @@ lexid:Perwali_Tangerang_2019_11_Section_7_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_7 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_7_1 .
 lexid:Perwali_Tangerang_2019_11_Section_7_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_7_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_7_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_7_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_7_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_7_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_7_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_7 .
@@ -28612,7 +28612,7 @@ lexid:Perwali_Tangerang_2019_11_Section_7_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_7 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_7_2 .
 lexid:Perwali_Tangerang_2019_11_Section_7_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_7_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_7_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_7_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_7_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_7_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_7_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_7 .
@@ -28621,7 +28621,7 @@ lexid:Perwali_Tangerang_2019_11_Section_7_3 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_7 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_7_3 .
 lexid:Perwali_Tangerang_2019_11_Section_7_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_7_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_7_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_7_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_7_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_7_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_7_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_7 .
@@ -28630,7 +28630,7 @@ lexid:Perwali_Tangerang_2019_11_Section_7_4 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_7 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_7_4 .
 lexid:Perwali_Tangerang_2019_11_Section_7_4 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_7_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_7_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_7_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_7_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_7_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_7_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_7 .
@@ -28639,14 +28639,14 @@ lexid:Perwali_Tangerang_2019_11_Section_7_5 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_7 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_7_5 .
 lexid:Perwali_Tangerang_2019_11_Section_7_5 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_7_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_7_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_7_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_7_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_7_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_7 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
 lexid:Perwali_Tangerang_2019_11_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_7 .
 lexid:Perwali_Tangerang_2019_11_Article_7 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_7 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_8 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
@@ -28657,7 +28657,7 @@ lexid:Perwali_Tangerang_2019_11_Section_8_1 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_8 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_8_1 .
 lexid:Perwali_Tangerang_2019_11_Section_8_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_8_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_8_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_8_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_8_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_8_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_8_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_8 .
@@ -28666,14 +28666,14 @@ lexid:Perwali_Tangerang_2019_11_Section_8_2 lexid-s:isPartOf lexid:Perwali_Tange
 lexid:Perwali_Tangerang_2019_11_Article_8 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_8_2 .
 lexid:Perwali_Tangerang_2019_11_Section_8_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_8_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_8_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_8_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_8_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_8_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_8 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_II .
 lexid:Perwali_Tangerang_2019_11_Chapter_II lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_8 .
 lexid:Perwali_Tangerang_2019_11_Article_8 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_8 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Chapter_II lexid-s:isContentOf lexid:Perwali_Tangerang_2019_11 .
@@ -28691,7 +28691,7 @@ lexid:Perwali_Tangerang_2019_11_Article_9 lexid-s:isPartOf lexid:Perwali_Tangera
 lexid:Perwali_Tangerang_2019_11_Chapter_III lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_9 .
 lexid:Perwali_Tangerang_2019_11_Article_9 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_9 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_III .
@@ -28702,7 +28702,7 @@ lexid:Perwali_Tangerang_2019_11_Section_10_1 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_10 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_10_1 .
 lexid:Perwali_Tangerang_2019_11_Section_10_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_10_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_10_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_10_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_10_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_10_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_10_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_10 .
@@ -28711,14 +28711,14 @@ lexid:Perwali_Tangerang_2019_11_Section_10_2 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_10 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_10_2 .
 lexid:Perwali_Tangerang_2019_11_Section_10_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_10_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_10_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_10_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_10_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_10_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_III .
 lexid:Perwali_Tangerang_2019_11_Chapter_III lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_10 .
 lexid:Perwali_Tangerang_2019_11_Article_10 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_10 lexid-s:name "Pasal 10"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_10 rdfs:label "Pasal 10 : Pasal 10"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_10 rdfs:label "Pasal 10"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_11 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_III .
@@ -28729,7 +28729,7 @@ lexid:Perwali_Tangerang_2019_11_Section_11_1 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_11 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_11_1 .
 lexid:Perwali_Tangerang_2019_11_Section_11_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_11_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_11_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_11_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_11_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_11_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_11_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_11 .
@@ -28738,7 +28738,7 @@ lexid:Perwali_Tangerang_2019_11_Section_11_2 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_11 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_11_2 .
 lexid:Perwali_Tangerang_2019_11_Section_11_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_11_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_11_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_11_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_11_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_11_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_11_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_11 .
@@ -28747,14 +28747,14 @@ lexid:Perwali_Tangerang_2019_11_Section_11_3 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_11 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_11_3 .
 lexid:Perwali_Tangerang_2019_11_Section_11_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_11_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_11_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_11_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_11_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_11_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_11 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_III .
 lexid:Perwali_Tangerang_2019_11_Chapter_III lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_11 .
 lexid:Perwali_Tangerang_2019_11_Article_11 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_11 lexid-s:name "Pasal 11"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_11 rdfs:label "Pasal 11 : Pasal 11"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_11 rdfs:label "Pasal 11"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_11 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Chapter_III lexid-s:isContentOf lexid:Perwali_Tangerang_2019_11 .
@@ -28774,7 +28774,7 @@ lexid:Perwali_Tangerang_2019_11_Section_12_1 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_12 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_12_1 .
 lexid:Perwali_Tangerang_2019_11_Section_12_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_12_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_12_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_12_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_12_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_12_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_12_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_12 .
@@ -28783,7 +28783,7 @@ lexid:Perwali_Tangerang_2019_11_Section_12_2 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_12 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_12_2 .
 lexid:Perwali_Tangerang_2019_11_Section_12_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_12_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_12_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_12_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_12_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_12_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_12_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_12 .
@@ -28792,7 +28792,7 @@ lexid:Perwali_Tangerang_2019_11_Section_12_3 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_12 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_12_3 .
 lexid:Perwali_Tangerang_2019_11_Section_12_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_12_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_12_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_12_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_12_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_12_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_12_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_12 .
@@ -28801,7 +28801,7 @@ lexid:Perwali_Tangerang_2019_11_Section_12_4 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_12 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_12_4 .
 lexid:Perwali_Tangerang_2019_11_Section_12_4 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_12_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_12_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_12_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_12_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_12_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_12_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_12 .
@@ -28810,14 +28810,14 @@ lexid:Perwali_Tangerang_2019_11_Section_12_5 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_12 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_12_5 .
 lexid:Perwali_Tangerang_2019_11_Section_12_5 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_12_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_12_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_12_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_12_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_12_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_12 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_IV .
 lexid:Perwali_Tangerang_2019_11_Chapter_IV lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_12 .
 lexid:Perwali_Tangerang_2019_11_Article_12 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_12 lexid-s:name "Pasal 12"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_12 rdfs:label "Pasal 12 : Pasal 12"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_12 rdfs:label "Pasal 12"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_12 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_13 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_IV .
@@ -28826,7 +28826,7 @@ lexid:Perwali_Tangerang_2019_11_Article_13 lexid-s:isPartOf lexid:Perwali_Tanger
 lexid:Perwali_Tangerang_2019_11_Chapter_IV lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_13 .
 lexid:Perwali_Tangerang_2019_11_Article_13 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_13 lexid-s:name "Pasal 13"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_13 rdfs:label "Pasal 13 : Pasal 13"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_13 rdfs:label "Pasal 13"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_13 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_13 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_14 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_IV .
@@ -28835,7 +28835,7 @@ lexid:Perwali_Tangerang_2019_11_Article_14 lexid-s:isPartOf lexid:Perwali_Tanger
 lexid:Perwali_Tangerang_2019_11_Chapter_IV lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_14 .
 lexid:Perwali_Tangerang_2019_11_Article_14 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_14 lexid-s:name "Pasal 14"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_14 rdfs:label "Pasal 14 : Pasal 14"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_14 rdfs:label "Pasal 14"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_14 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_14 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_15 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_IV .
@@ -28844,7 +28844,7 @@ lexid:Perwali_Tangerang_2019_11_Article_15 lexid-s:isPartOf lexid:Perwali_Tanger
 lexid:Perwali_Tangerang_2019_11_Chapter_IV lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_15 .
 lexid:Perwali_Tangerang_2019_11_Article_15 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_15 lexid-s:name "Pasal 15"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_15 rdfs:label "Pasal 15 : Pasal 15"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_15 rdfs:label "Pasal 15"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_15 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_15 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_17 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_IV .
@@ -28853,7 +28853,7 @@ lexid:Perwali_Tangerang_2019_11_Article_17 lexid-s:isPartOf lexid:Perwali_Tanger
 lexid:Perwali_Tangerang_2019_11_Chapter_IV lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_17 .
 lexid:Perwali_Tangerang_2019_11_Article_17 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_17 lexid-s:name "Pasal 17"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_17 rdfs:label "Pasal 17 : Pasal 17"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_17 rdfs:label "Pasal 17"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_17 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_17 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_18 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_IV .
@@ -28862,7 +28862,7 @@ lexid:Perwali_Tangerang_2019_11_Article_18 lexid-s:isPartOf lexid:Perwali_Tanger
 lexid:Perwali_Tangerang_2019_11_Chapter_IV lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_18 .
 lexid:Perwali_Tangerang_2019_11_Article_18 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_18 lexid-s:name "Pasal 18"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_18 rdfs:label "Pasal 18 : Pasal 18"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_18 rdfs:label "Pasal 18"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_18 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_18 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Chapter_IV lexid-s:isContentOf lexid:Perwali_Tangerang_2019_11 .
@@ -28882,7 +28882,7 @@ lexid:Perwali_Tangerang_2019_11_Section_19_1 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_19 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_19_1 .
 lexid:Perwali_Tangerang_2019_11_Section_19_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_19_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_19_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_19_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_19_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_19_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_19_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_19 .
@@ -28891,7 +28891,7 @@ lexid:Perwali_Tangerang_2019_11_Section_19_2 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_19 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_19_2 .
 lexid:Perwali_Tangerang_2019_11_Section_19_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_19_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_19_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_19_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_19_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_19_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_19_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_19 .
@@ -28900,7 +28900,7 @@ lexid:Perwali_Tangerang_2019_11_Section_19_3 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_19 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_19_3 .
 lexid:Perwali_Tangerang_2019_11_Section_19_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_19_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_19_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_19_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_19_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_19_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_19_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_19 .
@@ -28909,7 +28909,7 @@ lexid:Perwali_Tangerang_2019_11_Section_19_4 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_19 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_19_4 .
 lexid:Perwali_Tangerang_2019_11_Section_19_4 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_19_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_19_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_19_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_19_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_19_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_19_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_19 .
@@ -28918,7 +28918,7 @@ lexid:Perwali_Tangerang_2019_11_Section_19_5 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_19 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_19_5 .
 lexid:Perwali_Tangerang_2019_11_Section_19_5 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_19_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_19_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_19_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_19_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_19_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_19_6 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_19 .
@@ -28927,14 +28927,14 @@ lexid:Perwali_Tangerang_2019_11_Section_19_6 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_19 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_19_6 .
 lexid:Perwali_Tangerang_2019_11_Section_19_6 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_19_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_19_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_19_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_19_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_19_6 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_19 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_V .
 lexid:Perwali_Tangerang_2019_11_Chapter_V lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_19 .
 lexid:Perwali_Tangerang_2019_11_Article_19 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_19 lexid-s:name "Pasal 19"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_19 rdfs:label "Pasal 19 : Pasal 19"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_19 rdfs:label "Pasal 19"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_19 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_19 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_20 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_V .
@@ -28943,7 +28943,7 @@ lexid:Perwali_Tangerang_2019_11_Article_20 lexid-s:isPartOf lexid:Perwali_Tanger
 lexid:Perwali_Tangerang_2019_11_Chapter_V lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_20 .
 lexid:Perwali_Tangerang_2019_11_Article_20 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_20 lexid-s:name "Pasal 20"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_20 rdfs:label "Pasal 20 : Pasal 20"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_20 rdfs:label "Pasal 20"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_20 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_20 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_V .
@@ -28954,7 +28954,7 @@ lexid:Perwali_Tangerang_2019_11_Section_21_1 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_21_1 .
 lexid:Perwali_Tangerang_2019_11_Section_21_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_21_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_21_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_21_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_21_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_21_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_21_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_21 .
@@ -28963,7 +28963,7 @@ lexid:Perwali_Tangerang_2019_11_Section_21_2 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_21_2 .
 lexid:Perwali_Tangerang_2019_11_Section_21_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_21_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_21_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_21_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_21_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_21_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_21_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_21 .
@@ -28972,7 +28972,7 @@ lexid:Perwali_Tangerang_2019_11_Section_21_3 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_21_3 .
 lexid:Perwali_Tangerang_2019_11_Section_21_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_21_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_21_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_21_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_21_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_21_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_21_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_21 .
@@ -28981,7 +28981,7 @@ lexid:Perwali_Tangerang_2019_11_Section_21_4 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_21_4 .
 lexid:Perwali_Tangerang_2019_11_Section_21_4 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_21_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_21_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_21_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_21_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_21_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_21_5 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_21 .
@@ -28990,7 +28990,7 @@ lexid:Perwali_Tangerang_2019_11_Section_21_5 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_21_5 .
 lexid:Perwali_Tangerang_2019_11_Section_21_5 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_21_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_21_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_21_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_21_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_21_5 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_21_6 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_21 .
@@ -28999,7 +28999,7 @@ lexid:Perwali_Tangerang_2019_11_Section_21_6 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_21_6 .
 lexid:Perwali_Tangerang_2019_11_Section_21_6 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_21_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_21_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_21_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_21_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_21_6 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_21_7 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_21 .
@@ -29008,14 +29008,14 @@ lexid:Perwali_Tangerang_2019_11_Section_21_7 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_21_7 .
 lexid:Perwali_Tangerang_2019_11_Section_21_7 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_21_7 lexid-s:name "(7)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_21_7 rdfs:label "ayat 7 : (7)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_21_7 rdfs:label "ayat 7"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_21_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_21_7 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_V .
 lexid:Perwali_Tangerang_2019_11_Chapter_V lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_21 .
 lexid:Perwali_Tangerang_2019_11_Article_21 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_21 lexid-s:name "Pasal 21"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_21 rdfs:label "Pasal 21 : Pasal 21"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_21 rdfs:label "Pasal 21"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_21 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_21 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Chapter_V lexid-s:isContentOf lexid:Perwali_Tangerang_2019_11 .
@@ -29035,7 +29035,7 @@ lexid:Perwali_Tangerang_2019_11_Section_22_1 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_22 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_22_1 .
 lexid:Perwali_Tangerang_2019_11_Section_22_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_22_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_22_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_22_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_22_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_22_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_22_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_22 .
@@ -29044,7 +29044,7 @@ lexid:Perwali_Tangerang_2019_11_Section_22_2 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_22 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_22_2 .
 lexid:Perwali_Tangerang_2019_11_Section_22_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_22_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_22_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_22_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_22_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_22_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_22_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_22 .
@@ -29053,7 +29053,7 @@ lexid:Perwali_Tangerang_2019_11_Section_22_3 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_22 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_22_3 .
 lexid:Perwali_Tangerang_2019_11_Section_22_3 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_22_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_22_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_22_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_22_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_22_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_22_4 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_22 .
@@ -29062,14 +29062,14 @@ lexid:Perwali_Tangerang_2019_11_Section_22_4 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_22 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_22_4 .
 lexid:Perwali_Tangerang_2019_11_Section_22_4 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_22_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_22_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_22_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_22_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_22_4 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_22 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_VI .
 lexid:Perwali_Tangerang_2019_11_Chapter_VI lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_22 .
 lexid:Perwali_Tangerang_2019_11_Article_22 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_22 lexid-s:name "Pasal 22"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_22 rdfs:label "Pasal 22 : Pasal 22"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_22 rdfs:label "Pasal 22"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_22 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_22 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_23 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_VI .
@@ -29080,7 +29080,7 @@ lexid:Perwali_Tangerang_2019_11_Section_23_1 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_23 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_23_1 .
 lexid:Perwali_Tangerang_2019_11_Section_23_1 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_23_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_23_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_23_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_23_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_23_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Section_23_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Article_23 .
@@ -29089,14 +29089,14 @@ lexid:Perwali_Tangerang_2019_11_Section_23_2 lexid-s:isPartOf lexid:Perwali_Tang
 lexid:Perwali_Tangerang_2019_11_Article_23 lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Section_23_2 .
 lexid:Perwali_Tangerang_2019_11_Section_23_2 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2019_11_Section_23_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Section_23_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Section_23_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Section_23_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Section_23_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Article_23 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_11_Chapter_VI .
 lexid:Perwali_Tangerang_2019_11_Chapter_VI lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_23 .
 lexid:Perwali_Tangerang_2019_11_Article_23 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_23 lexid-s:name "Pasal 23"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_23 rdfs:label "Pasal 23 : Pasal 23"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_23 rdfs:label "Pasal 23"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_23 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_23 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Chapter_VI lexid-s:isContentOf lexid:Perwali_Tangerang_2019_11 .
@@ -29114,7 +29114,7 @@ lexid:Perwali_Tangerang_2019_11_Article_24 lexid-s:isPartOf lexid:Perwali_Tanger
 lexid:Perwali_Tangerang_2019_11_Chapter_VII lexid-s:hasPart lexid:Perwali_Tangerang_2019_11_Article_24 .
 lexid:Perwali_Tangerang_2019_11_Article_24 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_11_Article_24 lexid-s:name "Pasal 24"^^xsd:string .
-lexid:Perwali_Tangerang_2019_11_Article_24 rdfs:label "Pasal 24 : Pasal 24"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11_Article_24 rdfs:label "Pasal 24"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11_Article_24 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_11_Article_24 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_11_Chapter_VII lexid-s:isContentOf lexid:Perwali_Tangerang_2019_11 .
@@ -29207,7 +29207,7 @@ lexid:Perwali_Tangerang_2018_19_Section_3_1_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_3_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_3_1_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_3_1_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_3_1_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_3_1_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_3_1_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_3_1_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_3_1_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_3_1A_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_3_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29225,7 +29225,7 @@ lexid:Perwali_Tangerang_2018_19_Section_3_2_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_3_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_3_2_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_3_2_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_3_2_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_3_2_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_3_2_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_3_2_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_3_2_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_3_3_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_3_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29234,7 +29234,7 @@ lexid:Perwali_Tangerang_2018_19_Section_3_3_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_3_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_3_3_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_3_3_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_3_3_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_3_3_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_3_3_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_3_3_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_3_3_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_5_1_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_5_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29243,7 +29243,7 @@ lexid:Perwali_Tangerang_2018_19_Section_5_1_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_5_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_5_1_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_5_1_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_5_1_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_5_1_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_5_1_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_5_1_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_5_1_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_5_2_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_5_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29252,7 +29252,7 @@ lexid:Perwali_Tangerang_2018_19_Section_5_2_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_5_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_5_2_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_5_2_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_5_2_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_5_2_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_5_2_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_5_2_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_5_2_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_5_4_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_5_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29261,7 +29261,7 @@ lexid:Perwali_Tangerang_2018_19_Section_5_4_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_5_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_5_4_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_5_4_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_5_4_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_5_4_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_5_4_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_5_4_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_5_4_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_7_1_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29270,7 +29270,7 @@ lexid:Perwali_Tangerang_2018_19_Section_7_1_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_7_1_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_7_1_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_7_1_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_7_1_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_7_1_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_7_1_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_7_1_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_7_2_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29279,7 +29279,7 @@ lexid:Perwali_Tangerang_2018_19_Section_7_2_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_7_2_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_7_2_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_7_2_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_7_2_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_7_2_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_7_2_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_7_2_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_7_3_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29288,7 +29288,7 @@ lexid:Perwali_Tangerang_2018_19_Section_7_3_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_7_3_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_7_3_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_7_3_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_7_3_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_7_3_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_7_3_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_7_3_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_7_4_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29297,7 +29297,7 @@ lexid:Perwali_Tangerang_2018_19_Section_7_4_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_7_4_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_7_4_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_7_4_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_7_4_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_7_4_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_7_4_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_7_4_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2018_19_Section_7_5_Modified_By_Perwali_Tangerang_2019_10 lexid-s:isPartOf lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 .
@@ -29306,7 +29306,7 @@ lexid:Perwali_Tangerang_2018_19_Section_7_5_Modified_By_Perwali_Tangerang_2019_1
 lexid:Perwali_Tangerang_2018_19_Article_7_Modified_By_Perwali_Tangerang_2019_10 lexid-s:hasPart lexid:Perwali_Tangerang_2018_19_Section_7_5_Modified_By_Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19_Section_7_5_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:Section .
 lexid:Perwali_Tangerang_2018_19_Section_7_5_Modified_By_Perwali_Tangerang_2019_10 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Tangerang_2018_19_Section_7_5_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19_Section_7_5_Modified_By_Perwali_Tangerang_2019_10 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Tangerang_2018_19_Section_7_5_Modified_By_Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2018_19_Section_7_5_Modified_By_Perwali_Tangerang_2019_10 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_1_Chapter_I lexid-s:isContentOf lexid:Perwali_Tangerang_2019_1 .
@@ -29317,7 +29317,7 @@ lexid:Perwali_Tangerang_2019_1_Article_1 lexid-s:isPartOf lexid:Perwali_Tangeran
 lexid:Perwali_Tangerang_2019_1_Chapter_I lexid-s:hasPart lexid:Perwali_Tangerang_2019_1_Article_1 .
 lexid:Perwali_Tangerang_2019_1_Article_1 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_1_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Perwali_Tangerang_2019_1_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perwali_Tangerang_2019_1_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_1_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_1_Article_1 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_1_Article_2 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_1_Chapter_I .
@@ -29326,7 +29326,7 @@ lexid:Perwali_Tangerang_2019_1_Article_2 lexid-s:isPartOf lexid:Perwali_Tangeran
 lexid:Perwali_Tangerang_2019_1_Chapter_I lexid-s:hasPart lexid:Perwali_Tangerang_2019_1_Article_2 .
 lexid:Perwali_Tangerang_2019_1_Article_2 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_1_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Perwali_Tangerang_2019_1_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perwali_Tangerang_2019_1_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_1_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_1_Article_2 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_1_Article_3 lexid-s:isPartOf lexid:Perwali_Tangerang_2019_1_Chapter_I .
@@ -29335,7 +29335,7 @@ lexid:Perwali_Tangerang_2019_1_Article_3 lexid-s:isPartOf lexid:Perwali_Tangeran
 lexid:Perwali_Tangerang_2019_1_Chapter_I lexid-s:hasPart lexid:Perwali_Tangerang_2019_1_Article_3 .
 lexid:Perwali_Tangerang_2019_1_Article_3 rdf:type lexid-s:Article .
 lexid:Perwali_Tangerang_2019_1_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Perwali_Tangerang_2019_1_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Perwali_Tangerang_2019_1_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Perwali_Tangerang_2019_1_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Tangerang_2019_1_Article_3 rdf:type owl:Thing .
 lexid:Perwali_Tangerang_2019_1_Chapter_I lexid-s:isContentOf lexid:Perwali_Tangerang_2019_1 .
@@ -29380,7 +29380,7 @@ lexid:Perwali_Cirebon_2019_9_Article_1 lexid-s:isPartOf lexid:Perwali_Cirebon_20
 lexid:Perwali_Cirebon_2019_9_Chapter_I lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Article_1 .
 lexid:Perwali_Cirebon_2019_9_Article_1 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Article_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Chapter_I lexid-s:isContentOf lexid:Perwali_Cirebon_2019_9 .
@@ -29400,7 +29400,7 @@ lexid:Perwali_Cirebon_2019_9_Section_2_1 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_9_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Section_2_1 .
 lexid:Perwali_Cirebon_2019_9_Section_2_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_9_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Section_2_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Section_2_3 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Article_2 .
@@ -29409,7 +29409,7 @@ lexid:Perwali_Cirebon_2019_9_Section_2_3 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_9_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Section_2_3 .
 lexid:Perwali_Cirebon_2019_9_Section_2_3 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_9_Section_2_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Section_2_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Section_2_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Section_2_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Section_2_3 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Section_2_4 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Article_2 .
@@ -29418,7 +29418,7 @@ lexid:Perwali_Cirebon_2019_9_Section_2_4 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_9_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Section_2_4 .
 lexid:Perwali_Cirebon_2019_9_Section_2_4 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_9_Section_2_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Section_2_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Section_2_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Section_2_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Section_2_4 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Section_2_5 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Article_2 .
@@ -29427,14 +29427,14 @@ lexid:Perwali_Cirebon_2019_9_Section_2_5 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_9_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Section_2_5 .
 lexid:Perwali_Cirebon_2019_9_Section_2_5 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_9_Section_2_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Section_2_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Section_2_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Section_2_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Section_2_5 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Article_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Chapter_II .
 lexid:Perwali_Cirebon_2019_9_Chapter_II lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Article_2 .
 lexid:Perwali_Cirebon_2019_9_Article_2 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Article_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Article_3 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Chapter_II .
@@ -29443,7 +29443,7 @@ lexid:Perwali_Cirebon_2019_9_Article_3 lexid-s:isPartOf lexid:Perwali_Cirebon_20
 lexid:Perwali_Cirebon_2019_9_Chapter_II lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Article_3 .
 lexid:Perwali_Cirebon_2019_9_Article_3 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Article_3 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Chapter_II lexid-s:isContentOf lexid:Perwali_Cirebon_2019_9 .
@@ -29463,14 +29463,14 @@ lexid:Perwali_Cirebon_2019_9_Section_4_1 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_9_Article_4 lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Section_4_1 .
 lexid:Perwali_Cirebon_2019_9_Section_4_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_9_Section_4_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Section_4_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Section_4_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Section_4_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Section_4_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Article_4 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Chapter_III .
 lexid:Perwali_Cirebon_2019_9_Chapter_III lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Article_4 .
 lexid:Perwali_Cirebon_2019_9_Article_4 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Article_4 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Chapter_III lexid-s:isContentOf lexid:Perwali_Cirebon_2019_9 .
@@ -29488,7 +29488,7 @@ lexid:Perwali_Cirebon_2019_9_Article_5 lexid-s:isPartOf lexid:Perwali_Cirebon_20
 lexid:Perwali_Cirebon_2019_9_Chapter_IV lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Article_5 .
 lexid:Perwali_Cirebon_2019_9_Article_5 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Article_5 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Article_6 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Chapter_IV .
@@ -29499,7 +29499,7 @@ lexid:Perwali_Cirebon_2019_9_Section_6_1 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_9_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Section_6_1 .
 lexid:Perwali_Cirebon_2019_9_Section_6_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_9_Section_6_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Section_6_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Section_6_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Section_6_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Section_6_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Section_6_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Article_6 .
@@ -29508,14 +29508,14 @@ lexid:Perwali_Cirebon_2019_9_Section_6_2 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_9_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Section_6_2 .
 lexid:Perwali_Cirebon_2019_9_Section_6_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_9_Section_6_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Section_6_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Section_6_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Section_6_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Section_6_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Article_6 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Chapter_IV .
 lexid:Perwali_Cirebon_2019_9_Chapter_IV lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Article_6 .
 lexid:Perwali_Cirebon_2019_9_Article_6 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Article_6 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Chapter_IV lexid-s:isContentOf lexid:Perwali_Cirebon_2019_9 .
@@ -29533,7 +29533,7 @@ lexid:Perwali_Cirebon_2019_9_Article_7 lexid-s:isPartOf lexid:Perwali_Cirebon_20
 lexid:Perwali_Cirebon_2019_9_Chapter_V lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Article_7 .
 lexid:Perwali_Cirebon_2019_9_Article_7 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9_Article_7 lexid-s:name "Pasal 7"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Article_7 rdfs:label "Pasal 7 : Pasal 7"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Article_7 rdfs:label "Pasal 7"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Article_7 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Article_8 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Chapter_V .
@@ -29542,7 +29542,7 @@ lexid:Perwali_Cirebon_2019_9_Article_8 lexid-s:isPartOf lexid:Perwali_Cirebon_20
 lexid:Perwali_Cirebon_2019_9_Chapter_V lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Article_8 .
 lexid:Perwali_Cirebon_2019_9_Article_8 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Article_8 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Article_9 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_9_Chapter_V .
@@ -29551,7 +29551,7 @@ lexid:Perwali_Cirebon_2019_9_Article_9 lexid-s:isPartOf lexid:Perwali_Cirebon_20
 lexid:Perwali_Cirebon_2019_9_Chapter_V lexid-s:hasPart lexid:Perwali_Cirebon_2019_9_Article_9 .
 lexid:Perwali_Cirebon_2019_9_Article_9 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:Perwali_Cirebon_2019_9_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_9_Article_9 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_9_Chapter_V lexid-s:isContentOf lexid:Perwali_Cirebon_2019_9 .
@@ -29569,7 +29569,7 @@ lexid:Perwali_Cirebon_2019_7_Article_1 lexid-s:isPartOf lexid:Perwali_Cirebon_20
 lexid:Perwali_Cirebon_2019_7_Chapter_I lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_1 .
 lexid:Perwali_Cirebon_2019_7_Article_1 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_I lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -29589,7 +29589,7 @@ lexid:Perwali_Cirebon_2019_7_Section_2_1 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_2_1 .
 lexid:Perwali_Cirebon_2019_7_Section_2_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_2_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_2_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_2_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_2_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_2_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_2_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_2 .
@@ -29598,7 +29598,7 @@ lexid:Perwali_Cirebon_2019_7_Section_2_2 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_2_2 .
 lexid:Perwali_Cirebon_2019_7_Section_2_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_2_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_2_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_2_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_2_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_2_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_2_3 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_2 .
@@ -29607,7 +29607,7 @@ lexid:Perwali_Cirebon_2019_7_Section_2_3 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_2_3 .
 lexid:Perwali_Cirebon_2019_7_Section_2_3 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_2_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_2_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_2_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_2_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_2_3 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_2_4 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_2 .
@@ -29616,7 +29616,7 @@ lexid:Perwali_Cirebon_2019_7_Section_2_4 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_2_4 .
 lexid:Perwali_Cirebon_2019_7_Section_2_4 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_2_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_2_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_2_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_2_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_2_4 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_2_5 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_2 .
@@ -29625,7 +29625,7 @@ lexid:Perwali_Cirebon_2019_7_Section_2_5 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_2_5 .
 lexid:Perwali_Cirebon_2019_7_Section_2_5 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_2_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_2_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_2_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_2_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_2_5 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_2_6 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_2 .
@@ -29634,14 +29634,14 @@ lexid:Perwali_Cirebon_2019_7_Section_2_6 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_2 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_2_6 .
 lexid:Perwali_Cirebon_2019_7_Section_2_6 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_2_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_2_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_2_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_2_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_2_6 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_II .
 lexid:Perwali_Cirebon_2019_7_Chapter_II lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_2 .
 lexid:Perwali_Cirebon_2019_7_Article_2 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_2 rdfs:label "Pasal 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_II lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -29661,7 +29661,7 @@ lexid:Perwali_Cirebon_2019_7_Section_3_1 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_3 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_3_1 .
 lexid:Perwali_Cirebon_2019_7_Section_3_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_3_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_3_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_3_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_3_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_3_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_3_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_3 .
@@ -29670,7 +29670,7 @@ lexid:Perwali_Cirebon_2019_7_Section_3_2 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_3 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_3_2 .
 lexid:Perwali_Cirebon_2019_7_Section_3_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_3_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_3_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_3_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_3_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_3_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_3_3 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_3 .
@@ -29679,7 +29679,7 @@ lexid:Perwali_Cirebon_2019_7_Section_3_3 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_3 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_3_3 .
 lexid:Perwali_Cirebon_2019_7_Section_3_3 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_3_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_3_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_3_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_3_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_3_3 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_3_4 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_3 .
@@ -29688,7 +29688,7 @@ lexid:Perwali_Cirebon_2019_7_Section_3_4 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_3 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_3_4 .
 lexid:Perwali_Cirebon_2019_7_Section_3_4 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_3_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_3_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_3_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_3_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_3_4 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_3_6 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_3 .
@@ -29697,7 +29697,7 @@ lexid:Perwali_Cirebon_2019_7_Section_3_6 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_3 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_3_6 .
 lexid:Perwali_Cirebon_2019_7_Section_3_6 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_3_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_3_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_3_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_3_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_3_6 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_3_8 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_3 .
@@ -29706,14 +29706,14 @@ lexid:Perwali_Cirebon_2019_7_Section_3_8 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_3 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_3_8 .
 lexid:Perwali_Cirebon_2019_7_Section_3_8 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_3_8 lexid-s:name "(8)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_3_8 rdfs:label "ayat 8 : (8)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_3_8 rdfs:label "ayat 8"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_3_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_3_8 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_3 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_III .
 lexid:Perwali_Cirebon_2019_7_Chapter_III lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_3 .
 lexid:Perwali_Cirebon_2019_7_Article_3 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_3 lexid-s:name "Pasal 3"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_3 rdfs:label "Pasal 3 : Pasal 3"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_3 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_III lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -29733,7 +29733,7 @@ lexid:Perwali_Cirebon_2019_7_Section_4_1 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_4 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_4_1 .
 lexid:Perwali_Cirebon_2019_7_Section_4_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_4_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_4_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_4_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_4_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_4_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_4_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_4 .
@@ -29742,14 +29742,14 @@ lexid:Perwali_Cirebon_2019_7_Section_4_2 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_4 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_4_2 .
 lexid:Perwali_Cirebon_2019_7_Section_4_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_4_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_4_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_4_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_4_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_4_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_4 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_IV .
 lexid:Perwali_Cirebon_2019_7_Chapter_IV lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_4 .
 lexid:Perwali_Cirebon_2019_7_Article_4 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_4 lexid-s:name "Pasal 4"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_4 rdfs:label "Pasal 4 : Pasal 4"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_4 rdfs:label "Pasal 4"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_4 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_5 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_IV .
@@ -29758,7 +29758,7 @@ lexid:Perwali_Cirebon_2019_7_Article_5 lexid-s:isPartOf lexid:Perwali_Cirebon_20
 lexid:Perwali_Cirebon_2019_7_Chapter_IV lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_5 .
 lexid:Perwali_Cirebon_2019_7_Article_5 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_5 lexid-s:name "Pasal 5"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_5 rdfs:label "Pasal 5 : Pasal 5"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_5 rdfs:label "Pasal 5"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_5 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_IV .
@@ -29769,7 +29769,7 @@ lexid:Perwali_Cirebon_2019_7_Section_6_1 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_6_1 .
 lexid:Perwali_Cirebon_2019_7_Section_6_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_6_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_6_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_6_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_6_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_6_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_6_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_6 .
@@ -29778,7 +29778,7 @@ lexid:Perwali_Cirebon_2019_7_Section_6_2 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_6_2 .
 lexid:Perwali_Cirebon_2019_7_Section_6_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_6_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_6_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_6_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_6_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_6_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_6_3 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_6 .
@@ -29787,7 +29787,7 @@ lexid:Perwali_Cirebon_2019_7_Section_6_3 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_6_3 .
 lexid:Perwali_Cirebon_2019_7_Section_6_3 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_6_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_6_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_6_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_6_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_6_3 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_6_4 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_6 .
@@ -29796,7 +29796,7 @@ lexid:Perwali_Cirebon_2019_7_Section_6_4 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_6_4 .
 lexid:Perwali_Cirebon_2019_7_Section_6_4 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_6_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_6_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_6_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_6_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_6_4 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_6_5 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_6 .
@@ -29805,7 +29805,7 @@ lexid:Perwali_Cirebon_2019_7_Section_6_5 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_6_5 .
 lexid:Perwali_Cirebon_2019_7_Section_6_5 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_6_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_6_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_6_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_6_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_6_5 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_6_6 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_6 .
@@ -29814,7 +29814,7 @@ lexid:Perwali_Cirebon_2019_7_Section_6_6 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_6_6 .
 lexid:Perwali_Cirebon_2019_7_Section_6_6 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_6_6 lexid-s:name "(6)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_6_6 rdfs:label "ayat 6 : (6)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_6_6 rdfs:label "ayat 6"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_6_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_6_6 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_6_7 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_6 .
@@ -29823,7 +29823,7 @@ lexid:Perwali_Cirebon_2019_7_Section_6_7 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_6_7 .
 lexid:Perwali_Cirebon_2019_7_Section_6_7 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_6_7 lexid-s:name "(7)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_6_7 rdfs:label "ayat 7 : (7)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_6_7 rdfs:label "ayat 7"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_6_7 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_6_7 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_6_8 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_6 .
@@ -29832,7 +29832,7 @@ lexid:Perwali_Cirebon_2019_7_Section_6_8 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_6_8 .
 lexid:Perwali_Cirebon_2019_7_Section_6_8 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_6_8 lexid-s:name "(8)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_6_8 rdfs:label "ayat 8 : (8)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_6_8 rdfs:label "ayat 8"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_6_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_6_8 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_6_9 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_6 .
@@ -29841,14 +29841,14 @@ lexid:Perwali_Cirebon_2019_7_Section_6_9 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_6_9 .
 lexid:Perwali_Cirebon_2019_7_Section_6_9 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_6_9 lexid-s:name "(9)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_6_9 rdfs:label "ayat 9 : (9)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_6_9 rdfs:label "ayat 9"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_6_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_6_9 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_IV .
 lexid:Perwali_Cirebon_2019_7_Chapter_IV lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_6 .
 lexid:Perwali_Cirebon_2019_7_Article_6 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_6 lexid-s:name "Pasal 6"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_6 rdfs:label "Pasal 6 : Pasal 6"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_6 rdfs:label "Pasal 6"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_6 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_6 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_IV lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -29868,7 +29868,7 @@ lexid:Perwali_Cirebon_2019_7_Section_8_1 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_8 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_8_1 .
 lexid:Perwali_Cirebon_2019_7_Section_8_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_8_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_8_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_8_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_8_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_8_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_8_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_8 .
@@ -29877,7 +29877,7 @@ lexid:Perwali_Cirebon_2019_7_Section_8_2 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_8 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_8_2 .
 lexid:Perwali_Cirebon_2019_7_Section_8_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_8_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_8_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_8_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_8_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_8_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_8_3 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_8 .
@@ -29886,7 +29886,7 @@ lexid:Perwali_Cirebon_2019_7_Section_8_3 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_8 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_8_3 .
 lexid:Perwali_Cirebon_2019_7_Section_8_3 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_8_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_8_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_8_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_8_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_8_3 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_8_4 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_8 .
@@ -29895,7 +29895,7 @@ lexid:Perwali_Cirebon_2019_7_Section_8_4 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_8 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_8_4 .
 lexid:Perwali_Cirebon_2019_7_Section_8_4 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_8_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_8_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_8_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_8_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_8_4 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_8_5 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_8 .
@@ -29904,14 +29904,14 @@ lexid:Perwali_Cirebon_2019_7_Section_8_5 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_8 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_8_5 .
 lexid:Perwali_Cirebon_2019_7_Section_8_5 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_8_5 lexid-s:name "(5)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_8_5 rdfs:label "ayat 5 : (5)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_8_5 rdfs:label "ayat 5"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_8_5 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_8_5 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_8 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_V .
 lexid:Perwali_Cirebon_2019_7_Chapter_V lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_8 .
 lexid:Perwali_Cirebon_2019_7_Article_8 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_8 lexid-s:name "Pasal 8"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_8 rdfs:label "Pasal 8 : Pasal 8"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_8 rdfs:label "Pasal 8"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_8 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_8 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_V lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -29931,7 +29931,7 @@ lexid:Perwali_Cirebon_2019_7_Section_9_1 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_9 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_9_1 .
 lexid:Perwali_Cirebon_2019_7_Section_9_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_9_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_9_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_9_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_9_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_9_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_9_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_9 .
@@ -29940,14 +29940,14 @@ lexid:Perwali_Cirebon_2019_7_Section_9_2 lexid-s:isPartOf lexid:Perwali_Cirebon_
 lexid:Perwali_Cirebon_2019_7_Article_9 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_9_2 .
 lexid:Perwali_Cirebon_2019_7_Section_9_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_9_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_9_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_9_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_9_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_9_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_9 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_VI .
 lexid:Perwali_Cirebon_2019_7_Chapter_VI lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_9 .
 lexid:Perwali_Cirebon_2019_7_Article_9 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_9 lexid-s:name "Pasal 9"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_9 rdfs:label "Pasal 9 : Pasal 9"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_9 rdfs:label "Pasal 9"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_9 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_9 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_10 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_VI .
@@ -29958,7 +29958,7 @@ lexid:Perwali_Cirebon_2019_7_Section_10_1 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_10 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_10_1 .
 lexid:Perwali_Cirebon_2019_7_Section_10_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_10_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_10_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_10_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_10_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_10_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_10_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_10 .
@@ -29967,7 +29967,7 @@ lexid:Perwali_Cirebon_2019_7_Section_10_2 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_10 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_10_2 .
 lexid:Perwali_Cirebon_2019_7_Section_10_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_10_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_10_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_10_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_10_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_10_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_10_3 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_10 .
@@ -29976,14 +29976,14 @@ lexid:Perwali_Cirebon_2019_7_Section_10_3 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_10 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_10_3 .
 lexid:Perwali_Cirebon_2019_7_Section_10_3 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_10_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_10_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_10_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_10_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_10_3 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_10 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_VI .
 lexid:Perwali_Cirebon_2019_7_Chapter_VI lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_10 .
 lexid:Perwali_Cirebon_2019_7_Article_10 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_10 lexid-s:name "Pasal 10"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_10 rdfs:label "Pasal 10 : Pasal 10"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_10 rdfs:label "Pasal 10"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_10 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_10 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_VI lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -30001,7 +30001,7 @@ lexid:Perwali_Cirebon_2019_7_Article_11 lexid-s:isPartOf lexid:Perwali_Cirebon_2
 lexid:Perwali_Cirebon_2019_7_Chapter_VII lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_11 .
 lexid:Perwali_Cirebon_2019_7_Article_11 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_11 lexid-s:name "Pasal 11"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_11 rdfs:label "Pasal 11 : Pasal 11"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_11 rdfs:label "Pasal 11"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_11 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_11 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_12 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_VII .
@@ -30010,7 +30010,7 @@ lexid:Perwali_Cirebon_2019_7_Article_12 lexid-s:isPartOf lexid:Perwali_Cirebon_2
 lexid:Perwali_Cirebon_2019_7_Chapter_VII lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_12 .
 lexid:Perwali_Cirebon_2019_7_Article_12 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_12 lexid-s:name "Pasal 12"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_12 rdfs:label "Pasal 12 : Pasal 12"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_12 rdfs:label "Pasal 12"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_12 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_12 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_VII lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -30032,7 +30032,7 @@ lexid:Perwali_Cirebon_2019_7_Section_13_1 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_13 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_13_1 .
 lexid:Perwali_Cirebon_2019_7_Section_13_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_13_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_13_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_13_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_13_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_13_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_13_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_13 .
@@ -30041,7 +30041,7 @@ lexid:Perwali_Cirebon_2019_7_Section_13_2 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_13 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_13_2 .
 lexid:Perwali_Cirebon_2019_7_Section_13_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_13_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_13_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_13_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_13_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_13_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_13_3 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_13 .
@@ -30050,7 +30050,7 @@ lexid:Perwali_Cirebon_2019_7_Section_13_3 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_13 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_13_3 .
 lexid:Perwali_Cirebon_2019_7_Section_13_3 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_13_3 lexid-s:name "(3)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_13_3 rdfs:label "ayat 3 : (3)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_13_3 rdfs:label "ayat 3"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_13_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_13_3 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_13_4 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_13 .
@@ -30059,14 +30059,14 @@ lexid:Perwali_Cirebon_2019_7_Section_13_4 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_13 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_13_4 .
 lexid:Perwali_Cirebon_2019_7_Section_13_4 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_13_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_13_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_13_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_13_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_13_4 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_13 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Part_VIII_KESATU .
 lexid:Perwali_Cirebon_2019_7_Part_VIII_KESATU lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_13 .
 lexid:Perwali_Cirebon_2019_7_Article_13 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_13 lexid-s:name "Pasal 13"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_13 rdfs:label "Pasal 13 : Pasal 13"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_13 rdfs:label "Pasal 13"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_13 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_13 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_14 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Part_VIII_KESATU .
@@ -30075,7 +30075,7 @@ lexid:Perwali_Cirebon_2019_7_Article_14 lexid-s:isPartOf lexid:Perwali_Cirebon_2
 lexid:Perwali_Cirebon_2019_7_Part_VIII_KESATU lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_14 .
 lexid:Perwali_Cirebon_2019_7_Article_14 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_14 lexid-s:name "Pasal 14"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_14 rdfs:label "Pasal 14 : Pasal 14"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_14 rdfs:label "Pasal 14"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_14 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_14 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Part_VIII_KESATU lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_VIII .
@@ -30095,7 +30095,7 @@ lexid:Perwali_Cirebon_2019_7_Section_15_1 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_15 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_15_1 .
 lexid:Perwali_Cirebon_2019_7_Section_15_1 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_15_1 lexid-s:name "(1)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_15_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_15_1 rdfs:label "ayat 1"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_15_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_15_1 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_15_2 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_15 .
@@ -30104,7 +30104,7 @@ lexid:Perwali_Cirebon_2019_7_Section_15_2 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_15 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_15_2 .
 lexid:Perwali_Cirebon_2019_7_Section_15_2 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_15_2 lexid-s:name "(2)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_15_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_15_2 rdfs:label "ayat 2"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_15_2 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_15_2 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Section_15_4 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Article_15 .
@@ -30113,14 +30113,14 @@ lexid:Perwali_Cirebon_2019_7_Section_15_4 lexid-s:isPartOf lexid:Perwali_Cirebon
 lexid:Perwali_Cirebon_2019_7_Article_15 lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Section_15_4 .
 lexid:Perwali_Cirebon_2019_7_Section_15_4 rdf:type lexid-s:Section .
 lexid:Perwali_Cirebon_2019_7_Section_15_4 lexid-s:name "(4)"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Section_15_4 rdfs:label "ayat 4 : (4)"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Section_15_4 rdfs:label "ayat 4"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Section_15_4 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Section_15_4 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Article_15 lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Part_VIII_KEDUA .
 lexid:Perwali_Cirebon_2019_7_Part_VIII_KEDUA lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_15 .
 lexid:Perwali_Cirebon_2019_7_Article_15 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_15 lexid-s:name "Pasal 15"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_15 rdfs:label "Pasal 15 : Pasal 15"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_15 rdfs:label "Pasal 15"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_15 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_15 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Part_VIII_KEDUA lexid-s:isPartOf lexid:Perwali_Cirebon_2019_7_Chapter_VIII .
@@ -30145,7 +30145,7 @@ lexid:Perwali_Cirebon_2019_7_Article_16 lexid-s:isPartOf lexid:Perwali_Cirebon_2
 lexid:Perwali_Cirebon_2019_7_Chapter_IX lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_16 .
 lexid:Perwali_Cirebon_2019_7_Article_16 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_16 lexid-s:name "Pasal 16"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_16 rdfs:label "Pasal 16 : Pasal 16"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_16 rdfs:label "Pasal 16"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_16 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_16 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_IX lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -30163,7 +30163,7 @@ lexid:Perwali_Cirebon_2019_7_Article_17 lexid-s:isPartOf lexid:Perwali_Cirebon_2
 lexid:Perwali_Cirebon_2019_7_Chapter_X lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_17 .
 lexid:Perwali_Cirebon_2019_7_Article_17 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_17 lexid-s:name "Pasal 17"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_17 rdfs:label "Pasal 17 : Pasal 17"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_17 rdfs:label "Pasal 17"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_17 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_17 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_X lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -30181,7 +30181,7 @@ lexid:Perwali_Cirebon_2019_7_Article_18 lexid-s:isPartOf lexid:Perwali_Cirebon_2
 lexid:Perwali_Cirebon_2019_7_Chapter_XI lexid-s:hasPart lexid:Perwali_Cirebon_2019_7_Article_18 .
 lexid:Perwali_Cirebon_2019_7_Article_18 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_7_Article_18 lexid-s:name "Pasal 18"^^xsd:string .
-lexid:Perwali_Cirebon_2019_7_Article_18 rdfs:label "Pasal 18 : Pasal 18"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7_Article_18 rdfs:label "Pasal 18"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7_Article_18 rdf:type lexid-s:LegalDocumentContent .
 lexid:Perwali_Cirebon_2019_7_Article_18 rdf:type owl:Thing .
 lexid:Perwali_Cirebon_2019_7_Chapter_XI lexid-s:isContentOf lexid:Perwali_Cirebon_2019_7 .
@@ -30255,7 +30255,7 @@ lexid:UU_2014_23 rdfs:label "Undang-Undang Republik Indonesia Nomor 23 Tahun 201
 lexid:PP_2010_53 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 53 Tahun 2010"^^xsd:string .
 lexid:PP_2011_46 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 46 Tahun 2011"^^xsd:string .
 lexid:Perda_2016_8 rdfs:label "Peraturan Daerah Nomor 8 Tahun 2016"^^xsd:string .
-lexid:Perwali_2017_98 rdfs:label "Peraturan Walikota  Nomor 98 Tahun 2017"^^xsd:string .
+lexid:Perwali_2017_98 rdfs:label "Peraturan Walikota Nomor 98 Tahun 2017"^^xsd:string .
 lexid:Perwali_Tangerang_2019_2 lexid-s:hasDictum "Menetapkan : PERATURAN WALI KOTA TENTANG PERUBAHAN KEDUA ATAS PERATURAN WALI KOTA NOMOR 98 TAHUN 2018 TENTANG PENILAIAN PRESTASI KERJA PEGAWAI DAN PEMBERIAN TUNJANGAN TAMBAHAN PENGHASILAN."^^xsd:string .
 lexid:Perwali_Tangerang_2019_19 lexid-s:considers "bahwa tarif retribusi pelayanan tera/tera ulang telah diatur dalam Peraturan Daerah Nomor 16 tahun 2011 tentang Retribusi Jasa Umum sebagaimana telah diubah beberapakali terakhir dengan Peraturan Daerah Nomor 2 Tahun 2017 tentang Perubahan Kedua Atas Peraturan Daerah Nomor 16 tahun 2011 tentang Retribusi Jasa Umum, namun dengan memperhatikan indeks harga dan perkembangan perekonomian masyarakat maka perlu dilakukan peninjauan atas tarif Retribusi Pelayanan Tera/Tera Ulang"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19 lexid-s:considers "bahwa berdasarkan ketentuan pada ayat (1), ayat (2) dan ayat (3) Pasal 155 Undang-Undang Nomor 28 tahun 2009 tentang Pajak Daerah dan Retribusi Daerah serta ketentuan pada ayat (1), (2) dan (3) Pasal 46 Peraturan Daerah Nomor 16 tahun 2011 tentang Retribusi Jasa Umum sebagaimana telah diubah beberapakali terakhir dengan Peraturan Daerah Nomor 2 Tahun 2017 tentang Perubahan Kedua Atas Peraturan Daerah Nomor 16 tahun 2011 tentang Retribusi Jasa Umum, penetapan peninjauan tarif retribusi ditetapkan dengan Peraturan Kepala Daerah"^^xsd:string .
@@ -30286,8 +30286,8 @@ lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 200
 lexid:UU_2014_23 rdfs:label "Undang-Undang Republik Indonesia Nomor 23 Tahun 2014"^^xsd:string .
 lexid:Perda_2011_16 rdfs:label "Peraturan Daerah Nomor 16 Tahun 2011"^^xsd:string .
 lexid:Perda_2016_8 rdfs:label "Peraturan Daerah Nomor 8 Tahun 2016"^^xsd:string .
-lexid:Perwali_2016_72 rdfs:label "Peraturan Walikota  Nomor 72 Tahun 2016"^^xsd:string .
-lexid:Perwali_2016_101 rdfs:label "Peraturan Walikota  Nomor 101 Tahun 2016"^^xsd:string .
+lexid:Perwali_2016_72 rdfs:label "Peraturan Walikota Nomor 72 Tahun 2016"^^xsd:string .
+lexid:Perwali_2016_101 rdfs:label "Peraturan Walikota Nomor 101 Tahun 2016"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19 lexid-s:hasDictum "Menetapkan : PERATURAN WALI KOTA TENTANG TARIF RETRIBUSI PELAYANAN TERA/TERA ULANG."^^xsd:string .
 lexid:Perwali_Tangerang_2019_18 lexid-s:considers "bahwa berdasarkan Peraturan Pemerintah Nomor 35 Tahun 2019 tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 19 Tahun 2016 tentang Pemberian Gaji, Pensiun, atau Tunjangan Ketiga Belas Kepada Pegawai Negeri Sipil, Prajurit Tentara Nasional Indonesia, Anggota Kepolisian Negara Republik Indonesia, Pejabat Negara, dan Penerima Pensiun Atau Tunjangan, Pasal 10 ayat (2) bahwa Ketentuan lebih lanjut mengenai teknis pemberian gaji, pensiun, atau tunjangan ketiga belas yang bersumber dari Anggaran Pendapatan dan Belanja Daerah diatur dengan Peraturan Kepala Daerah"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Wali Kota Tangerang tentang Petunjuk Teknis Pemberian Gaji dan Tunjangan Ketiga Belas kepada Pegawai Negeri Sipil dan Pejabat Negara di Lingkungan Pemerintah Kota Tangerang yang Bersumber dari Anggaran Pendapatan dan Belanja Daerah"^^xsd:string .
@@ -30334,7 +30334,7 @@ lexid:PP_2019_35 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 35 Ta
 lexid:Permen_Dagri_2006_13 rdfs:label "Peraturan Menteri Dalam Negeri Republik Indonesia Nomor 13 Tahun 2006"^^xsd:string .
 lexid:Perda_2007_9 rdfs:label "Peraturan Daerah Nomor 9 Tahun 2007"^^xsd:string .
 lexid:Perda_2018_11 rdfs:label "Peraturan Daerah Nomor 11 Tahun 2018"^^xsd:string .
-lexid:Perwali_2017_98 rdfs:label "Peraturan Walikota  Nomor 98 Tahun 2017"^^xsd:string .
+lexid:Perwali_2017_98 rdfs:label "Peraturan Walikota Nomor 98 Tahun 2017"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18 lexid-s:hasDictum "Menetapkan : PERATURAN WALI KOTA TENTANG PETUNJUK TEKNIS PELAKSANAAN PEMBERIAN GAJI DAN TUNJANGAN KETIGA BELAS KEPADA PEGAWAI NEGERI SIPIL DAN PEJABAT NEGARA DI LINGKUNGAN PEMERINTAH DAERAH KOTA TANGERANG YANG BERSUMBER DARI ANGGARAN PENDAPATAN DAN BELANJA DAERAH"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17 lexid-s:considers "bahwa berdasarkan Peraturan Pemerintah Nomor 36 Tahun 2019 tentang Pemberian Tunjangan Hari Raya Kepada Pegawai Negeri Sipil, Prajurit Tentara Nasional Indonesia, Anggota Kepolisian Negara Republik Indonesia, Pejabat Negara, Penerima Pensiun, dan Penerima Tunjangan, Pasal 10 ayat (2) bahwa Ketentuan lebih lanjut mengenai teknis pemberian Tunjangan Hari Raya yang bersumber dari Anggaran Pendapatan dan Belanja Daerah diatur dengan Peraturan Kepala Daerah"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Wali Kota Tangerang tentang Petunjuk Teknis Pemberian Tunjangan Hari Raya kepada Pegawai Negeri Sipil dan Pejabat Negara di Lingkungan Pemerintah Kota Tangerang yang Bersumber dari Anggaran Pendapatan dan Belanja Daerah"^^xsd:string .
@@ -30381,7 +30381,7 @@ lexid:PP_2019_36 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 36 Ta
 lexid:Permen_Dagri_2006_13 rdfs:label "Peraturan Menteri Dalam Negeri Republik Indonesia Nomor 13 Tahun 2006"^^xsd:string .
 lexid:Perda_2007_9 rdfs:label "Peraturan Daerah Nomor 9 Tahun 2007"^^xsd:string .
 lexid:Perda_2018_11 rdfs:label "Peraturan Daerah Nomor 11 Tahun 2018"^^xsd:string .
-lexid:Perwali_2017_98 rdfs:label "Peraturan Walikota  Nomor 98 Tahun 2017"^^xsd:string .
+lexid:Perwali_2017_98 rdfs:label "Peraturan Walikota Nomor 98 Tahun 2017"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17 lexid-s:hasDictum "Menetapkan : PERATURAN WALI KOTA TENTANG PETUNJUK TEKNIS PEMBERIAN TUNJANGAN HARI RAYA KEPADA PEGAWAI NEGERI SIPIL DAN PEJABAT NEGARA DI LINGKUNGAN PEMERINTAH KOTA TANGERANG YANG BERSUMBER DARI ANGGARAN PENDAPATAN DAN BELANJA DAERAH."^^xsd:string .
 lexid:Perwali_Tangerang_2019_11 lexid-s:considers "bahwa untuk melaksanakan ketentuan Peraturan Menteri Dalam Negeri Nomor 130 Tahun 2018 tentang Kegiatan Pembangunan Sarana dan Prasarana Kelurahan dan Pemberdayaan Masyarakat di Kelurahan, perlu menetapkan pedoman pelaksanaan kegiatan kelurahan"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Wali Kota tentang Pedoman Pelaksanaan Kegiatan Pembangunan Sarana dan Prasarana Kelurahan dan Pemberdayaan Masyarakat di Kelurahan"^^xsd:string .
@@ -30462,7 +30462,7 @@ lexid:PP_2018_17 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 17 Ta
 lexid:Permen_Dagri_2010_4 rdfs:label "Peraturan Menteri Dalam Negeri Republik Indonesia Nomor 4 Tahun 2010"^^xsd:string .
 lexid:Permen_Dagri_2018_130 rdfs:label "Peraturan Menteri Dalam Negeri Republik Indonesia Nomor 130 Tahun 2018"^^xsd:string .
 lexid:Perda_2016_8 rdfs:label "Peraturan Daerah Nomor 8 Tahun 2016"^^xsd:string .
-lexid:Perwali_2016_82 rdfs:label "Peraturan Walikota  Nomor 82 Tahun 2016"^^xsd:string .
+lexid:Perwali_2016_82 rdfs:label "Peraturan Walikota Nomor 82 Tahun 2016"^^xsd:string .
 lexid:Perwali_Tangerang_2019_10 lexid-s:hasDictum "Menetapkan : PERATURAN WALI KOTA TENTANG PERUBAHAN ATAS PERATURAN WALI KOTA NOMOR 19 TAHUN 2018 TENTANG PELIMPAHAN SEBAGIAN KEWENANGAN WALI KOTA KEPADA CAMAT."^^xsd:string .
 lexid:Perwali_Tangerang_2019_1 lexid-s:considers "bahwa dalam rangka mendorong wajib pajak untuk melunasi utang pajak dan mengoptimalkan penerimaan PBB-P2, perlu melakukan intensifikasi pemungutan PBB- P2 melalui kebijakan penghapusan sanksi administrasi PBB-P2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_1 lexid-s:considers "bahwa berdasarkan ketentuan Pasal 96 Peraturan Daerah Nomor 7 Tahun 2010 tentang Pajak Daerah sebagaimana telah beberapakali diubah terakhir dengan Peraturan Daerah Nomor 4 Tahun 2018 tentang Perubahan Kedua Atas Peraturan Daerah Nomor 7 Tahun 2010 tentang Pajak Daerag, terkait dengan tata cara pengurangan atau penghapusan sanksi administratif diatur dengan Peraturan Wali Kota"^^xsd:string .
@@ -30506,7 +30506,7 @@ lexid:UU_2014_23 rdfs:label "Undang-Undang Republik Indonesia Nomor 23 Tahun 201
 lexid:PP_2005_58 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 58 Tahun 2005"^^xsd:string .
 lexid:PP_2010_91 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 91 Tahun 2010"^^xsd:string .
 lexid:Perda_2010_7 rdfs:label "Peraturan Daerah Nomor 7 Tahun 2010"^^xsd:string .
-lexid:Perwali_2014_47 rdfs:label "Peraturan Walikota  Nomor 47 Tahun 2014"^^xsd:string .
+lexid:Perwali_2014_47 rdfs:label "Peraturan Walikota Nomor 47 Tahun 2014"^^xsd:string .
 lexid:Perwali_Tangerang_2019_1 lexid-s:hasDictum "Menetapkan : PERATURAN WALI KOTATENTANG PENGHAPUSAN SANKSI ADMINISTRATIF PAJAK BUMI DAN BANGUNAN PERDESAAN DAN PERKOTAAN."^^xsd:string .
 lexid:Perwali_Cirebon_2019_9 lexid-s:considers "bahwa sesuai ketentuan Pasal 4 Peraturan Pemerintah Nomor 69 Tahun 2010 tentang Tata Cara Pemberian dan Pemanfaatan Insentif Pemungutan Pajak Daerah dan Retribusi Daerah telah ditetapkan kewajiban bagi Kabupaten/Kota untuk menetapkan Target Kinerja Penerimaan Pajak Daerah dan Retribusi Daerah"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9 lexid-s:considers "bahwa untuk kepastian pencapaian penerimaan pajak daerah pada tahun anggaran berjalan, sesuai dengan ketentuan Peraturan Wali Kota Cirebon Nomor 2 Tahun 2018 tentang Target Kinerja Atas Penerimaan Pajak Daerah dan Retribusi Daerah di Kota Cirebon"^^xsd:string .
@@ -30590,7 +30590,7 @@ lexid:Perkot_Cirebon_2015_12 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 12 
 lexid:Perkot_Cirebon_2016_6 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 6 Tahun 2016"^^xsd:string .
 lexid:Perkot_Cirebon_2016_7 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 7 Tahun 2016"^^xsd:string .
 lexid:Perkot_Cirebon_2016_9 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 9 Tahun 2016"^^xsd:string .
-lexid:Perwali_Cirebon_2017_65 rdfs:label "Peraturan Walikota  Cirebon Nomor 65 Tahun 2017"^^xsd:string .
+lexid:Perwali_Cirebon_2017_65 rdfs:label "Peraturan Walikota Cirebon Nomor 65 Tahun 2017"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9 lexid-s:hasDictum "Menetapkan : PERATURAN WALI KOTA TENTANG TARGET KINERJA ATAS PENERIMAAN PAJAK DAN RETRIBUSI DAERAH DI KOTA CIREBON."^^xsd:string .
 lexid:Perwali_Cirebon_2019_7 lexid-s:considers "bahwa Pegawai Negeri Sipil di Lingkungan Pemerintah Daerah Kota Cirebon, diberikan tambahan penghasilan pegawai berdasarkan prestasi kerja pegawai secara objektif, transparan, dan akuntabel"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Wali Kota Cirebon tentang Pedoman Pemberian Tambahan Penghasilan Pegawai bagi Pegawai Negeri Sipil di Lingkungan Pemerintah Daerah Kota Cirebon"^^xsd:string .
@@ -30692,8 +30692,8 @@ lexid:Perkot_Cirebon_2015_12 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 12 
 lexid:Perkot_Cirebon_2016_6 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 6 Tahun 2016"^^xsd:string .
 lexid:Perkot_Cirebon_2016_7 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 7 Tahun 2016"^^xsd:string .
 lexid:Perkot_Cirebon_2016_9 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 9 Tahun 2016"^^xsd:string .
-lexid:Perwali_Cirebon_2016_66 rdfs:label "Peraturan Walikota  Cirebon Nomor 66 Tahun 2016"^^xsd:string .
-lexid:Perwali_Cirebon_2018_12 rdfs:label "Peraturan Walikota  Cirebon Nomor 12 Tahun 2018"^^xsd:string .
+lexid:Perwali_Cirebon_2016_66 rdfs:label "Peraturan Walikota Cirebon Nomor 66 Tahun 2016"^^xsd:string .
+lexid:Perwali_Cirebon_2018_12 rdfs:label "Peraturan Walikota Cirebon Nomor 12 Tahun 2018"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7 lexid-s:hasDictum "Menetapkan : PERATURAN WALI KOTA CIREBON TENTANG PEDOMAN PEMBERIAN TAMBAHAN PENGHASILAN PEGAWAI BAGI PEGAWAI NEGERI DI LINGKUNGAN PEMERINTAH DAERAH KOTA CIREBON."^^xsd:string .
 lexid:Perwali_Cirebon_2019_5 lexid-s:considers "bahwa dalam rangka memenuhi ketentuan Pasal 7 Peraturan Daerah Kota Cirebon Nomor 12 Tahun 2018 tentang Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2019, telah ditetapkan Peraturan Wali Kota Cirebon Nomor 40 Tahun 2018 tentang Penjabaran Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2019"^^xsd:string .
 lexid:Perwali_Cirebon_2019_5 lexid-s:considers "bahwa agar program kegiatan yang bersumber dari Bantuan Keuangan Provinsi Jawa Barat Tahun Anggaran 2019 dan pergeseran belanja dapat dilaksanakan tepat waktu, maka sesuai Pasal 160 Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pedoman Pengelolaan Keuangan Daerah dan Peraturan Menteri Dalam Negeri Nomor 38 Tahun 2018 tentang Pedoman Penyusunan Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2019, perlu menetapkan Perubahan atas Peraturan Wali Kota Cirebon Nomor 40 Tahun 2018 tentang Penjabaran Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2019 dengan Peraturan Wali Kota Cirebon"^^xsd:string .
@@ -30904,17 +30904,17 @@ lexid:Perkot_Cirebon_2015_12 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 12 
 lexid:Perkot_Cirebon_2016_6 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 6 Tahun 2016"^^xsd:string .
 lexid:Perkot_Cirebon_2017_6 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 6 Tahun 2017"^^xsd:string .
 lexid:Perkot_Cirebon_2012_12 rdfs:label "Peraturan Daerah Kota Cirebon Nomor 12 Tahun 2012"^^xsd:string .
-lexid:Perwali_Cirebon_2018_40 rdfs:label "Peraturan Walikota  Cirebon Nomor 40 Tahun 2018"^^xsd:string .
+lexid:Perwali_Cirebon_2018_40 rdfs:label "Peraturan Walikota Cirebon Nomor 40 Tahun 2018"^^xsd:string .
 lexid:Perwali_Cirebon_2019_5 lexid-s:hasDictum "Menetapkan : PERATURAN WALI KOTA TENTANG PERUBAHAN ATAS PERATURAN WALI KOTA CIREBON NOMOR 40 TAHUN 2018 TENTANG PENJABARAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2019."^^xsd:string .
 lexid:Perwali_Tangerang_2019_2 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Tangerang_2019_2 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Tangerang_2019_2 rdf:type owl:Thing .
-lexid:Perwali_Tangerang_2019_2 rdfs:label "Peraturan Walikota  Tangerang Nomor 2 Tahun 2019"^^xsd:string .
+lexid:Perwali_Tangerang_2019_2 rdfs:label "Peraturan Walikota Tangerang Nomor 2 Tahun 2019"^^xsd:string .
 lexid:Perwali_Tangerang_2019_2 lexid-s:regulationNumber "2"^^xsd:string .
 lexid:Perwali_Tangerang_2019_2 lexid-s:amends lexid:Perwali_2017_98 .
 lexid:Perwali_2017_98 lexid-s:amendedBy lexid:Perwali_Tangerang_2019_2 .
 lexid:Perwali_2017_98 rdf:type lexid-s:LegalDocument .
-lexid:Perwali_2017_98 rdfs:label "Peraturan Walikota  Nomor 98 Tahun 2017"^^xsd:string .
+lexid:Perwali_2017_98 rdfs:label "Peraturan Walikota Nomor 98 Tahun 2017"^^xsd:string .
 lexid:Perwali_Tangerang_2019_2 lexid-s:regulationYear "2019"^^xsd:int .
 lexid:Perwali_Tangerang_2019_2 lexid-s:name "Perubahan Kedua Atas Peraturan Wali Kota Nomor 98 Tahun 2017 Tentang Penilaian Prestasi Kerja Pegawai Dan Pemberian Tunjangan Tambahan Penghasilan"^^xsd:string .
 lexid:Position_Wali_Kota_Tangerang rdfs:label "Wali Kota Tangerang"^^xsd:string .
@@ -30952,7 +30952,7 @@ lexid:Perwali_Tangerang_2019_2 lexid-s:hasPromulgationPlace lexid:Berita_Daerah_
 lexid:Perwali_Tangerang_2019_19 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Tangerang_2019_19 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Tangerang_2019_19 rdf:type owl:Thing .
-lexid:Perwali_Tangerang_2019_19 rdfs:label "Peraturan Walikota  Tangerang Nomor 19 Tahun 2019"^^xsd:string .
+lexid:Perwali_Tangerang_2019_19 rdfs:label "Peraturan Walikota Tangerang Nomor 19 Tahun 2019"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19 lexid-s:regulationNumber "19"^^xsd:string .
 lexid:Perwali_Tangerang_2019_19 lexid-s:regulationYear "2019"^^xsd:int .
 lexid:Perwali_Tangerang_2019_19 lexid-s:name "Tarif Retribusi Pelayanan Tera/Tera Ulang"^^xsd:string .
@@ -30987,7 +30987,7 @@ lexid:Perwali_Tangerang_2019_19 lexid-s:hasPromulgationPlace lexid:Berita_Daerah
 lexid:Perwali_Tangerang_2019_18 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Tangerang_2019_18 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Tangerang_2019_18 rdf:type owl:Thing .
-lexid:Perwali_Tangerang_2019_18 rdfs:label "Peraturan Walikota  Tangerang Nomor 18 Tahun 2019"^^xsd:string .
+lexid:Perwali_Tangerang_2019_18 rdfs:label "Peraturan Walikota Tangerang Nomor 18 Tahun 2019"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18 lexid-s:regulationNumber "18"^^xsd:string .
 lexid:Perwali_Tangerang_2019_18 lexid-s:regulationYear "2019"^^xsd:int .
 lexid:Perwali_Tangerang_2019_18 lexid-s:name "Petunjuk Teknis Pelaksanaan Pemberian Gaji Dan Tunjangan Ketiga Belas Kepada Pegawai Negeri Sipil Dan Pejabat Negara Di Lingkungan Pemerintah Daerah Kota Tangerang Yang Bersumber Dari Anggaran Pendapatan Dan Belanja Daerah"^^xsd:string .
@@ -31019,7 +31019,7 @@ lexid:Perwali_Tangerang_2019_18 lexid-s:hasPromulgationPlace lexid:Berita_Daerah
 lexid:Perwali_Tangerang_2019_17 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Tangerang_2019_17 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Tangerang_2019_17 rdf:type owl:Thing .
-lexid:Perwali_Tangerang_2019_17 rdfs:label "Peraturan Walikota  Tangerang Nomor 17 Tahun 2019"^^xsd:string .
+lexid:Perwali_Tangerang_2019_17 rdfs:label "Peraturan Walikota Tangerang Nomor 17 Tahun 2019"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17 lexid-s:regulationNumber "17"^^xsd:string .
 lexid:Perwali_Tangerang_2019_17 lexid-s:regulationYear "2019"^^xsd:int .
 lexid:Perwali_Tangerang_2019_17 lexid-s:name "Petunjuk Teknis Pelaksanaan Pemberian Tunjangan Hari Raya Kepada Pegawai Negeri Sipil Dan Pejabat Negara Di Li00Ngkungan Pemerintah Daerah Kota Tangerang Yang Bersumber Dari Anggaran Pendapatan Dan Belanja Daerah"^^xsd:string .
@@ -31051,7 +31051,7 @@ lexid:Perwali_Tangerang_2019_17 lexid-s:hasPromulgationPlace lexid:Berita_Daerah
 lexid:Perwali_Tangerang_2019_11 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Tangerang_2019_11 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Tangerang_2019_11 rdf:type owl:Thing .
-lexid:Perwali_Tangerang_2019_11 rdfs:label "Peraturan Walikota  Tangerang Nomor 11 Tahun 2019"^^xsd:string .
+lexid:Perwali_Tangerang_2019_11 rdfs:label "Peraturan Walikota Tangerang Nomor 11 Tahun 2019"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11 lexid-s:regulationNumber "11"^^xsd:string .
 lexid:Perwali_Tangerang_2019_11 lexid-s:implements lexid:Permen_Dagri_2018_130 .
 lexid:Permen_Dagri_2018_130 lexid-s:implementedBy lexid:Perwali_Tangerang_2019_11 .
@@ -31091,12 +31091,12 @@ lexid:Perwali_Tangerang_2019_11 lexid-s:hasPromulgationPlace lexid:Berita_Daerah
 lexid:Perwali_Tangerang_2019_10 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Tangerang_2019_10 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Tangerang_2019_10 rdf:type owl:Thing .
-lexid:Perwali_Tangerang_2019_10 rdfs:label "Peraturan Walikota  Tangerang Nomor 10 Tahun 2019"^^xsd:string .
+lexid:Perwali_Tangerang_2019_10 rdfs:label "Peraturan Walikota Tangerang Nomor 10 Tahun 2019"^^xsd:string .
 lexid:Perwali_Tangerang_2019_10 lexid-s:regulationNumber "10"^^xsd:string .
 lexid:Perwali_Tangerang_2019_10 lexid-s:amends lexid:Perwali_Tangerang_2018_19 .
 lexid:Perwali_Tangerang_2018_19 lexid-s:amendedBy lexid:Perwali_Tangerang_2019_10 .
 lexid:Perwali_Tangerang_2018_19 rdf:type lexid-s:LegalDocument .
-lexid:Perwali_Tangerang_2018_19 rdfs:label "Peraturan Walikota  Tangerang Nomor 19 Tahun 2018"^^xsd:string .
+lexid:Perwali_Tangerang_2018_19 rdfs:label "Peraturan Walikota Tangerang Nomor 19 Tahun 2018"^^xsd:string .
 lexid:Perwali_Tangerang_2019_10 lexid-s:regulationYear "2019"^^xsd:int .
 lexid:Perwali_Tangerang_2019_10 lexid-s:name "Perubahan Atas Peraturan Wali Kota Tangerang Nomor 19 Tahun 2018 Tentang Pelimpahan Sebagian Kewenangan Wali Kota Kepada Camat"^^xsd:string .
 lexid:Position_Wali_Kota_Tangerang rdfs:label "Wali Kota Tangerang"^^xsd:string .
@@ -31131,7 +31131,7 @@ lexid:Perwali_Tangerang_2019_10 lexid-s:hasPromulgationPlace lexid:Berita_Daerah
 lexid:Perwali_Tangerang_2019_1 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Tangerang_2019_1 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Tangerang_2019_1 rdf:type owl:Thing .
-lexid:Perwali_Tangerang_2019_1 rdfs:label "Peraturan Walikota  Tangerang Nomor 1 Tahun 2019"^^xsd:string .
+lexid:Perwali_Tangerang_2019_1 rdfs:label "Peraturan Walikota Tangerang Nomor 1 Tahun 2019"^^xsd:string .
 lexid:Perwali_Tangerang_2019_1 lexid-s:regulationNumber "1"^^xsd:string .
 lexid:Perwali_Tangerang_2019_1 lexid-s:regulationYear "2019"^^xsd:int .
 lexid:Perwali_Tangerang_2019_1 lexid-s:name "Penghapusan Sanksi Administratif Pajak Bumi Dan Bangunan Perdesaan Dan Perkotaan"^^xsd:string .
@@ -31143,14 +31143,14 @@ lexid:Perwali_Tangerang_2019_1 lexid-s:hasPromulgationPlace lexid:Berita_Daerah_
 lexid:Perwali_Cirebon_2019_9 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Cirebon_2019_9 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Cirebon_2019_9 rdf:type owl:Thing .
-lexid:Perwali_Cirebon_2019_9 rdfs:label "Peraturan Walikota  Cirebon Nomor 9 Tahun 2019"^^xsd:string .
+lexid:Perwali_Cirebon_2019_9 rdfs:label "Peraturan Walikota Cirebon Nomor 9 Tahun 2019"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9 lexid-s:regulationNumber "9"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_7 lexid-s:repeals lexid:Perwali_Cirebon_2018_2 .
 lexid:Perwali_Cirebon_2018_2 lexid-s:repealedBy lexid:Perwali_Cirebon_2019_9_Article_7 .
 lexid:Perwali_Cirebon_2019_9 lexid-s:repeals lexid:Perwali_Cirebon_2018_2 .
 lexid:Perwali_Cirebon_2018_2 lexid-s:repealedBy lexid:Perwali_Cirebon_2019_9 .
 lexid:Perwali_Cirebon_2018_2 rdf:type lexid-s:LegalDocument .
-lexid:Perwali_Cirebon_2018_2 rdfs:label "Peraturan Walikota  Cirebon Nomor 2 Tahun 2018"^^xsd:string .
+lexid:Perwali_Cirebon_2018_2 rdfs:label "Peraturan Walikota Cirebon Nomor 2 Tahun 2018"^^xsd:string .
 lexid:Perwali_Cirebon_2019_9_Article_7 rdf:type lexid-s:Article .
 lexid:Perwali_Cirebon_2019_9 lexid-s:regulationYear "2019"^^xsd:int .
 lexid:Perwali_Cirebon_2019_9 lexid-s:name "Target Kinerja Atas Penerimaan Pajak Daerah Dan Retribusi Daerah Di Kota Cirebon"^^xsd:string .
@@ -31182,7 +31182,7 @@ lexid:Perwali_Cirebon_2019_9 lexid-s:hasPromulgationPlace lexid:Berita_Daerah_Ko
 lexid:Perwali_Cirebon_2019_7 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Cirebon_2019_7 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Cirebon_2019_7 rdf:type owl:Thing .
-lexid:Perwali_Cirebon_2019_7 rdfs:label "Peraturan Walikota  Cirebon Nomor 7 Tahun 2019"^^xsd:string .
+lexid:Perwali_Cirebon_2019_7 rdfs:label "Peraturan Walikota Cirebon Nomor 7 Tahun 2019"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7 lexid-s:regulationNumber "7"^^xsd:string .
 lexid:Perwali_Cirebon_2019_7 lexid-s:regulationYear "2019"^^xsd:int .
 lexid:Perwali_Cirebon_2019_7 lexid-s:name "Pedoman Pemberian Tambahan Penghasilan Pegawai Bagi Pegawai Negeri Sipil Di Lingkungan Pemerintah Daerah Kota Cirebon"^^xsd:string .
@@ -31212,12 +31212,12 @@ lexid:Perwali_Cirebon_2019_7 lexid-s:hasPromulgationPlace lexid:Berita_Daerah_Ko
 lexid:Perwali_Cirebon_2019_5 rdf:type lexid-s:MayorRegulation .
 lexid:Perwali_Cirebon_2019_5 rdf:type lexid-s:LegalDocument .
 lexid:Perwali_Cirebon_2019_5 rdf:type owl:Thing .
-lexid:Perwali_Cirebon_2019_5 rdfs:label "Peraturan Walikota  Cirebon Nomor 5 Tahun 2019"^^xsd:string .
+lexid:Perwali_Cirebon_2019_5 rdfs:label "Peraturan Walikota Cirebon Nomor 5 Tahun 2019"^^xsd:string .
 lexid:Perwali_Cirebon_2019_5 lexid-s:regulationNumber "5"^^xsd:string .
 lexid:Perwali_Cirebon_2019_5 lexid-s:amends lexid:Perwali_Cirebon_2018_40 .
 lexid:Perwali_Cirebon_2018_40 lexid-s:amendedBy lexid:Perwali_Cirebon_2019_5 .
 lexid:Perwali_Cirebon_2018_40 rdf:type lexid-s:LegalDocument .
-lexid:Perwali_Cirebon_2018_40 rdfs:label "Peraturan Walikota  Cirebon Nomor 40 Tahun 2018"^^xsd:string .
+lexid:Perwali_Cirebon_2018_40 rdfs:label "Peraturan Walikota Cirebon Nomor 40 Tahun 2018"^^xsd:string .
 lexid:Perwali_Cirebon_2019_5 lexid-s:regulationYear "2019"^^xsd:int .
 lexid:Perwali_Cirebon_2019_5 lexid-s:name "Perubahan Atas Peraturan Wali Kota Cirebon Nomor 40 Tahun 2018 Tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2019"^^xsd:string .
 lexid:Position_Wali_Kota_Cirebon rdfs:label "Wali Kota Cirebon"^^xsd:string .
