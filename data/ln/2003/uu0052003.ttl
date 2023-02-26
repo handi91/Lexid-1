@@ -36888,7 +36888,7 @@ lexid:PP_2003_4_Article_1 lexid-s:isPartOf lexid:PP_2003_4_Chapter_I .
 lexid:PP_2003_4_Chapter_I lexid-s:hasPart lexid:PP_2003_4_Article_1 .
 lexid:PP_2003_4_Article_1 rdf:type lexid-s:Article .
 lexid:PP_2003_4_Article_1 lexid-s:name "Pasal   1"^^xsd:string .
-lexid:PP_2003_4_Article_1 rdfs:label "Pasal 1 : Pasal   1"^^xsd:string .
+lexid:PP_2003_4_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:PP_2003_4_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_2003_4_Article_1 rdf:type owl:Thing .
 lexid:PP_2003_4_Article_3 lexid-s:isPartOf lexid:PP_2003_4_Chapter_I .
@@ -36897,7 +36897,7 @@ lexid:PP_2003_4_Article_3 lexid-s:isPartOf lexid:PP_2003_4_Chapter_I .
 lexid:PP_2003_4_Chapter_I lexid-s:hasPart lexid:PP_2003_4_Article_3 .
 lexid:PP_2003_4_Article_3 rdf:type lexid-s:Article .
 lexid:PP_2003_4_Article_3 lexid-s:name "Pasal   3"^^xsd:string .
-lexid:PP_2003_4_Article_3 rdfs:label "Pasal 3 : Pasal   3"^^xsd:string .
+lexid:PP_2003_4_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:PP_2003_4_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_2003_4_Article_3 rdf:type owl:Thing .
 lexid:PP_2003_4_Chapter_I lexid-s:isContentOf lexid:PP_2003_4 .

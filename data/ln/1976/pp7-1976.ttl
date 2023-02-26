@@ -18236,7 +18236,7 @@ lexid:UU_1976_2_Article_1 lexid-s:isContentOf lexid:UU_1976_2 .
 lexid:UU_1976_2 lexid-s:hasContent lexid:UU_1976_2_Article_1 .
 lexid:UU_1976_2_Article_1 rdf:type lexid-s:Article .
 lexid:UU_1976_2_Article_1 lexid-s:name "Pasal   1"^^xsd:string .
-lexid:UU_1976_2_Article_1 rdfs:label "Pasal 1 : Pasal   1"^^xsd:string .
+lexid:UU_1976_2_Article_1 rdfs:label "Pasal 1"^^xsd:string .
 lexid:UU_1976_2_Article_1 rdf:type lexid-s:LegalDocumentContent .
 lexid:UU_1976_2_Article_1 rdf:type owl:Thing .
 lexid:UU_1976_2_Article_2 lexid-s:isContentOf lexid:UU_1976_2 .
@@ -19138,7 +19138,7 @@ lexid:PP_1976_6_Article_19 lexid-s:isPartOf lexid:PP_1976_6_Chapter_V .
 lexid:PP_1976_6_Chapter_V lexid-s:hasPart lexid:PP_1976_6_Article_19 .
 lexid:PP_1976_6_Article_19 rdf:type lexid-s:Article .
 lexid:PP_1976_6_Article_19 lexid-s:name "Pasal   19"^^xsd:string .
-lexid:PP_1976_6_Article_19 rdfs:label "Pasal 19 : Pasal   19"^^xsd:string .
+lexid:PP_1976_6_Article_19 rdfs:label "Pasal 19"^^xsd:string .
 lexid:PP_1976_6_Article_19 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_1976_6_Article_19 rdf:type owl:Thing .
 lexid:PP_1976_6_Chapter_V lexid-s:isContentOf lexid:PP_1976_6 .

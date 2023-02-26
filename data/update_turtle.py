@@ -1,14 +1,11 @@
 import os
 import requests
 
-# Konfigurasi server Blazegraph
-endpoint_url = 'http://192.168.1.5:9999/blazegraph/sparql'
-update_url = 'http://192.168.1.5:9999/blazegraph/namespace/kb/sparql'
+# Blazegraph server configuration
+endpoint_url = 'http://localhost:9999/blazegraph/sparql'
+update_url = 'http://localhost:9999/blazegraph/namespace/kb/sparql'
 headers = {'Content-type': 'application/x-turtle'}
 
-# Mendapatkan daftar file dalam direktori sexual
-# directory = 'sexual'
-# file_list = os.listdir(directory)
 locations = []
 list_folder = ['data/bn', 'data/lain-lain', 'data/ln', 'data/perda']
 for folder in list_folder:
@@ -19,8 +16,7 @@ for folder in list_folder:
             else:
                 locations.append("{}{}".format(root, arr))
 
-# Mengirimkan data turtle ke server
-# while len(locations) > 0:
+# send turtle files to server
 file_executed = 0
 failed_document = []
 for file_name in locations:
@@ -35,11 +31,12 @@ for file_name in locations:
             print('Failed to upload data from file {}'.format(file_name))
             failed_document.append(file_name)
 
+# failed data
 print("======================FAILED DOCUMENT============================")
 print(len(failed_document))
 for i in failed_document:
     print(i)
 
-with open("failed.txt", 'w') as f:
+with open("data/failed-to-upload.txt", 'w') as f:
     for i in failed_document:
         f.write(i)

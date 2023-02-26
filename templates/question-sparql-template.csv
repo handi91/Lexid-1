@@ -1,0 +1,415 @@
+q_pattern,query_index,query_template
+Apa pertimbangan dalam membuat legal_title?,4,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct ?answer
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+        lexid-s:considers ?answer ;
+        rdfs:label ""legal_title""^^xsd:string .
+}
+"
+Apa saja Bab yang dibahas dalam legal_title?,9,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct (concat(?contentLabel, "": "", ?contentName) as ?answer)
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+    lexid-s:hasContent ?topLevelContent ;
+    rdfs:label ""legal_title""^^xsd:string .
+    ?topLevelContent lexid-s:hasPart* ?content .
+    ?content a lexid-s:Chapter ;
+    rdfs:label ?contentLabel ;
+    lexid-s:name ?contentName .
+}
+"
+Apa saja dasar hukum dalam membuat legal_title?,5,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct (coalesce(?label , ?ans) as ?answer)
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+    lexid-s:hasLegalBasis ?ans ;
+    rdfs:label ""legal_title""^^xsd:string .
+    ?ans a lexid-s:LegalDocument .
+    OPTIONAL {
+    ?ans rdfs:label ?label .
+    }
+}
+"
+Apa saja pasal yang dihapus dalam legal_title?,14,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct ?answer
+WHERE {
+  ?legalDocument a lexid-s:LegalDocument;
+  	rdfs:label ""legal_title""^^xsd:string;
+    lexid-s:amendedBy ?amend .
+  ?amend (lexid-s:hasPart|lexid-s:hasContent)* ?child .
+  ?child lexid-s:deletes ?deleted .
+  ?deleted rdf:type lexid-s:Article ;
+           rdfs:label ?answer .               
+}
+"
+Apa saja pasal yang ditambahkan dalam legal_title?,15,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct ?answer
+WHERE {
+  ?legalDocument a lexid-s:LegalDocument;
+  	rdfs:label ""legal_title""^^xsd:string;
+    lexid-s:amendedBy ?amend .
+  ?amend (lexid-s:hasPart|lexid-s:hasContent)* ?child .
+  ?child lexid-s:adds ?added .
+  ?added lexid-s:hasAdditionContent ?addedContent .
+  ?addedContent rdf:type lexid-s:Article;
+                rdfs:label ?answer         
+}
+"
+Apa saja peraturan yang berelasi dengan legal_title?,6,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct (coalesce(?label , ?ans) as ?answer)
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+    lexid-s:hasLegalBasis
+    | lexid-s:implements
+    | lexid-s:amends
+    | lexid-s:repeals ?ans ;
+    rdfs:label ""legal_title""^^xsd:string .
+    ?ans a lexid-s:LegalDocument .
+    OPTIONAL {
+    ?ans rdfs:label ?label .
+    }
+}
+"
+Apakah legal_title masih berlaku?,17,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT (IF(count(distinct ?document) > 0, ""Tidak"", ""Ya"") as ?answer) 
+WHERE {
+  {
+    ?LegalDocument a lexid-s:LegalDocument ;
+  		rdfs:label ""legal_title""^^xsd:string ;
+    lexid-s:repealedBy ?document 
+  }
+  UNION
+  {
+    ?document a lexid-s:LegalDocument ;
+    	lexid-s:repeals ?repealed .
+    ?repealed a lexid-s:LegalDocument ;
+    	rdfs:label ""legal_title""^^xsd:string ;
+  }
+}
+"
+Apakah legal_title mengalami amandemen?,16,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT (IF(count(distinct ?amend) > 0, ""Ya"", ""Tidak"") as ?answer) 
+WHERE {
+  {
+    ?LegalDocument a lexid-s:LegalDocument ;
+  		rdfs:label ""legal_title""^^xsd:string ;
+    lexid-s:amendedBy ?amend 
+  }
+  UNION
+  {
+    ?amend a lexid-s:LegalDocument ;
+    	lexid-s:amends ?amended .
+    ?amended a lexid-s:LegalDocument ;
+    	rdfs:label ""legal_title""^^xsd:string ;
+  }
+}
+"
+Bagaimana bunyi pasal_num dalam legal_title?,11,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct (concat(coalesce(?sectionName, """"), "" "", ?ans) as ?answer)
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+    lexid-s:hasContent ?topLevelContent ;
+    rdfs:label ""legal_title""^^xsd:string .
+    ?topLevelContent lexid-s:hasPart* ?article .
+    ?article a lexid-s:Article ;
+    rdfs:label ""pasal_num""^^xsd:string .
+    {
+        {
+            ?article lexid-s:hasPart ?section .
+            ?section a lexid-s:Section ;
+            lexid-s:name ?sectionName ;
+            dct:description ?ans .
+        }
+        UNION
+        {
+            ?article dct:description ?ans .
+        }
+    }
+}
+"
+Bagaimana bunyi pasal_num ayat_num dalam legal_title?,12,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct ?answer
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+    lexid-s:hasContent ?topLevelContent ;
+    rdfs:label ""legal_title""^^xsd:string .
+    ?topLevelContent lexid-s:hasPart* ?article .
+    ?article a lexid-s:Article ;
+    rdfs:label ""pasal_num""^^xsd:string .
+    ?article lexid-s:hasPart ?section .
+    ?section a lexid-s:Section ;
+    rdfs:label ""ayat_num""^^xsd:string ;
+    dct:description ?answer .
+}
+"
+Bagaimana perubahan bunyi pasal_num ayat_num dalam legal_title?,13,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct (lcase(group_concat(distinct ?value; separator = ""\n"")) as ?answer)
+WHERE
+{
+  {
+    SELECT distinct ?year ?number ?article
+    (lcase(concat(?larticle, "" "", coalesce(?lsection, """"))) as ?lcontent) ?value
+    {
+        ?document a lexid-s:LegalDocument;
+            rdfs:label ""legal_title""^^xsd:string .
+        ?document (lexid-s:hasContent|lexid-s:hasPart)* ?parent .
+        ?document lexid-s:amendedBy ?amendment .
+        ?amendment lexid-s:hasContent ?articleI ;
+        lexid-s:regulationYear ?year ;
+        lexid-s:regulationNumber ?number .
+        ?articleI lexid-s:modifies ?modification .
+        ?modification lexid-s:hasModificationTarget ?parent ;
+        lexid-s:hasModificationContent ?content .
+        ?content lexid-s:hasPart* ?article .      
+        ?article a lexid-s:Article ;
+            rdfs:label ?larticle .
+        {
+          {
+            ?article lexid-s:hasPart ?section .
+            ?section a lexid-s:Section ;
+            rdfs:label ?lsection ;
+            dct:description ?value .
+          }
+          UNION
+          {
+            ?article dct:description ?value .
+          }
+        }
+    }
+  }
+  FILTER regex(str(?lcontent), ""pasal_num ayat_num"", ""i"")
+}
+GROUP BY ?year ?number ?article
+ORDER BY desc(?year) desc(?number)
+LIMIT 1
+"
+Berapa jumlah Pasal yang diatur dalam legal_title?,10,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT (count(?article) as ?answer)
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+    lexid-s:hasContent ?topLevelContent ;
+    rdfs:label ""legal_title""^^xsd:string .
+    ?topLevelContent lexid-s:hasPart* ?article .
+    ?article a lexid-s:Article .
+}
+"
+Kapan legal_title ditetapkan?,3,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct ?answer
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+        lexid-s:hasPromulgationDate ?answer ;
+        rdfs:label ""legal_title""^^xsd:string .
+}
+"
+Kapan legal_title diundangkan?,2,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct ?answer
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+        lexid-s:hasEnactionDate ?answer ;
+        rdfs:label ""legal_title""^^xsd:string .
+}
+"
+Peraturan manakah yang dicabut oleh legal_title?,8,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct (coalesce(?label , ?ans) as ?answer)
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+    lexid-s:repeals ?ans ;
+    rdfs:label ""legal_title""^^xsd:string .
+    ?ans a lexid-s:LegalDocument .
+    OPTIONAL {
+    ?ans rdfs:label ?label .
+    }
+}
+"
+Peraturan manakah yang diubah oleh legal_title?,7,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct (coalesce(?label , ?ans) as ?answer)
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+    lexid-s:amends ?ans ;
+    rdfs:label ""legal_title""^^xsd:string .
+    ?ans a lexid-s:LegalDocument .
+    OPTIONAL {
+    ?ans rdfs:label ?label .
+    }
+}
+"
+Siapa yang menetapkan legal_title?,1,"
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX dbo: <http://dbpedia.org/ontology/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX owl: <http://www.w3.org/2002/07/owl#> 
+PREFIX wd: <https://www.wikidata.org/wiki/> 
+PREFIX lexid-s: <https://w3id.org/lex-id/schema/> 
+PREFIX lexid: <https://w3id.org/lex-id/data/> 
+
+SELECT distinct (coalesce(?label, ?ans) as ?answer)
+WHERE {
+    ?LegalDocument a lexid-s:LegalDocument ;
+        lexid-s:hasEnactionOfficial ?ans ;
+        rdfs:label ""legal_title""^^xsd:string .
+    OPTIONAL { ?ans rdfs:label ?label .}
+}
+"

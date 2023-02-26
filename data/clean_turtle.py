@@ -24,7 +24,7 @@ for turtle_file in locations:
                 match += 1
             if re.search(r'"Pasal (\d+[A-Z]) : Pasal \1"', line):
                 match += 1
-            if re.search(r'"Pasal (\d+) : Pasal  \1"', line):
+            if re.search(r'"Pasal (\d+) : Pasal\s+\1"', line):
                 match += 1
             if re.search(r'"ayat (\d+) : \(\1\)"', line):
                 match += 1

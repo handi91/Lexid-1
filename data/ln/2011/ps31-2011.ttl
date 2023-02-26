@@ -42392,7 +42392,7 @@ lexid:PP_2011_24_Article_3 lexid-s:isPartOf lexid:PP_2011_24_Chapter_II .
 lexid:PP_2011_24_Chapter_II lexid-s:hasPart lexid:PP_2011_24_Article_3 .
 lexid:PP_2011_24_Article_3 rdf:type lexid-s:Article .
 lexid:PP_2011_24_Article_3 lexid-s:name "Pasal   3"^^xsd:string .
-lexid:PP_2011_24_Article_3 rdfs:label "Pasal 3 : Pasal   3"^^xsd:string .
+lexid:PP_2011_24_Article_3 rdfs:label "Pasal 3"^^xsd:string .
 lexid:PP_2011_24_Article_3 rdf:type lexid-s:LegalDocumentContent .
 lexid:PP_2011_24_Article_3 rdf:type owl:Thing .
 lexid:PP_2011_24_Chapter_II lexid-s:isContentOf lexid:PP_2011_24 .
